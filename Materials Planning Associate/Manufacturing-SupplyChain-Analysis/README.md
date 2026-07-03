@@ -1,7 +1,7 @@
 # Manufacturing Supply Chain & Invoice Discrepancy Analysis
 
 
-# Tools: Python, Pandas, NumPy, MySQL, Excel, Power BI, Git, GitHub
+# Tools: Python, Pandas, NumPy, MySQL, Excel, GitHub
 
 # Project Description
 
@@ -32,7 +32,6 @@ Data Cleaning
 Data Validation
 ETL
 Excel
-Power BI
 Dashboard Design
 Business Analytics
 Supply Chain Analytics
@@ -78,45 +77,6 @@ Inventory analysis
 CSV automation
 File management
 
-# Power BI Dashboards
-
-# Executive Dashboard
-Total Purchase Value
-Inventory Value
-Invoice Errors
-Supplier Count
-Pending Payments
-
-# Procurement Dashboard
-Monthly Purchase Spend
-Purchase Orders by Status
-Top Suppliers
-Purchase Trends
-
-# Supplier Dashboard
-Supplier Rating
-Lead Time
-Purchase Value
-Country-wise Suppliers
-
-# Invoice Dashboard
-Invoice Discrepancies
-Payment Status
-Invoice Trends
-Tax & Discount Analysis
-
-# Inventory Dashboard
-Warehouse Inventory
-Low Stock Alerts
-Inventory Value
-Reorder Analysis
-
-# Shipment Dashboard
-Delayed Shipments
-Shipment Status
-Average Delay
-Delivery Performance
-
 # GitHub Repository Structure
 
 Manufacturing-SupplyChain-Analysis/
@@ -157,4 +117,4 @@ Manufacturing-SupplyChain-Analysis/
 
 # GitHub README Summary
 
-Manufacturing Supply Chain & Invoice Discrepancy Analysis is an end-to-end data analytics project that simulates manufacturing operations. It includes synthetic data generation, automated data cleaning, MySQL database design, SQL business reporting, and Power BI dashboards for procurement, supplier performance, inventory management, shipment tracking, and invoice reconciliation. The project demonstrates practical analytics skills used in manufacturing, procurement, and supply chain environments.
+Manufacturing Supply Chain & Invoice Discrepancy Analysis is an end-to-end data analytics project that simulates manufacturing operations. It includes synthetic data generation, automated data cleaning, MySQL database design, SQL business reporting The project demonstrates practical analytics skills used in manufacturing, procurement, and supply chain environments.
