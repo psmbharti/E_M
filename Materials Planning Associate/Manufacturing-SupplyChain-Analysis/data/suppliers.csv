@@ -1,0 +1,51 @@
+Supplier_ID,Supplier_Name,Country,Category,Lead_Time_Days,Supplier_Rating
+SUP001,"Huynh, Lopez and Jones",Canada,Electronics,11,3.9
+SUP002,"Cooper, Monroe and Gutierrez",Mexico,Plastic,6,4.5
+SUP003,Hamilton LLC,Canada,Chemicals,16,3.5
+SUP004,Miller and Sons,Canada,Mechanical,10,4.3
+SUP005,Tate PLC,USA,Chemicals,9,4.6
+SUP006,Elliott-Carr,Japan,Mechanical,17,4.4
+SUP007,Barnett Ltd,USA,Mechanical,25,4.1
+SUP008,Black-Figueroa,India,Mechanical,9,4.9
+SUP009,French-Johnson,China,Electronics,5,4.1
+SUP010,"Miller, Jones and Washington",China,Packaging,22,3.9
+SUP011,Miller-Lawrence,USA,Plastic,17,4.3
+SUP012,Willis-Nicholson,Japan,Electronics,20,3.9
+SUP013,Rodriguez-Harris,China,Chemicals,9,4.6
+SUP014,"Wiggins, Flores and Wright",USA,Plastic,10,4.7
+SUP015,Quinn LLC,Canada,Mechanical,6,4.1
+SUP016,Rodriguez Ltd,South Korea,Plastic,14,3.7
+SUP017,Velez PLC,China,Mechanical,24,3.9
+SUP018,Delgado-Smith,Canada,Chemicals,23,3.8
+SUP019,Mitchell LLC,Germany,Mechanical,17,4.1
+SUP020,"Scott, Brooks and Howell",Germany,Plastic,13,4.8
+SUP021,"Berg, Caldwell and Wood",USA,Mechanical,4,4.7
+SUP022,"Duncan, Fry and Wade",Japan,Packaging,5,3.8
+SUP023,"Morris, Richards and Martin",China,Mechanical,23,4.2
+SUP024,"Meyer, Ellis and Garcia",South Korea,Mechanical,11,3.7
+SUP025,Webb-Robinson,India,Plastic,21,4.1
+SUP026,Galvan-Brown,Japan,Packaging,10,5.0
+SUP027,Zimmerman Group,Mexico,Chemicals,18,3.6
+SUP028,Owen LLC,USA,Electronics,7,4.4
+SUP029,"Klein, Hayes and Short",Japan,Chemicals,5,4.1
+SUP030,"Anderson, Little and Woodward",South Korea,Chemicals,11,5.0
+SUP031,Harris-Shelton,USA,Plastic,6,4.5
+SUP032,"Gonzales, Patterson and Clark",India,Plastic,13,3.7
+SUP033,Snyder-Davis,Japan,Mechanical,17,3.5
+SUP034,"Johnson, Terrell and Moore",India,Chemicals,8,4.3
+SUP035,White LLC,Canada,Plastic,12,4.8
+SUP036,Hunt LLC,Germany,Mechanical,14,4.6
+SUP037,"Reyes, Perez and Morgan",USA,Chemicals,13,4.2
+SUP038,"Williams, Chavez and Barker",Canada,Packaging,12,3.9
+SUP039,Williams-Cruz,Germany,Chemicals,5,3.6
+SUP040,"Mills, Russell and Fischer",South Korea,Electronics,20,4.6
+SUP041,"Banks, Carter and Alexander",Mexico,Plastic,18,4.9
+SUP042,Lindsey and Sons,Mexico,Packaging,19,4.8
+SUP043,Santos and Sons,Japan,Mechanical,20,4.6
+SUP044,Adams-Day,Germany,Plastic,12,4.1
+SUP045,Martinez-Warren,China,Raw Materials,19,4.2
+SUP046,Moody-Moore,Germany,Mechanical,5,4.0
+SUP047,"Davis, Ross and Gillespie",Germany,Chemicals,10,3.5
+SUP048,Valdez Inc,USA,Mechanical,5,4.9
+SUP049,Gallagher-Crane,China,Electronics,19,3.9
+SUP050,Garrison-Fowler,South Korea,Mechanical,20,3.7

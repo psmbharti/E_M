@@ -1,0 +1,201 @@
+Item_ID,Material,Warehouse,Stock,Reorder_Level,Inventory_Value
+ITM0001,Rubber Seal,Phoenix,488,111,58560
+ITM0002,Sensor,Atlanta,69,62,10626
+ITM0003,Transformer,Phoenix,923,170,143988
+ITM0004,Steel Rod,Chicago,887,77,204010
+ITM0005,Circuit Board,Atlanta,764,143,306364
+ITM0006,Sensor,Phoenix,66,152,2376
+ITM0007,Rubber Seal,New York,219,142,64167
+ITM0008,Copper Wire,Phoenix,415,179,99600
+ITM0009,Circuit Board,Dallas,865,80,64875
+ITM0010,Bearing,New York,402,136,118590
+ITM0011,Plastic Sheet,Phoenix,223,180,47945
+ITM0012,Steel Rod,New York,66,59,5280
+ITM0013,Aluminum Plate,Phoenix,551,166,47386
+ITM0014,Rubber Seal,Phoenix,163,133,79218
+ITM0015,Sensor,New York,186,150,60450
+ITM0016,Transformer,Phoenix,364,179,157976
+ITM0017,Rubber Seal,Atlanta,521,194,84923
+ITM0018,Steel Rod,Dallas,397,134,140538
+ITM0019,Bearing,Dallas,617,128,257289
+ITM0020,Transformer,Phoenix,505,117,174225
+ITM0021,Transformer,Atlanta,253,63,77924
+ITM0022,Plastic Sheet,Chicago,556,147,47260
+ITM0023,Steel Rod,Dallas,606,78,64842
+ITM0024,Aluminum Plate,Atlanta,341,157,29667
+ITM0025,Motor,Phoenix,440,178,178640
+ITM0026,Aluminum Plate,Chicago,913,65,338723
+ITM0027,Rubber Seal,Atlanta,232,193,40832
+ITM0028,Rubber Seal,Chicago,405,130,202095
+ITM0029,Aluminum Plate,Phoenix,954,186,176490
+ITM0030,Sensor,Atlanta,712,117,229264
+ITM0031,Motor,Phoenix,1000,113,152000
+ITM0032,Circuit Board,New York,250,126,101000
+ITM0033,Motor,Atlanta,726,175,124872
+ITM0034,Sensor,Dallas,593,120,93101
+ITM0035,Transformer,Atlanta,712,189,145248
+ITM0036,Sensor,Dallas,997,87,157526
+ITM0037,Circuit Board,Atlanta,998,70,186626
+ITM0038,Circuit Board,Chicago,785,172,93415
+ITM0039,Rubber Seal,New York,297,193,108702
+ITM0040,Plastic Sheet,Chicago,131,200,17292
+ITM0041,Steel Rod,Chicago,705,185,88125
+ITM0042,Steel Rod,Atlanta,122,155,21838
+ITM0043,Copper Wire,Phoenix,717,85,8604
+ITM0044,Plastic Sheet,Chicago,436,171,110744
+ITM0045,Circuit Board,Dallas,348,123,118320
+ITM0046,Copper Wire,Phoenix,687,196,87936
+ITM0047,Steel Rod,Chicago,955,94,212965
+ITM0048,Steel Rod,Atlanta,876,151,361788
+ITM0049,Plastic Sheet,Dallas,979,124,448382
+ITM0050,Steel Rod,Dallas,325,195,103350
+ITM0051,Sensor,Phoenix,311,166,105118
+ITM0052,Rubber Seal,Phoenix,525,84,233625
+ITM0053,Aluminum Plate,Dallas,299,99,126776
+ITM0054,Sensor,New York,186,167,63426
+ITM0055,Plastic Sheet,New York,34,136,14076
+ITM0056,Transformer,Phoenix,710,99,70290
+ITM0057,Bearing,New York,866,159,236418
+ITM0058,Copper Wire,Chicago,430,74,44720
+ITM0059,Aluminum Plate,New York,351,113,4563
+ITM0060,Bearing,New York,261,164,103095
+ITM0061,Sensor,Phoenix,329,199,125020
+ITM0062,Steel Rod,Chicago,287,142,104468
+ITM0063,Steel Rod,New York,703,80,174344
+ITM0064,Plastic Sheet,New York,435,178,209670
+ITM0065,Copper Wire,Phoenix,674,125,133452
+ITM0066,Motor,Chicago,244,84,61976
+ITM0067,Aluminum Plate,Phoenix,785,145,174270
+ITM0068,Aluminum Plate,Chicago,795,187,333900
+ITM0069,Motor,Atlanta,716,70,199764
+ITM0070,Rubber Seal,Phoenix,740,142,36260
+ITM0071,Copper Wire,Phoenix,83,190,39176
+ITM0072,Motor,Chicago,606,187,52116
+ITM0073,Sensor,Dallas,894,183,210984
+ITM0074,Motor,Dallas,754,199,196040
+ITM0075,Rubber Seal,Chicago,476,64,115192
+ITM0076,Rubber Seal,Dallas,445,166,132610
+ITM0077,Rubber Seal,Dallas,493,128,187340
+ITM0078,Bearing,Chicago,280,50,109480
+ITM0079,Transformer,New York,94,61,21244
+ITM0080,Copper Wire,Dallas,574,65,280112
+ITM0081,Aluminum Plate,Chicago,52,123,11388
+ITM0082,Plastic Sheet,Atlanta,804,157,161604
+ITM0083,Aluminum Plate,Dallas,910,146,183820
+ITM0084,Rubber Seal,Chicago,156,139,10920
+ITM0085,Rubber Seal,Chicago,422,185,31650
+ITM0086,Steel Rod,Atlanta,794,55,128628
+ITM0087,Rubber Seal,Chicago,454,186,92616
+ITM0088,Motor,New York,491,138,43699
+ITM0089,Motor,Atlanta,979,78,25454
+ITM0090,Transformer,Chicago,804,54,106932
+ITM0091,Copper Wire,Phoenix,123,58,29274
+ITM0092,Steel Rod,Atlanta,270,61,58050
+ITM0093,Motor,Dallas,572,105,226512
+ITM0094,Plastic Sheet,Phoenix,535,124,69015
+ITM0095,Sensor,New York,611,132,80041
+ITM0096,Plastic Sheet,Atlanta,696,183,85608
+ITM0097,Circuit Board,Phoenix,301,65,88795
+ITM0098,Plastic Sheet,Atlanta,661,159,194334
+ITM0099,Steel Rod,Phoenix,372,147,153264
+ITM0100,Sensor,Chicago,733,156,160527
+ITM0101,Circuit Board,Phoenix,405,97,160380
+ITM0102,Aluminum Plate,Chicago,266,107,43358
+ITM0103,Aluminum Plate,Atlanta,956,64,283932
+ITM0104,Bearing,Atlanta,590,185,46020
+ITM0105,Motor,Dallas,281,102,50299
+ITM0106,Aluminum Plate,Phoenix,887,144,50559
+ITM0107,Motor,Phoenix,72,118,14616
+ITM0108,Transformer,Phoenix,60,68,6360
+ITM0109,Rubber Seal,New York,242,172,28072
+ITM0110,Circuit Board,Chicago,999,53,117882
+ITM0111,Copper Wire,Chicago,784,172,374752
+ITM0112,Transformer,Chicago,740,102,157620
+ITM0113,Rubber Seal,Atlanta,349,122,71196
+ITM0114,Rubber Seal,New York,684,141,114228
+ITM0115,Sensor,Dallas,545,177,135160
+ITM0116,Aluminum Plate,Chicago,799,131,381922
+ITM0117,Sensor,Phoenix,340,155,11220
+ITM0118,Motor,New York,779,87,14022
+ITM0119,Rubber Seal,Atlanta,977,199,298962
+ITM0120,Circuit Board,Chicago,176,100,31328
+ITM0121,Bearing,Phoenix,603,112,159795
+ITM0122,Sensor,Atlanta,283,175,107540
+ITM0123,Aluminum Plate,Chicago,192,140,18432
+ITM0124,Rubber Seal,Phoenix,520,97,249080
+ITM0125,Steel Rod,Dallas,556,58,244084
+ITM0126,Steel Rod,Chicago,802,51,177242
+ITM0127,Motor,Chicago,89,88,1246
+ITM0128,Rubber Seal,Phoenix,486,145,19440
+ITM0129,Transformer,Atlanta,954,173,331038
+ITM0130,Steel Rod,Atlanta,26,186,7592
+ITM0131,Steel Rod,New York,37,185,14023
+ITM0132,Rubber Seal,Atlanta,313,54,83571
+ITM0133,Plastic Sheet,Chicago,129,74,35862
+ITM0134,Motor,New York,216,184,30024
+ITM0135,Circuit Board,New York,834,151,41700
+ITM0136,Bearing,Chicago,490,194,65660
+ITM0137,Circuit Board,Dallas,720,70,247680
+ITM0138,Copper Wire,Phoenix,435,147,88305
+ITM0139,Aluminum Plate,Chicago,77,52,28413
+ITM0140,Copper Wire,New York,531,161,180540
+ITM0141,Transformer,Phoenix,898,74,420264
+ITM0142,Steel Rod,Phoenix,255,104,120105
+ITM0143,Aluminum Plate,Dallas,297,61,143451
+ITM0144,Circuit Board,Dallas,940,189,280120
+ITM0145,Plastic Sheet,Chicago,971,130,17478
+ITM0146,Transformer,Dallas,167,151,80995
+ITM0147,Circuit Board,Phoenix,186,194,24738
+ITM0148,Bearing,Atlanta,713,188,127627
+ITM0149,Plastic Sheet,New York,829,70,220514
+ITM0150,Steel Rod,Dallas,120,161,15360
+ITM0151,Sensor,New York,639,151,259434
+ITM0152,Steel Rod,Atlanta,669,119,274959
+ITM0153,Aluminum Plate,Atlanta,253,141,74129
+ITM0154,Bearing,Atlanta,210,199,73080
+ITM0155,Copper Wire,Chicago,810,125,338580
+ITM0156,Copper Wire,Atlanta,104,118,9152
+ITM0157,Plastic Sheet,New York,777,149,133644
+ITM0158,Copper Wire,New York,113,51,55596
+ITM0159,Aluminum Plate,Chicago,388,119,24056
+ITM0160,Copper Wire,Phoenix,211,160,50429
+ITM0161,Rubber Seal,Dallas,544,154,33728
+ITM0162,Copper Wire,Phoenix,382,191,21774
+ITM0163,Transformer,Atlanta,823,133,371996
+ITM0164,Steel Rod,Dallas,318,155,66144
+ITM0165,Rubber Seal,Phoenix,946,112,285692
+ITM0166,Plastic Sheet,Chicago,721,147,69216
+ITM0167,Circuit Board,Chicago,328,118,85936
+ITM0168,Copper Wire,Atlanta,191,161,28841
+ITM0169,Circuit Board,New York,515,69,99910
+ITM0170,Motor,Phoenix,758,176,238012
+ITM0171,Motor,New York,488,77,38552
+ITM0172,Steel Rod,Phoenix,991,151,178380
+ITM0173,Bearing,New York,843,134,198105
+ITM0174,Bearing,New York,855,84,139365
+ITM0175,Transformer,New York,990,101,252450
+ITM0176,Plastic Sheet,Atlanta,427,131,67893
+ITM0177,Transformer,Atlanta,820,112,144320
+ITM0178,Circuit Board,Dallas,856,150,167776
+ITM0179,Transformer,Phoenix,224,189,22848
+ITM0180,Steel Rod,Chicago,995,168,489540
+ITM0181,Aluminum Plate,Dallas,836,124,363660
+ITM0182,Bearing,New York,709,177,57429
+ITM0183,Motor,Atlanta,278,89,104528
+ITM0184,Bearing,Atlanta,95,164,30020
+ITM0185,Transformer,Atlanta,430,186,115670
+ITM0186,Rubber Seal,Phoenix,57,142,21033
+ITM0187,Transformer,Chicago,673,71,43745
+ITM0188,Sensor,Atlanta,190,61,56620
+ITM0189,Sensor,Dallas,835,160,53440
+ITM0190,Copper Wire,Phoenix,284,106,76964
+ITM0191,Rubber Seal,Atlanta,614,197,75522
+ITM0192,Sensor,Phoenix,420,168,170100
+ITM0193,Rubber Seal,Atlanta,174,138,3828
+ITM0194,Copper Wire,Dallas,322,156,154882
+ITM0195,Copper Wire,New York,871,86,163748
+ITM0196,Sensor,Atlanta,486,102,134136
+ITM0197,Sensor,Atlanta,507,74,118638
+ITM0198,Sensor,Dallas,88,126,2816
+ITM0199,Steel Rod,Dallas,889,137,303149
+ITM0200,Plastic Sheet,Chicago,972,112,266328
