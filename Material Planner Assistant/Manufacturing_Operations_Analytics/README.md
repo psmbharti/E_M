@@ -1,4 +1,4 @@
-📦 Manufacturing Operations \& Supply Chain Analytics Dashboard
+📦 Manufacturing Operations \& Supply Chain Analytics 
 
 📊 Project Overview
 
