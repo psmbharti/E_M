@@ -1,0 +1,501 @@
+SO_Number,Customer,Sales_Date,Product,Order_Qty,Sales_Amount,Status
+SO0001,Apple,2026-01-20,Storage Rack,244,55144,Cancelled
+SO0002,Tesla,2026-03-14,Computer Desk,329,29939,Cancelled
+SO0003,Dell,2025-07-08,Storage Rack,365,51465,Cancelled
+SO0004,Dell,2026-05-27,Office Chair,134,19162,Completed
+SO0005,HP,2026-04-02,Office Chair,495,106920,Cancelled
+SO0006,Target,2026-02-26,Workbench,290,66990,Cancelled
+SO0007,Costco,2026-01-09,Locker,469,98490,Open
+SO0008,Samsung,2026-05-10,Wooden Table,201,38994,Cancelled
+SO0009,Costco,2026-02-11,Locker,151,35183,Completed
+SO0010,Apple,2025-12-22,Metal Shelf,486,106920,Open
+SO0011,Tesla,2026-02-21,Filing Cabinet,368,73968,Cancelled
+SO0012,Costco,2026-04-08,Filing Cabinet,471,43332,Open
+SO0013,Best Buy,2026-03-13,Locker,65,5915,Cancelled
+SO0014,Dell,2026-06-21,Locker,331,45347,Completed
+SO0015,Costco,2025-12-13,Storage Rack,295,41595,Cancelled
+SO0016,Target,2026-02-25,Locker,97,22019,Cancelled
+SO0017,Apple,2026-03-01,Workbench,444,87912,Completed
+SO0018,Best Buy,2025-12-23,Wooden Table,438,42924,Completed
+SO0019,Amazon,2025-11-27,Tool Box,297,68013,Completed
+SO0020,Best Buy,2025-08-12,Workbench,352,46816,Open
+SO0021,Apple,2026-01-24,Computer Desk,454,93070,Cancelled
+SO0022,Dell,2026-06-02,Steel Cabinet,312,74880,Cancelled
+SO0023,Dell,2025-12-26,Steel Cabinet,226,51302,Cancelled
+SO0024,Target,2026-05-26,Wooden Table,100,11400,Cancelled
+SO0025,Best Buy,2026-01-27,Office Chair,371,89040,Cancelled
+SO0026,Costco,2026-04-30,Wooden Table,191,33616,Open
+SO0027,Tesla,2025-08-08,Filing Cabinet,444,72816,Completed
+SO0028,Target,2026-06-04,Workbench,422,64566,Cancelled
+SO0029,Tesla,2026-02-07,Tool Box,351,78624,Completed
+SO0030,Walmart,2025-07-14,Storage Rack,252,35784,Completed
+SO0031,Apple,2025-12-05,Filing Cabinet,87,20010,Completed
+SO0032,Target,2025-08-09,Wooden Table,438,44676,Cancelled
+SO0033,Dell,2026-01-21,Steel Cabinet,386,73726,Completed
+SO0034,Target,2025-10-08,Workbench,99,14058,Completed
+SO0035,Samsung,2025-07-10,Steel Cabinet,463,93989,Completed
+SO0036,Amazon,2026-01-05,Steel Cabinet,59,9617,Open
+SO0037,Target,2025-12-17,Steel Cabinet,278,65330,Cancelled
+SO0038,Samsung,2025-10-29,Steel Cabinet,234,31122,Completed
+SO0039,Target,2026-06-19,Steel Cabinet,109,17222,Cancelled
+SO0040,Target,2026-01-21,Filing Cabinet,311,75262,Open
+SO0041,Amazon,2026-01-09,Metal Shelf,195,26715,Completed
+SO0042,Samsung,2026-01-05,Metal Shelf,465,40455,Completed
+SO0043,Best Buy,2026-03-10,Tool Box,391,91103,Cancelled
+SO0044,Costco,2025-07-28,Metal Shelf,362,56834,Completed
+SO0045,Tesla,2026-04-08,Metal Shelf,489,59658,Completed
+SO0046,HP,2026-02-26,Office Chair,368,62560,Cancelled
+SO0047,Tesla,2025-11-09,Wooden Table,301,54481,Open
+SO0048,Costco,2025-10-23,Filing Cabinet,257,52171,Open
+SO0049,HP,2026-03-10,Tool Box,453,105096,Cancelled
+SO0050,Walmart,2026-03-14,Computer Desk,65,6305,Cancelled
+SO0051,Samsung,2026-02-10,Workbench,147,31605,Completed
+SO0052,Walmart,2025-10-31,Computer Desk,182,33852,Open
+SO0053,Walmart,2025-08-10,Storage Rack,386,32810,Open
+SO0054,Dell,2026-03-13,Wooden Table,380,60800,Completed
+SO0055,HP,2025-11-04,Locker,148,22348,Completed
+SO0056,Apple,2026-03-20,Filing Cabinet,156,17628,Completed
+SO0057,Apple,2025-10-02,Filing Cabinet,419,52794,Cancelled
+SO0058,Best Buy,2025-10-10,Workbench,286,22880,Cancelled
+SO0059,Dell,2026-03-17,Computer Desk,104,14456,Cancelled
+SO0060,Samsung,2025-08-01,Computer Desk,155,28675,Completed
+SO0061,Amazon,2025-10-24,Computer Desk,219,29127,Cancelled
+SO0062,Best Buy,2026-05-25,Filing Cabinet,203,24969,Cancelled
+SO0063,Apple,2026-06-21,Workbench,400,50800,Cancelled
+SO0064,Costco,2025-08-03,Wooden Table,194,39576,Open
+SO0065,Dell,2026-01-22,Locker,324,47304,Cancelled
+SO0066,HP,2025-08-12,Office Chair,474,109494,Completed
+SO0067,Samsung,2025-09-14,Metal Shelf,390,44070,Cancelled
+SO0068,HP,2026-01-12,Wooden Table,260,50960,Completed
+SO0069,Amazon,2025-09-28,Filing Cabinet,95,11400,Cancelled
+SO0070,Best Buy,2025-11-24,Computer Desk,386,53268,Completed
+SO0071,HP,2026-07-02,Office Chair,248,43896,Open
+SO0072,Target,2026-06-18,Storage Rack,280,53200,Open
+SO0073,Walmart,2025-11-04,Metal Shelf,151,18120,Completed
+SO0074,Target,2025-12-17,Filing Cabinet,124,22816,Completed
+SO0075,Samsung,2025-10-25,Workbench,394,46492,Cancelled
+SO0076,Best Buy,2025-09-10,Wooden Table,261,62118,Completed
+SO0077,Costco,2026-06-08,Filing Cabinet,346,85808,Open
+SO0078,Amazon,2025-08-18,Steel Cabinet,242,34848,Completed
+SO0079,Dell,2025-07-25,Locker,468,100620,Open
+SO0080,Tesla,2026-06-18,Metal Shelf,335,79730,Open
+SO0081,Apple,2025-12-27,Storage Rack,228,43092,Cancelled
+SO0082,Best Buy,2026-06-12,Steel Cabinet,323,56848,Cancelled
+SO0083,Walmart,2025-12-10,Tool Box,364,47684,Completed
+SO0084,Amazon,2026-03-04,Tool Box,125,16500,Cancelled
+SO0085,Best Buy,2026-06-13,Computer Desk,92,10028,Cancelled
+SO0086,HP,2026-04-09,Storage Rack,328,30504,Open
+SO0087,Apple,2025-07-03,Computer Desk,162,37908,Completed
+SO0088,Dell,2026-05-31,Office Chair,203,47299,Cancelled
+SO0089,Amazon,2025-11-26,Tool Box,426,61770,Open
+SO0090,Best Buy,2025-09-23,Storage Rack,465,98580,Completed
+SO0091,Tesla,2026-03-29,Metal Shelf,383,94984,Open
+SO0092,Tesla,2025-09-25,Filing Cabinet,102,15504,Cancelled
+SO0093,Dell,2026-01-26,Storage Rack,330,68640,Open
+SO0094,HP,2025-10-06,Tool Box,500,82500,Open
+SO0095,Amazon,2025-08-16,Locker,381,95250,Completed
+SO0096,HP,2025-11-05,Steel Cabinet,411,97818,Completed
+SO0097,Dell,2026-04-07,Computer Desk,133,23940,Cancelled
+SO0098,Tesla,2025-12-29,Locker,417,94242,Completed
+SO0099,Costco,2025-07-20,Filing Cabinet,293,48345,Cancelled
+SO0100,Walmart,2026-04-17,Locker,471,104091,Completed
+SO0101,Dell,2026-03-19,Storage Rack,446,38802,Completed
+SO0102,Target,2025-11-27,Office Chair,477,71550,Completed
+SO0103,Samsung,2025-11-14,Metal Shelf,64,15168,Completed
+SO0104,Costco,2026-04-22,Filing Cabinet,96,10368,Open
+SO0105,Apple,2026-01-10,Tool Box,102,20706,Completed
+SO0106,Amazon,2026-03-14,Tool Box,104,20696,Open
+SO0107,Best Buy,2026-04-02,Computer Desk,283,41318,Open
+SO0108,Amazon,2026-06-13,Locker,317,44697,Completed
+SO0109,Dell,2026-05-16,Steel Cabinet,383,95750,Open
+SO0110,Tesla,2026-04-11,Storage Rack,141,23124,Cancelled
+SO0111,Costco,2025-10-31,Metal Shelf,194,16102,Open
+SO0112,Apple,2025-09-03,Office Chair,486,108864,Open
+SO0113,Costco,2025-10-16,Steel Cabinet,443,63792,Completed
+SO0114,HP,2025-09-07,Wooden Table,246,23370,Open
+SO0115,Amazon,2025-11-24,Office Chair,102,11628,Open
+SO0116,Tesla,2025-08-23,Steel Cabinet,227,46081,Cancelled
+SO0117,Costco,2025-11-30,Filing Cabinet,74,14948,Cancelled
+SO0118,Apple,2025-11-17,Tool Box,273,50778,Completed
+SO0119,Best Buy,2025-09-13,Workbench,333,47286,Completed
+SO0120,Walmart,2026-05-30,Storage Rack,126,14364,Completed
+SO0121,Amazon,2025-09-10,Steel Cabinet,278,52820,Open
+SO0122,Tesla,2026-03-16,Wooden Table,446,88308,Cancelled
+SO0123,Dell,2026-05-20,Storage Rack,235,42065,Cancelled
+SO0124,Walmart,2025-08-10,Office Chair,78,9360,Cancelled
+SO0125,Walmart,2026-06-09,Computer Desk,500,67500,Open
+SO0126,Dell,2026-01-06,Storage Rack,238,36414,Open
+SO0127,Dell,2026-03-06,Filing Cabinet,247,44707,Open
+SO0128,Apple,2026-05-11,Locker,404,71912,Cancelled
+SO0129,Best Buy,2025-09-04,Office Chair,157,13188,Cancelled
+SO0130,Dell,2025-11-28,Computer Desk,118,18644,Open
+SO0131,Walmart,2025-07-08,Filing Cabinet,263,56019,Open
+SO0132,Best Buy,2025-10-03,Workbench,479,101548,Cancelled
+SO0133,Dell,2025-08-12,Wooden Table,420,104160,Completed
+SO0134,HP,2026-04-26,Office Chair,364,39676,Cancelled
+SO0135,Tesla,2025-11-14,Tool Box,80,10720,Open
+SO0136,Apple,2026-05-30,Wooden Table,330,40590,Open
+SO0137,Best Buy,2026-06-03,Filing Cabinet,199,28258,Completed
+SO0138,Dell,2026-01-15,Storage Rack,256,49152,Completed
+SO0139,Apple,2025-09-20,Steel Cabinet,237,48585,Open
+SO0140,Costco,2025-07-20,Wooden Table,65,6630,Completed
+SO0141,Tesla,2025-09-13,Storage Rack,167,28223,Cancelled
+SO0142,Apple,2026-03-17,Steel Cabinet,210,26460,Open
+SO0143,Samsung,2026-04-27,Workbench,379,78832,Open
+SO0144,Target,2025-09-15,Steel Cabinet,273,43680,Completed
+SO0145,Apple,2026-06-27,Tool Box,247,28158,Completed
+SO0146,HP,2025-08-07,Filing Cabinet,465,54405,Cancelled
+SO0147,Amazon,2025-08-07,Computer Desk,120,12960,Cancelled
+SO0148,Tesla,2025-12-03,Steel Cabinet,209,36993,Open
+SO0149,Best Buy,2026-06-26,Steel Cabinet,70,8820,Completed
+SO0150,Samsung,2025-10-09,Office Chair,339,65766,Open
+SO0151,Tesla,2025-10-03,Office Chair,458,113584,Cancelled
+SO0152,Apple,2026-02-16,Storage Rack,190,47500,Cancelled
+SO0153,Amazon,2025-09-21,Office Chair,365,90885,Cancelled
+SO0154,Dell,2025-07-07,Storage Rack,407,90761,Open
+SO0155,Costco,2025-07-19,Tool Box,53,5830,Open
+SO0156,Amazon,2026-06-11,Computer Desk,186,31434,Completed
+SO0157,Tesla,2026-06-02,Steel Cabinet,485,91665,Open
+SO0158,Amazon,2026-01-30,Office Chair,199,20696,Cancelled
+SO0159,Apple,2026-03-07,Steel Cabinet,448,100352,Completed
+SO0160,Tesla,2026-03-22,Steel Cabinet,487,78894,Completed
+SO0161,Walmart,2025-08-20,Filing Cabinet,181,28960,Cancelled
+SO0162,Costco,2026-05-28,Locker,346,83732,Open
+SO0163,Target,2025-12-24,Tool Box,320,59840,Open
+SO0164,Tesla,2026-03-16,Storage Rack,363,64251,Open
+SO0165,Amazon,2026-01-18,Steel Cabinet,438,45114,Completed
+SO0166,Target,2025-11-18,Locker,443,109421,Cancelled
+SO0167,Tesla,2026-06-02,Tool Box,219,50151,Completed
+SO0168,Samsung,2025-08-12,Metal Shelf,55,7810,Cancelled
+SO0169,Samsung,2026-03-21,Steel Cabinet,458,104424,Cancelled
+SO0170,Walmart,2025-09-27,Workbench,456,66576,Open
+SO0171,Best Buy,2025-08-10,Computer Desk,263,28930,Open
+SO0172,Samsung,2026-01-25,Wooden Table,458,65036,Completed
+SO0173,Dell,2026-02-19,Computer Desk,476,48076,Completed
+SO0174,HP,2025-10-25,Tool Box,431,48703,Open
+SO0175,Costco,2025-12-17,Tool Box,306,27234,Cancelled
+SO0176,Best Buy,2025-07-28,Wooden Table,473,86559,Open
+SO0177,Samsung,2025-11-15,Steel Cabinet,191,26549,Completed
+SO0178,Best Buy,2026-01-24,Tool Box,151,14345,Cancelled
+SO0179,Tesla,2025-09-12,Wooden Table,132,21780,Completed
+SO0180,Amazon,2026-03-26,Filing Cabinet,108,21600,Completed
+SO0181,Tesla,2025-09-03,Locker,297,43065,Open
+SO0182,Dell,2026-06-09,Wooden Table,422,97904,Completed
+SO0183,Tesla,2025-12-29,Locker,194,47142,Open
+SO0184,Dell,2025-10-17,Steel Cabinet,50,9150,Cancelled
+SO0185,Dell,2026-04-17,Storage Rack,100,14600,Open
+SO0186,Target,2026-04-11,Tool Box,134,29346,Open
+SO0187,Dell,2026-02-01,Locker,175,14175,Completed
+SO0188,Costco,2025-12-14,Steel Cabinet,433,42434,Cancelled
+SO0189,Samsung,2025-10-14,Steel Cabinet,258,31218,Open
+SO0190,Walmart,2026-05-25,Storage Rack,130,30680,Open
+SO0191,HP,2026-04-26,Wooden Table,401,48521,Completed
+SO0192,Tesla,2026-06-05,Workbench,422,100014,Cancelled
+SO0193,Target,2026-06-25,Wooden Table,439,70679,Open
+SO0194,Amazon,2025-08-29,Locker,288,41472,Open
+SO0195,HP,2026-03-11,Tool Box,415,50630,Cancelled
+SO0196,Tesla,2026-01-30,Steel Cabinet,270,61560,Cancelled
+SO0197,Best Buy,2026-06-23,Computer Desk,96,16512,Completed
+SO0198,Apple,2025-07-19,Locker,447,86271,Cancelled
+SO0199,Samsung,2025-12-08,Tool Box,51,4998,Open
+SO0200,Walmart,2025-08-21,Filing Cabinet,432,35424,Open
+SO0201,Costco,2026-03-19,Locker,234,56862,Cancelled
+SO0202,Amazon,2025-11-02,Tool Box,294,64386,Completed
+SO0203,Costco,2025-09-10,Steel Cabinet,58,12760,Open
+SO0204,Tesla,2026-05-02,Computer Desk,137,32606,Completed
+SO0205,Tesla,2025-09-01,Locker,423,71064,Cancelled
+SO0206,Apple,2026-02-04,Filing Cabinet,488,80032,Completed
+SO0207,Costco,2025-12-26,Tool Box,301,57491,Completed
+SO0208,Best Buy,2025-08-16,Workbench,163,37001,Completed
+SO0209,Target,2025-10-02,Metal Shelf,374,82654,Open
+SO0210,Costco,2025-08-26,Storage Rack,498,90138,Open
+SO0211,Dell,2025-08-14,Locker,59,6962,Completed
+SO0212,Dell,2026-03-26,Workbench,338,49348,Open
+SO0213,Best Buy,2026-06-30,Metal Shelf,451,38786,Completed
+SO0214,Apple,2025-11-28,Filing Cabinet,177,24603,Cancelled
+SO0215,Samsung,2025-10-09,Computer Desk,145,18270,Completed
+SO0216,Amazon,2026-01-11,Tool Box,252,24948,Cancelled
+SO0217,Samsung,2025-09-18,Steel Cabinet,219,47961,Cancelled
+SO0218,Dell,2026-05-24,Tool Box,88,21560,Completed
+SO0219,Samsung,2026-07-02,Office Chair,173,26123,Open
+SO0220,HP,2026-04-07,Wooden Table,479,111128,Cancelled
+SO0221,Target,2025-11-28,Filing Cabinet,377,45994,Open
+SO0222,Best Buy,2025-11-07,Storage Rack,270,52110,Open
+SO0223,HP,2026-07-02,Office Chair,399,99351,Cancelled
+SO0224,Costco,2025-10-18,Locker,158,39342,Open
+SO0225,Best Buy,2026-04-15,Storage Rack,454,79450,Completed
+SO0226,Walmart,2025-11-14,Tool Box,499,116766,Completed
+SO0227,Dell,2025-07-04,Tool Box,147,14259,Cancelled
+SO0228,Tesla,2026-06-21,Steel Cabinet,263,47603,Open
+SO0229,Tesla,2026-04-28,Steel Cabinet,301,55685,Cancelled
+SO0230,Apple,2025-10-13,Tool Box,96,11904,Open
+SO0231,HP,2025-07-11,Wooden Table,475,42750,Completed
+SO0232,Best Buy,2025-10-01,Steel Cabinet,96,16704,Cancelled
+SO0233,Costco,2025-11-15,Locker,474,56406,Completed
+SO0234,Best Buy,2025-12-22,Steel Cabinet,213,19809,Open
+SO0235,Samsung,2026-02-07,Office Chair,368,92000,Open
+SO0236,Target,2026-04-07,Metal Shelf,194,22504,Open
+SO0237,Costco,2026-03-28,Workbench,400,33600,Completed
+SO0238,Target,2025-07-03,Storage Rack,280,27160,Cancelled
+SO0239,Samsung,2025-07-31,Locker,497,53676,Open
+SO0240,Tesla,2026-05-05,Office Chair,63,12348,Completed
+SO0241,Samsung,2025-11-20,Metal Shelf,211,51484,Completed
+SO0242,HP,2026-01-29,Storage Rack,349,79223,Open
+SO0243,Dell,2025-09-15,Tool Box,166,32536,Open
+SO0244,Best Buy,2025-09-12,Locker,355,76680,Open
+SO0245,Target,2025-08-06,Metal Shelf,469,75509,Cancelled
+SO0246,Walmart,2025-10-31,Wooden Table,467,47167,Open
+SO0247,Dell,2026-03-07,Tool Box,395,98355,Cancelled
+SO0248,Walmart,2025-09-12,Metal Shelf,119,12138,Open
+SO0249,Apple,2025-12-25,Metal Shelf,338,49686,Cancelled
+SO0250,HP,2026-02-15,Office Chair,467,85928,Completed
+SO0251,Apple,2026-01-22,Storage Rack,462,90090,Open
+SO0252,HP,2025-11-02,Workbench,353,71306,Completed
+SO0253,Apple,2026-06-06,Filing Cabinet,238,46410,Completed
+SO0254,Costco,2025-08-06,Wooden Table,233,40775,Open
+SO0255,Samsung,2026-06-05,Tool Box,325,73450,Cancelled
+SO0256,HP,2026-03-19,Steel Cabinet,104,8736,Open
+SO0257,Costco,2025-08-27,Tool Box,462,42504,Completed
+SO0258,Apple,2025-09-07,Filing Cabinet,185,15725,Cancelled
+SO0259,Target,2025-09-30,Metal Shelf,263,43658,Cancelled
+SO0260,Costco,2025-09-18,Workbench,401,47318,Open
+SO0261,HP,2025-08-22,Computer Desk,340,28560,Completed
+SO0262,Samsung,2026-02-28,Computer Desk,311,54425,Completed
+SO0263,Best Buy,2025-08-04,Office Chair,219,43362,Completed
+SO0264,Dell,2025-07-27,Wooden Table,325,55900,Completed
+SO0265,Amazon,2025-09-17,Steel Cabinet,409,94070,Cancelled
+SO0266,HP,2025-12-09,Metal Shelf,255,22695,Open
+SO0267,Tesla,2025-07-15,Steel Cabinet,448,101696,Open
+SO0268,Amazon,2025-12-31,Tool Box,114,9462,Completed
+SO0269,Costco,2026-01-13,Metal Shelf,437,81719,Completed
+SO0270,HP,2026-03-28,Computer Desk,387,80109,Cancelled
+SO0271,Best Buy,2025-08-02,Computer Desk,324,73224,Open
+SO0272,Samsung,2025-09-20,Tool Box,129,11094,Completed
+SO0273,Target,2026-05-27,Locker,151,29143,Completed
+SO0274,Amazon,2026-03-08,Storage Rack,463,56949,Open
+SO0275,Apple,2026-05-27,Locker,62,5890,Completed
+SO0276,Target,2025-11-12,Storage Rack,172,38012,Cancelled
+SO0277,Amazon,2025-09-15,Metal Shelf,463,111120,Cancelled
+SO0278,Tesla,2026-04-22,Metal Shelf,297,46926,Cancelled
+SO0279,Apple,2025-10-01,Computer Desk,394,48856,Completed
+SO0280,Best Buy,2025-11-24,Storage Rack,221,23426,Open
+SO0281,Dell,2026-01-14,Workbench,325,47450,Completed
+SO0282,Tesla,2025-09-19,Steel Cabinet,412,92288,Open
+SO0283,Samsung,2026-01-23,Steel Cabinet,352,58432,Open
+SO0284,Tesla,2025-07-06,Office Chair,125,15875,Completed
+SO0285,Samsung,2025-12-20,Storage Rack,107,26108,Cancelled
+SO0286,Samsung,2025-08-03,Filing Cabinet,195,36855,Open
+SO0287,Costco,2026-03-31,Computer Desk,393,90783,Completed
+SO0288,Dell,2025-09-07,Computer Desk,56,10528,Cancelled
+SO0289,Target,2026-05-11,Wooden Table,322,45724,Open
+SO0290,Samsung,2025-11-26,Wooden Table,432,89424,Open
+SO0291,Best Buy,2025-11-26,Metal Shelf,51,6069,Completed
+SO0292,Walmart,2025-08-22,Computer Desk,130,12610,Cancelled
+SO0293,Best Buy,2025-08-12,Storage Rack,492,46740,Open
+SO0294,Dell,2026-01-18,Steel Cabinet,372,70308,Open
+SO0295,Tesla,2026-04-08,Wooden Table,415,34860,Completed
+SO0296,Apple,2026-05-23,Office Chair,426,102240,Completed
+SO0297,Target,2025-08-05,Filing Cabinet,53,10706,Cancelled
+SO0298,Costco,2026-01-04,Steel Cabinet,202,40198,Cancelled
+SO0299,Best Buy,2025-10-15,Metal Shelf,365,40880,Cancelled
+SO0300,HP,2025-11-18,Tool Box,178,40406,Cancelled
+SO0301,Walmart,2026-03-02,Filing Cabinet,409,55624,Cancelled
+SO0302,Dell,2026-02-24,Locker,343,45962,Cancelled
+SO0303,Costco,2026-03-10,Steel Cabinet,94,11562,Cancelled
+SO0304,HP,2025-08-26,Tool Box,298,70328,Completed
+SO0305,Costco,2025-09-06,Filing Cabinet,272,28832,Open
+SO0306,HP,2025-10-28,Workbench,195,30420,Cancelled
+SO0307,Dell,2026-05-07,Metal Shelf,462,104874,Cancelled
+SO0308,Samsung,2025-07-15,Workbench,270,36450,Completed
+SO0309,Walmart,2025-10-26,Tool Box,259,22533,Completed
+SO0310,Dell,2025-08-06,Filing Cabinet,161,18354,Cancelled
+SO0311,HP,2025-11-18,Metal Shelf,338,71318,Cancelled
+SO0312,HP,2026-02-27,Wooden Table,490,51450,Open
+SO0313,Tesla,2026-01-03,Office Chair,200,47200,Completed
+SO0314,Walmart,2025-10-19,Tool Box,434,62062,Cancelled
+SO0315,Target,2025-10-08,Locker,499,82834,Open
+SO0316,Dell,2025-11-13,Metal Shelf,193,33582,Open
+SO0317,Walmart,2025-07-19,Filing Cabinet,344,51256,Cancelled
+SO0318,Walmart,2026-03-02,Metal Shelf,61,12810,Completed
+SO0319,Dell,2025-12-03,Workbench,180,24120,Completed
+SO0320,HP,2026-06-13,Metal Shelf,73,17812,Completed
+SO0321,HP,2025-11-09,Metal Shelf,388,93896,Cancelled
+SO0322,Tesla,2025-12-23,Steel Cabinet,137,24386,Completed
+SO0323,Target,2026-06-01,Office Chair,456,39216,Cancelled
+SO0324,Best Buy,2026-04-15,Wooden Table,113,11187,Completed
+SO0325,Amazon,2025-08-04,Metal Shelf,100,16700,Open
+SO0326,Dell,2025-11-14,Tool Box,207,17388,Cancelled
+SO0327,HP,2026-03-23,Steel Cabinet,496,105152,Cancelled
+SO0328,Amazon,2026-03-25,Wooden Table,351,79677,Cancelled
+SO0329,Walmart,2026-06-03,Wooden Table,367,60922,Completed
+SO0330,Target,2026-04-12,Office Chair,371,44891,Completed
+SO0331,Apple,2026-02-08,Tool Box,275,48125,Cancelled
+SO0332,Apple,2025-08-09,Wooden Table,450,86400,Cancelled
+SO0333,Samsung,2025-12-28,Tool Box,197,27383,Cancelled
+SO0334,Tesla,2025-10-04,Locker,317,78933,Open
+SO0335,Best Buy,2025-10-23,Computer Desk,209,28842,Cancelled
+SO0336,Target,2025-11-04,Steel Cabinet,157,20724,Cancelled
+SO0337,Walmart,2026-02-08,Workbench,380,75620,Open
+SO0338,Target,2026-06-16,Storage Rack,303,70599,Open
+SO0339,Costco,2026-03-17,Tool Box,153,19125,Cancelled
+SO0340,Target,2026-04-22,Locker,478,38718,Completed
+SO0341,HP,2025-08-08,Tool Box,485,39285,Cancelled
+SO0342,Amazon,2025-12-17,Steel Cabinet,340,64260,Cancelled
+SO0343,Dell,2026-03-11,Storage Rack,356,53044,Completed
+SO0344,Apple,2026-06-30,Steel Cabinet,357,74970,Cancelled
+SO0345,Samsung,2025-08-16,Locker,310,57660,Completed
+SO0346,Dell,2025-09-09,Office Chair,456,81168,Cancelled
+SO0347,Dell,2025-07-09,Computer Desk,81,12312,Completed
+SO0348,Costco,2026-05-12,Storage Rack,404,63428,Cancelled
+SO0349,HP,2025-08-01,Metal Shelf,277,38226,Cancelled
+SO0350,Best Buy,2025-10-02,Steel Cabinet,406,92568,Completed
+SO0351,Amazon,2025-11-05,Office Chair,79,17854,Completed
+SO0352,Dell,2025-09-02,Locker,213,24069,Open
+SO0353,Walmart,2025-12-31,Tool Box,409,98160,Completed
+SO0354,Costco,2026-04-15,Workbench,230,24840,Completed
+SO0355,Amazon,2025-09-09,Workbench,360,65880,Cancelled
+SO0356,Costco,2025-10-09,Wooden Table,247,43719,Completed
+SO0357,HP,2026-03-01,Wooden Table,499,69860,Completed
+SO0358,Amazon,2025-12-09,Office Chair,486,66096,Open
+SO0359,Best Buy,2025-08-20,Office Chair,296,68080,Completed
+SO0360,Dell,2026-06-01,Storage Rack,214,25894,Completed
+SO0361,Apple,2026-02-12,Steel Cabinet,292,36500,Open
+SO0362,Tesla,2026-03-18,Computer Desk,234,46332,Completed
+SO0363,Apple,2025-08-26,Wooden Table,477,41499,Completed
+SO0364,Walmart,2026-07-02,Wooden Table,343,53508,Open
+SO0365,Costco,2025-07-06,Metal Shelf,246,59778,Open
+SO0366,Walmart,2025-08-09,Storage Rack,474,43608,Cancelled
+SO0367,Samsung,2025-08-30,Locker,156,24648,Completed
+SO0368,Samsung,2025-12-11,Wooden Table,352,41536,Completed
+SO0369,Target,2026-04-08,Filing Cabinet,316,34128,Completed
+SO0370,Best Buy,2025-08-01,Tool Box,279,26784,Cancelled
+SO0371,Samsung,2025-12-14,Filing Cabinet,348,64728,Cancelled
+SO0372,Samsung,2026-02-22,Workbench,105,9870,Cancelled
+SO0373,Best Buy,2026-05-09,Office Chair,348,64380,Open
+SO0374,Tesla,2026-01-21,Workbench,449,43104,Cancelled
+SO0375,Dell,2026-01-22,Wooden Table,401,36491,Open
+SO0376,Target,2025-12-04,Storage Rack,371,44891,Open
+SO0377,Tesla,2026-02-07,Office Chair,404,78780,Completed
+SO0378,Dell,2025-09-01,Filing Cabinet,348,34800,Completed
+SO0379,Target,2025-10-11,Workbench,328,77408,Completed
+SO0380,Target,2025-11-01,Tool Box,483,58926,Completed
+SO0381,Target,2025-08-10,Steel Cabinet,257,37522,Cancelled
+SO0382,Samsung,2025-09-28,Metal Shelf,201,19095,Open
+SO0383,Dell,2025-11-28,Workbench,407,65120,Cancelled
+SO0384,Amazon,2026-02-05,Filing Cabinet,313,68860,Open
+SO0385,HP,2026-01-25,Tool Box,146,12994,Completed
+SO0386,Dell,2025-09-14,Metal Shelf,432,100656,Open
+SO0387,Tesla,2026-04-08,Office Chair,461,73299,Cancelled
+SO0388,Amazon,2026-02-21,Workbench,383,49024,Open
+SO0389,Apple,2026-02-06,Steel Cabinet,131,25414,Cancelled
+SO0390,Walmart,2025-10-10,Storage Rack,94,18424,Open
+SO0391,Best Buy,2025-08-13,Locker,398,52536,Cancelled
+SO0392,Samsung,2025-12-25,Steel Cabinet,322,64400,Cancelled
+SO0393,Apple,2025-09-14,Steel Cabinet,405,47790,Completed
+SO0394,Dell,2026-06-26,Wooden Table,142,18460,Open
+SO0395,HP,2026-06-17,Filing Cabinet,61,8662,Cancelled
+SO0396,Samsung,2026-03-13,Wooden Table,363,75141,Completed
+SO0397,Target,2025-07-22,Tool Box,246,44772,Open
+SO0398,Best Buy,2025-11-24,Locker,361,63897,Open
+SO0399,Apple,2026-03-29,Metal Shelf,83,10043,Completed
+SO0400,Best Buy,2025-10-09,Office Chair,448,83776,Open
+SO0401,Dell,2026-01-08,Locker,117,28314,Open
+SO0402,HP,2025-10-09,Computer Desk,330,44220,Cancelled
+SO0403,Best Buy,2026-06-09,Tool Box,50,4000,Completed
+SO0404,Walmart,2025-10-02,Computer Desk,332,39176,Cancelled
+SO0405,Apple,2026-01-10,Storage Rack,194,25414,Cancelled
+SO0406,Amazon,2025-11-29,Tool Box,202,33330,Open
+SO0407,HP,2026-04-03,Office Chair,234,35100,Open
+SO0408,Target,2026-03-06,Locker,470,84600,Completed
+SO0409,Best Buy,2025-10-26,Tool Box,473,61963,Completed
+SO0410,Costco,2025-07-29,Storage Rack,57,13851,Completed
+SO0411,Best Buy,2026-06-13,Office Chair,315,76230,Cancelled
+SO0412,Tesla,2025-08-08,Filing Cabinet,96,11136,Open
+SO0413,HP,2025-12-07,Workbench,227,40179,Completed
+SO0414,Best Buy,2026-04-12,Locker,372,47988,Completed
+SO0415,Walmart,2026-04-05,Wooden Table,158,16116,Open
+SO0416,Apple,2025-08-14,Wooden Table,62,9858,Completed
+SO0417,Walmart,2025-12-21,Steel Cabinet,418,60192,Cancelled
+SO0418,Amazon,2026-05-31,Metal Shelf,280,38920,Cancelled
+SO0419,Apple,2025-11-15,Wooden Table,113,22487,Completed
+SO0420,HP,2026-03-29,Tool Box,111,10656,Open
+SO0421,Best Buy,2025-07-10,Locker,78,6786,Cancelled
+SO0422,Tesla,2026-01-26,Metal Shelf,205,28905,Cancelled
+SO0423,Costco,2025-09-19,Wooden Table,331,67524,Open
+SO0424,Costco,2026-03-07,Computer Desk,291,34629,Open
+SO0425,HP,2026-01-18,Filing Cabinet,92,9292,Completed
+SO0426,Best Buy,2025-12-14,Storage Rack,478,90820,Cancelled
+SO0427,Dell,2025-12-29,Filing Cabinet,116,14500,Cancelled
+SO0428,Dell,2026-01-09,Metal Shelf,288,59040,Cancelled
+SO0429,Samsung,2025-12-24,Wooden Table,420,72240,Completed
+SO0430,Tesla,2025-07-15,Tool Box,425,75225,Open
+SO0431,HP,2025-08-30,Steel Cabinet,452,78648,Open
+SO0432,Amazon,2025-07-30,Tool Box,230,26680,Completed
+SO0433,Costco,2025-10-01,Workbench,182,43498,Open
+SO0434,Tesla,2025-07-19,Filing Cabinet,197,40779,Cancelled
+SO0435,Dell,2025-12-01,Workbench,406,51156,Completed
+SO0436,Best Buy,2026-04-11,Workbench,323,50388,Completed
+SO0437,HP,2025-12-19,Metal Shelf,353,44478,Completed
+SO0438,Best Buy,2026-04-29,Steel Cabinet,314,37680,Completed
+SO0439,Apple,2026-01-06,Locker,91,19474,Cancelled
+SO0440,Dell,2025-10-03,Steel Cabinet,500,66500,Completed
+SO0441,Target,2025-09-15,Office Chair,70,14630,Open
+SO0442,Costco,2026-01-15,Workbench,236,34456,Cancelled
+SO0443,Tesla,2026-03-28,Filing Cabinet,238,57358,Open
+SO0444,Walmart,2026-01-03,Metal Shelf,267,26700,Completed
+SO0445,Best Buy,2025-08-19,Steel Cabinet,114,9918,Open
+SO0446,Best Buy,2026-05-30,Computer Desk,174,37236,Cancelled
+SO0447,Costco,2025-11-18,Metal Shelf,340,53720,Completed
+SO0448,Apple,2026-05-14,Locker,289,33524,Completed
+SO0449,Walmart,2025-10-10,Wooden Table,488,119072,Open
+SO0450,Best Buy,2026-06-04,Filing Cabinet,404,57772,Cancelled
+SO0451,Samsung,2026-04-15,Storage Rack,320,71040,Open
+SO0452,Costco,2025-10-27,Workbench,369,88191,Open
+SO0453,Walmart,2025-07-02,Tool Box,149,19668,Completed
+SO0454,Target,2026-04-07,Steel Cabinet,55,7315,Completed
+SO0455,Dell,2026-05-18,Office Chair,440,62480,Cancelled
+SO0456,Amazon,2025-09-25,Metal Shelf,200,46600,Open
+SO0457,Apple,2026-01-02,Computer Desk,324,46008,Completed
+SO0458,Costco,2025-08-06,Locker,198,30492,Completed
+SO0459,Apple,2025-10-24,Metal Shelf,242,23958,Completed
+SO0460,Amazon,2026-06-12,Filing Cabinet,424,38584,Cancelled
+SO0461,HP,2025-12-14,Tool Box,123,10701,Open
+SO0462,Tesla,2026-04-14,Workbench,333,62937,Completed
+SO0463,Apple,2026-03-13,Tool Box,67,8107,Open
+SO0464,Samsung,2025-12-28,Locker,123,16359,Completed
+SO0465,Apple,2026-01-19,Workbench,484,92928,Open
+SO0466,Dell,2025-09-25,Steel Cabinet,132,31680,Open
+SO0467,Apple,2025-09-23,Metal Shelf,184,27048,Cancelled
+SO0468,Target,2026-06-18,Locker,301,47859,Open
+SO0469,Samsung,2025-09-08,Workbench,96,19008,Cancelled
+SO0470,Costco,2025-11-22,Metal Shelf,436,66272,Open
+SO0471,Best Buy,2025-09-25,Steel Cabinet,433,93095,Completed
+SO0472,Tesla,2025-08-16,Steel Cabinet,110,18590,Completed
+SO0473,Costco,2026-02-28,Steel Cabinet,413,102011,Completed
+SO0474,Amazon,2025-12-30,Office Chair,218,49922,Cancelled
+SO0475,Dell,2025-10-02,Tool Box,120,25560,Cancelled
+SO0476,Best Buy,2026-01-09,Locker,405,55485,Open
+SO0477,Target,2025-12-11,Workbench,375,58875,Completed
+SO0478,Best Buy,2026-01-18,Locker,135,21465,Cancelled
+SO0479,Walmart,2026-01-29,Locker,92,20424,Open
+SO0480,Tesla,2025-07-30,Workbench,308,27104,Open
+SO0481,Dell,2026-04-25,Filing Cabinet,304,25536,Open
+SO0482,Walmart,2025-10-20,Filing Cabinet,462,91938,Completed
+SO0483,Tesla,2025-07-14,Tool Box,367,70831,Cancelled
+SO0484,Apple,2025-12-03,Computer Desk,289,28322,Cancelled
+SO0485,Tesla,2026-05-06,Steel Cabinet,324,53784,Open
+SO0486,Amazon,2026-02-25,Filing Cabinet,158,33022,Cancelled
+SO0487,Walmart,2025-09-05,Tool Box,408,88536,Open
+SO0488,Walmart,2026-03-26,Steel Cabinet,72,13896,Open
+SO0489,Walmart,2026-03-29,Office Chair,164,33292,Cancelled
+SO0490,Best Buy,2026-01-31,Steel Cabinet,451,82533,Cancelled
+SO0491,HP,2025-09-20,Storage Rack,70,15120,Cancelled
+SO0492,Samsung,2025-09-30,Wooden Table,98,15386,Completed
+SO0493,Apple,2026-02-12,Filing Cabinet,92,21160,Completed
+SO0494,HP,2026-06-01,Storage Rack,441,72324,Cancelled
+SO0495,Walmart,2026-02-12,Filing Cabinet,328,61992,Cancelled
+SO0496,Best Buy,2026-05-15,Locker,404,46460,Completed
+SO0497,Apple,2025-12-13,Workbench,442,75140,Cancelled
+SO0498,HP,2025-08-21,Filing Cabinet,396,57816,Open
+SO0499,Amazon,2025-08-19,Tool Box,176,42240,Open
+SO0500,Dell,2026-02-01,Locker,439,35559,Open

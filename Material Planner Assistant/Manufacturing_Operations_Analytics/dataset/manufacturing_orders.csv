@@ -1,0 +1,501 @@
+Order_ID,Product_ID,Product_Name,Customer,Order_Date,Due_Date,Manufacturing_Order,Transfer_Ticket,Operation,Work_Center,Production_Priority,Quantity,Completed_Qty,Pending_Qty,Production_Status,Production_Control,Forecast_Qty,Actual_Qty,Forecast_Error
+ORD0001,P001,Storage Rack,Apple,2026-01-20,2026-02-04,MO0001,TT0001,Cutting,Line B,Low,244,216,28,In Progress,John,189,84,-105
+ORD0002,P002,Computer Desk,Tesla,2026-03-14,2026-03-31,MO0002,TT0002,Assembly,Line C,Medium,329,197,132,Delayed,Michael,113,136,23
+ORD0003,P003,Storage Rack,Dell,2025-07-08,2025-07-17,MO0003,TT0003,Assembly,Line C,Low,365,95,270,In Progress,Sophia,380,137,-243
+ORD0004,P004,Office Chair,Dell,2026-05-27,2026-06-03,MO0004,TT0004,Quality Control,Line C,Medium,134,19,115,Delayed,David,306,163,-143
+ORD0005,P005,Office Chair,HP,2026-04-02,2026-04-06,MO0005,TT0005,Assembly,Line A,High,495,311,184,Delayed,David,260,229,-31
+ORD0006,P006,Workbench,Target,2026-02-26,2026-03-13,MO0006,TT0006,Cutting,Line B,Medium,290,185,105,Completed,Emily,346,73,-273
+ORD0007,P007,Locker,Costco,2026-01-09,2026-01-13,MO0007,TT0007,Welding,Line C,High,469,91,378,Delayed,Michael,342,352,10
+ORD0008,P008,Wooden Table,Samsung,2026-05-10,2026-05-29,MO0008,TT0008,Painting,Line A,Low,201,160,41,Completed,Emily,119,461,342
+ORD0009,P009,Locker,Costco,2026-02-11,2026-02-17,MO0009,TT0009,Welding,Line C,High,151,37,114,Completed,Michael,464,360,-104
+ORD0010,P010,Metal Shelf,Apple,2025-12-22,2025-12-25,MO0010,TT0010,Assembly,Line B,Medium,486,440,46,In Progress,Emily,264,482,218
+ORD0011,P011,Filing Cabinet,Tesla,2026-02-21,2026-03-07,MO0011,TT0011,Painting,Line C,Medium,368,153,215,In Progress,Sophia,337,478,141
+ORD0012,P012,Filing Cabinet,Costco,2026-04-08,2026-04-13,MO0012,TT0012,Cutting,Line B,Low,471,342,129,In Progress,Michael,154,442,288
+ORD0013,P013,Locker,Best Buy,2026-03-13,2026-03-20,MO0013,TT0013,Quality Control,Line A,Low,65,5,60,Delayed,David,218,197,-21
+ORD0014,P014,Locker,Dell,2026-06-21,2026-06-26,MO0014,TT0014,Cutting,Line C,Low,331,41,290,Delayed,Sophia,201,227,26
+ORD0015,P015,Storage Rack,Costco,2025-12-13,2025-12-31,MO0015,TT0015,Cutting,Line A,High,295,143,152,In Progress,Sophia,446,304,-142
+ORD0016,P016,Locker,Target,2026-02-25,2026-02-28,MO0016,TT0016,Painting,Line C,High,97,52,45,Delayed,Sophia,320,133,-187
+ORD0017,P017,Workbench,Apple,2026-03-01,2026-03-07,MO0017,TT0017,Painting,Line D,Medium,444,54,390,Completed,David,143,176,33
+ORD0018,P018,Wooden Table,Best Buy,2025-12-23,2026-01-06,MO0018,TT0018,Painting,Line A,Medium,438,351,87,Delayed,David,234,404,170
+ORD0019,P019,Tool Box,Amazon,2025-11-27,2025-12-06,MO0019,TT0019,Welding,Line A,Low,297,243,54,In Progress,David,230,101,-129
+ORD0020,P020,Workbench,Best Buy,2025-08-12,2025-08-28,MO0020,TT0020,Quality Control,Line C,Medium,352,49,303,Delayed,David,136,201,65
+ORD0021,P021,Computer Desk,Apple,2026-01-24,2026-02-05,MO0021,TT0021,Painting,Line A,Low,454,183,271,Delayed,Emily,462,213,-249
+ORD0022,P022,Steel Cabinet,Dell,2026-06-02,2026-06-08,MO0022,TT0022,Welding,Line B,Medium,312,120,192,Delayed,Sophia,312,136,-176
+ORD0023,P023,Steel Cabinet,Dell,2025-12-26,2025-12-31,MO0023,TT0023,Assembly,Line B,High,226,116,110,Delayed,John,94,417,323
+ORD0024,P024,Wooden Table,Target,2026-05-26,2026-06-05,MO0024,TT0024,Quality Control,Line D,Medium,100,30,70,Delayed,Michael,398,470,72
+ORD0025,P025,Office Chair,Best Buy,2026-01-27,2026-02-10,MO0025,TT0025,Painting,Line D,Low,371,348,23,Delayed,David,414,127,-287
+ORD0026,P026,Wooden Table,Costco,2026-04-30,2026-05-15,MO0026,TT0026,Welding,Line C,Medium,191,58,133,Completed,Sophia,316,253,-63
+ORD0027,P027,Filing Cabinet,Tesla,2025-08-08,2025-08-25,MO0027,TT0027,Welding,Line D,High,444,272,172,In Progress,Emily,54,227,173
+ORD0028,P028,Workbench,Target,2026-06-04,2026-06-07,MO0028,TT0028,Cutting,Line C,Medium,422,114,308,Completed,Sophia,192,185,-7
+ORD0029,P029,Tool Box,Tesla,2026-02-07,2026-02-15,MO0029,TT0029,Painting,Line A,Low,351,237,114,Delayed,Emily,166,389,223
+ORD0030,P030,Storage Rack,Walmart,2025-07-14,2025-07-31,MO0030,TT0030,Assembly,Line A,Medium,252,20,232,Completed,John,375,266,-109
+ORD0031,P031,Filing Cabinet,Apple,2025-12-05,2025-12-15,MO0031,TT0031,Quality Control,Line C,Low,87,50,37,In Progress,John,50,84,34
+ORD0032,P032,Wooden Table,Target,2025-08-09,2025-08-12,MO0032,TT0032,Cutting,Line A,High,438,428,10,Delayed,John,430,106,-324
+ORD0033,P033,Steel Cabinet,Dell,2026-01-21,2026-02-07,MO0033,TT0033,Painting,Line B,Medium,386,41,345,Delayed,David,327,170,-157
+ORD0034,P034,Workbench,Target,2025-10-08,2025-10-12,MO0034,TT0034,Quality Control,Line A,Medium,99,37,62,In Progress,Sophia,256,84,-172
+ORD0035,P035,Steel Cabinet,Samsung,2025-07-10,2025-07-16,MO0035,TT0035,Painting,Line D,High,463,261,202,In Progress,Sophia,175,58,-117
+ORD0036,P036,Steel Cabinet,Amazon,2026-01-05,2026-01-16,MO0036,TT0036,Quality Control,Line C,High,59,59,0,Delayed,John,98,115,17
+ORD0037,P037,Steel Cabinet,Target,2025-12-17,2025-12-22,MO0037,TT0037,Welding,Line B,High,278,275,3,In Progress,Sophia,457,337,-120
+ORD0038,P038,Steel Cabinet,Samsung,2025-10-29,2025-11-02,MO0038,TT0038,Welding,Line C,High,234,169,65,Completed,John,126,303,177
+ORD0039,P039,Steel Cabinet,Target,2026-06-19,2026-06-29,MO0039,TT0039,Cutting,Line D,High,109,68,41,In Progress,David,226,175,-51
+ORD0040,P040,Filing Cabinet,Target,2026-01-21,2026-02-02,MO0040,TT0040,Painting,Line D,Low,311,298,13,Delayed,Emily,464,162,-302
+ORD0041,P041,Metal Shelf,Amazon,2026-01-09,2026-01-23,MO0041,TT0041,Quality Control,Line A,Medium,195,93,102,In Progress,Sophia,455,375,-80
+ORD0042,P042,Metal Shelf,Samsung,2026-01-05,2026-01-08,MO0042,TT0042,Quality Control,Line D,Medium,465,141,324,Completed,Michael,344,478,134
+ORD0043,P043,Tool Box,Best Buy,2026-03-10,2026-03-21,MO0043,TT0043,Cutting,Line C,High,391,236,155,Completed,John,150,346,196
+ORD0044,P044,Metal Shelf,Costco,2025-07-28,2025-08-01,MO0044,TT0044,Welding,Line B,Low,362,343,19,Completed,Sophia,179,241,62
+ORD0045,P045,Metal Shelf,Tesla,2026-04-08,2026-04-16,MO0045,TT0045,Cutting,Line D,Low,489,243,246,Delayed,David,301,198,-103
+ORD0046,P046,Office Chair,HP,2026-02-26,2026-03-03,MO0046,TT0046,Welding,Line A,Medium,368,354,14,Delayed,Sophia,413,176,-237
+ORD0047,P047,Wooden Table,Tesla,2025-11-09,2025-11-24,MO0047,TT0047,Quality Control,Line A,High,301,43,258,In Progress,Sophia,331,490,159
+ORD0048,P048,Filing Cabinet,Costco,2025-10-23,2025-11-11,MO0048,TT0048,Quality Control,Line A,Low,257,115,142,In Progress,David,181,241,60
+ORD0049,P049,Tool Box,HP,2026-03-10,2026-03-23,MO0049,TT0049,Quality Control,Line D,High,453,20,433,Completed,Michael,102,330,228
+ORD0050,P050,Computer Desk,Walmart,2026-03-14,2026-03-22,MO0050,TT0050,Painting,Line A,High,65,9,56,Delayed,Emily,353,451,98
+ORD0051,P051,Workbench,Samsung,2026-02-10,2026-03-02,MO0051,TT0051,Cutting,Line D,High,147,124,23,Delayed,David,273,282,9
+ORD0052,P052,Computer Desk,Walmart,2025-10-31,2025-11-04,MO0052,TT0052,Assembly,Line D,Low,182,131,51,In Progress,David,440,70,-370
+ORD0053,P053,Storage Rack,Walmart,2025-08-10,2025-08-23,MO0053,TT0053,Quality Control,Line D,High,386,180,206,In Progress,John,454,496,42
+ORD0054,P054,Wooden Table,Dell,2026-03-13,2026-03-25,MO0054,TT0054,Assembly,Line D,Medium,380,253,127,In Progress,David,355,123,-232
+ORD0055,P055,Locker,HP,2025-11-04,2025-11-12,MO0055,TT0055,Welding,Line A,High,148,66,82,In Progress,Emily,265,286,21
+ORD0056,P056,Filing Cabinet,Apple,2026-03-20,2026-03-30,MO0056,TT0056,Painting,Line B,High,156,67,89,In Progress,David,398,464,66
+ORD0057,P057,Filing Cabinet,Apple,2025-10-02,2025-10-21,MO0057,TT0057,Welding,Line D,Medium,419,292,127,In Progress,John,81,493,412
+ORD0058,P058,Workbench,Best Buy,2025-10-10,2025-10-25,MO0058,TT0058,Painting,Line C,High,286,73,213,Delayed,Emily,432,344,-88
+ORD0059,P059,Computer Desk,Dell,2026-03-17,2026-04-03,MO0059,TT0059,Quality Control,Line C,Medium,104,23,81,Completed,David,415,406,-9
+ORD0060,P060,Computer Desk,Samsung,2025-08-01,2025-08-13,MO0060,TT0060,Quality Control,Line D,Low,155,21,134,In Progress,Sophia,312,182,-130
+ORD0061,P061,Computer Desk,Amazon,2025-10-24,2025-11-12,MO0061,TT0061,Painting,Line D,High,219,45,174,Completed,Emily,301,246,-55
+ORD0062,P062,Filing Cabinet,Best Buy,2026-05-25,2026-06-09,MO0062,TT0062,Cutting,Line C,Low,203,149,54,Completed,Emily,386,456,70
+ORD0063,P063,Workbench,Apple,2026-06-21,2026-07-03,MO0063,TT0063,Painting,Line B,Low,400,289,111,Completed,Michael,265,440,175
+ORD0064,P064,Wooden Table,Costco,2025-08-03,2025-08-10,MO0064,TT0064,Cutting,Line C,Low,194,71,123,In Progress,John,483,455,-28
+ORD0065,P065,Locker,Dell,2026-01-22,2026-02-11,MO0065,TT0065,Painting,Line B,Medium,324,214,110,In Progress,John,166,322,156
+ORD0066,P066,Office Chair,HP,2025-08-12,2025-08-30,MO0066,TT0066,Cutting,Line C,Medium,474,403,71,Completed,Emily,304,101,-203
+ORD0067,P067,Metal Shelf,Samsung,2025-09-14,2025-09-28,MO0067,TT0067,Painting,Line C,Medium,390,222,168,Completed,David,277,330,53
+ORD0068,P068,Wooden Table,HP,2026-01-12,2026-01-25,MO0068,TT0068,Assembly,Line C,Medium,260,81,179,Delayed,John,368,113,-255
+ORD0069,P069,Filing Cabinet,Amazon,2025-09-28,2025-10-12,MO0069,TT0069,Quality Control,Line C,High,95,72,23,Delayed,David,332,178,-154
+ORD0070,P070,Computer Desk,Best Buy,2025-11-24,2025-12-12,MO0070,TT0070,Welding,Line D,Medium,386,226,160,Completed,Emily,446,245,-201
+ORD0071,P071,Office Chair,HP,2026-07-02,2026-07-21,MO0071,TT0071,Painting,Line A,Medium,248,199,49,Delayed,Sophia,202,87,-115
+ORD0072,P072,Storage Rack,Target,2026-06-18,2026-06-30,MO0072,TT0072,Painting,Line A,Low,280,257,23,In Progress,John,175,448,273
+ORD0073,P073,Metal Shelf,Walmart,2025-11-04,2025-11-21,MO0073,TT0073,Quality Control,Line C,Low,151,75,76,In Progress,Emily,271,279,8
+ORD0074,P074,Filing Cabinet,Target,2025-12-17,2026-01-04,MO0074,TT0074,Welding,Line C,High,124,100,24,Delayed,Emily,262,231,-31
+ORD0075,P075,Workbench,Samsung,2025-10-25,2025-11-04,MO0075,TT0075,Painting,Line B,Low,394,264,130,In Progress,Emily,108,223,115
+ORD0076,P076,Wooden Table,Best Buy,2025-09-10,2025-09-18,MO0076,TT0076,Cutting,Line B,Low,261,196,65,In Progress,John,54,127,73
+ORD0077,P077,Filing Cabinet,Costco,2026-06-08,2026-06-22,MO0077,TT0077,Quality Control,Line C,Low,346,190,156,Completed,David,368,180,-188
+ORD0078,P078,Steel Cabinet,Amazon,2025-08-18,2025-09-03,MO0078,TT0078,Cutting,Line B,Medium,242,90,152,Completed,John,89,213,124
+ORD0079,P079,Locker,Dell,2025-07-25,2025-08-08,MO0079,TT0079,Assembly,Line B,High,468,197,271,Delayed,Emily,66,261,195
+ORD0080,P080,Metal Shelf,Tesla,2026-06-18,2026-06-21,MO0080,TT0080,Painting,Line C,Medium,335,51,284,Delayed,John,410,201,-209
+ORD0081,P081,Storage Rack,Apple,2025-12-27,2025-12-31,MO0081,TT0081,Painting,Line A,High,228,66,162,Delayed,David,158,62,-96
+ORD0082,P082,Steel Cabinet,Best Buy,2026-06-12,2026-07-01,MO0082,TT0082,Quality Control,Line C,Medium,323,205,118,Delayed,Michael,89,261,172
+ORD0083,P083,Tool Box,Walmart,2025-12-10,2025-12-14,MO0083,TT0083,Quality Control,Line D,Low,364,56,308,In Progress,Sophia,284,77,-207
+ORD0084,P084,Tool Box,Amazon,2026-03-04,2026-03-11,MO0084,TT0084,Painting,Line C,Medium,125,41,84,Delayed,Emily,135,239,104
+ORD0085,P085,Computer Desk,Best Buy,2026-06-13,2026-06-27,MO0085,TT0085,Cutting,Line A,Low,92,90,2,In Progress,Michael,417,56,-361
+ORD0086,P086,Storage Rack,HP,2026-04-09,2026-04-25,MO0086,TT0086,Quality Control,Line C,Medium,328,295,33,Completed,David,64,54,-10
+ORD0087,P087,Computer Desk,Apple,2025-07-03,2025-07-17,MO0087,TT0087,Painting,Line B,Medium,162,13,149,Delayed,Sophia,433,252,-181
+ORD0088,P088,Office Chair,Dell,2026-05-31,2026-06-04,MO0088,TT0088,Welding,Line B,High,203,176,27,Delayed,Emily,223,312,89
+ORD0089,P089,Tool Box,Amazon,2025-11-26,2025-12-02,MO0089,TT0089,Assembly,Line A,Medium,426,142,284,Completed,David,451,228,-223
+ORD0090,P090,Storage Rack,Best Buy,2025-09-23,2025-10-13,MO0090,TT0090,Quality Control,Line B,Low,465,153,312,In Progress,Michael,168,281,113
+ORD0091,P091,Metal Shelf,Tesla,2026-03-29,2026-04-17,MO0091,TT0091,Cutting,Line D,Low,383,314,69,Delayed,John,395,86,-309
+ORD0092,P092,Filing Cabinet,Tesla,2025-09-25,2025-09-29,MO0092,TT0092,Quality Control,Line A,Low,102,19,83,Completed,Michael,126,186,60
+ORD0093,P093,Storage Rack,Dell,2026-01-26,2026-02-03,MO0093,TT0093,Quality Control,Line D,High,330,264,66,Delayed,Sophia,346,173,-173
+ORD0094,P094,Tool Box,HP,2025-10-06,2025-10-24,MO0094,TT0094,Quality Control,Line C,Medium,500,180,320,Completed,Emily,488,231,-257
+ORD0095,P095,Locker,Amazon,2025-08-16,2025-08-21,MO0095,TT0095,Cutting,Line B,Low,381,149,232,Completed,Michael,390,459,69
+ORD0096,P096,Steel Cabinet,HP,2025-11-05,2025-11-09,MO0096,TT0096,Assembly,Line B,Low,411,410,1,In Progress,David,167,258,91
+ORD0097,P097,Computer Desk,Dell,2026-04-07,2026-04-12,MO0097,TT0097,Quality Control,Line C,Low,133,132,1,Delayed,Sophia,285,460,175
+ORD0098,P098,Locker,Tesla,2025-12-29,2026-01-11,MO0098,TT0098,Assembly,Line C,Medium,417,168,249,In Progress,Sophia,423,376,-47
+ORD0099,P099,Filing Cabinet,Costco,2025-07-20,2025-08-06,MO0099,TT0099,Assembly,Line A,Low,293,86,207,In Progress,Emily,219,188,-31
+ORD0100,P100,Locker,Walmart,2026-04-17,2026-05-01,MO0100,TT0100,Welding,Line B,Medium,471,67,404,In Progress,Sophia,484,173,-311
+ORD0101,P101,Storage Rack,Dell,2026-03-19,2026-04-03,MO0101,TT0101,Painting,Line D,Medium,446,144,302,In Progress,Sophia,131,152,21
+ORD0102,P102,Office Chair,Target,2025-11-27,2025-12-14,MO0102,TT0102,Welding,Line A,High,477,10,467,Completed,Emily,480,279,-201
+ORD0103,P103,Metal Shelf,Samsung,2025-11-14,2025-11-28,MO0103,TT0103,Quality Control,Line D,High,64,12,52,In Progress,Emily,97,202,105
+ORD0104,P104,Filing Cabinet,Costco,2026-04-22,2026-05-09,MO0104,TT0104,Quality Control,Line D,High,96,78,18,Delayed,Michael,94,363,269
+ORD0105,P105,Tool Box,Apple,2026-01-10,2026-01-19,MO0105,TT0105,Welding,Line D,Medium,102,9,93,Delayed,John,400,407,7
+ORD0106,P106,Tool Box,Amazon,2026-03-14,2026-03-29,MO0106,TT0106,Painting,Line D,Low,104,100,4,Delayed,John,194,105,-89
+ORD0107,P107,Computer Desk,Best Buy,2026-04-02,2026-04-11,MO0107,TT0107,Cutting,Line A,Low,283,197,86,Delayed,Michael,149,135,-14
+ORD0108,P108,Locker,Amazon,2026-06-13,2026-06-23,MO0108,TT0108,Welding,Line A,Medium,317,138,179,In Progress,Emily,295,459,164
+ORD0109,P109,Steel Cabinet,Dell,2026-05-16,2026-06-01,MO0109,TT0109,Cutting,Line D,High,383,238,145,Delayed,John,157,206,49
+ORD0110,P110,Storage Rack,Tesla,2026-04-11,2026-04-24,MO0110,TT0110,Assembly,Line B,Low,141,93,48,Delayed,Michael,179,308,129
+ORD0111,P111,Metal Shelf,Costco,2025-10-31,2025-11-16,MO0111,TT0111,Cutting,Line B,Medium,194,73,121,In Progress,Sophia,493,256,-237
+ORD0112,P112,Office Chair,Apple,2025-09-03,2025-09-18,MO0112,TT0112,Cutting,Line A,Low,486,103,383,In Progress,John,367,387,20
+ORD0113,P113,Steel Cabinet,Costco,2025-10-16,2025-10-22,MO0113,TT0113,Painting,Line A,Medium,443,75,368,Completed,Emily,348,131,-217
+ORD0114,P114,Wooden Table,HP,2025-09-07,2025-09-15,MO0114,TT0114,Cutting,Line B,Low,246,118,128,Completed,Michael,237,190,-47
+ORD0115,P115,Office Chair,Amazon,2025-11-24,2025-12-10,MO0115,TT0115,Welding,Line A,High,102,92,10,In Progress,Michael,458,489,31
+ORD0116,P116,Steel Cabinet,Tesla,2025-08-23,2025-09-09,MO0116,TT0116,Welding,Line B,Medium,227,115,112,Completed,John,89,476,387
+ORD0117,P117,Filing Cabinet,Costco,2025-11-30,2025-12-07,MO0117,TT0117,Assembly,Line D,Low,74,1,73,Completed,Emily,384,190,-194
+ORD0118,P118,Tool Box,Apple,2025-11-17,2025-12-02,MO0118,TT0118,Welding,Line A,High,273,56,217,In Progress,John,335,350,15
+ORD0119,P119,Workbench,Best Buy,2025-09-13,2025-09-17,MO0119,TT0119,Quality Control,Line C,Low,333,119,214,Completed,David,116,146,30
+ORD0120,P120,Storage Rack,Walmart,2026-05-30,2026-06-09,MO0120,TT0120,Cutting,Line D,High,126,108,18,In Progress,John,434,300,-134
+ORD0121,P121,Steel Cabinet,Amazon,2025-09-10,2025-09-29,MO0121,TT0121,Painting,Line B,High,278,202,76,Delayed,Sophia,163,490,327
+ORD0122,P122,Wooden Table,Tesla,2026-03-16,2026-03-19,MO0122,TT0122,Assembly,Line C,Medium,446,368,78,In Progress,Sophia,79,247,168
+ORD0123,P123,Storage Rack,Dell,2026-05-20,2026-06-02,MO0123,TT0123,Quality Control,Line B,Low,235,175,60,Delayed,Emily,362,415,53
+ORD0124,P124,Office Chair,Walmart,2025-08-10,2025-08-24,MO0124,TT0124,Cutting,Line D,Medium,78,56,22,In Progress,David,457,241,-216
+ORD0125,P125,Computer Desk,Walmart,2026-06-09,2026-06-14,MO0125,TT0125,Welding,Line D,High,500,374,126,Completed,John,65,379,314
+ORD0126,P126,Storage Rack,Dell,2026-01-06,2026-01-21,MO0126,TT0126,Painting,Line C,Medium,238,24,214,In Progress,Emily,465,106,-359
+ORD0127,P127,Filing Cabinet,Dell,2026-03-06,2026-03-09,MO0127,TT0127,Welding,Line B,Medium,247,21,226,Completed,David,139,427,288
+ORD0128,P128,Locker,Apple,2026-05-11,2026-05-18,MO0128,TT0128,Assembly,Line C,Low,404,18,386,Delayed,David,386,146,-240
+ORD0129,P129,Office Chair,Best Buy,2025-09-04,2025-09-13,MO0129,TT0129,Assembly,Line A,High,157,58,99,In Progress,David,337,142,-195
+ORD0130,P130,Computer Desk,Dell,2025-11-28,2025-12-17,MO0130,TT0130,Painting,Line C,High,118,30,88,In Progress,Sophia,217,379,162
+ORD0131,P131,Filing Cabinet,Walmart,2025-07-08,2025-07-27,MO0131,TT0131,Quality Control,Line D,High,263,258,5,Completed,Sophia,291,424,133
+ORD0132,P132,Workbench,Best Buy,2025-10-03,2025-10-20,MO0132,TT0132,Cutting,Line A,Low,479,83,396,Completed,John,307,193,-114
+ORD0133,P133,Wooden Table,Dell,2025-08-12,2025-08-30,MO0133,TT0133,Assembly,Line D,Medium,420,222,198,In Progress,Michael,271,254,-17
+ORD0134,P134,Office Chair,HP,2026-04-26,2026-05-03,MO0134,TT0134,Painting,Line B,Medium,364,194,170,Delayed,John,405,306,-99
+ORD0135,P135,Tool Box,Tesla,2025-11-14,2025-12-02,MO0135,TT0135,Cutting,Line B,Low,80,39,41,In Progress,Michael,421,162,-259
+ORD0136,P136,Wooden Table,Apple,2026-05-30,2026-06-10,MO0136,TT0136,Welding,Line B,Medium,330,174,156,In Progress,John,77,102,25
+ORD0137,P137,Filing Cabinet,Best Buy,2026-06-03,2026-06-21,MO0137,TT0137,Cutting,Line A,Medium,199,92,107,In Progress,Emily,423,77,-346
+ORD0138,P138,Storage Rack,Dell,2026-01-15,2026-01-26,MO0138,TT0138,Welding,Line B,Low,256,216,40,Completed,John,396,123,-273
+ORD0139,P139,Steel Cabinet,Apple,2025-09-20,2025-10-08,MO0139,TT0139,Welding,Line D,Medium,237,39,198,Completed,Michael,110,465,355
+ORD0140,P140,Wooden Table,Costco,2025-07-20,2025-08-07,MO0140,TT0140,Welding,Line D,High,65,59,6,Completed,Sophia,371,118,-253
+ORD0141,P141,Storage Rack,Tesla,2025-09-13,2025-10-02,MO0141,TT0141,Cutting,Line D,Low,167,132,35,In Progress,Emily,250,267,17
+ORD0142,P142,Steel Cabinet,Apple,2026-03-17,2026-04-06,MO0142,TT0142,Assembly,Line D,Medium,210,174,36,Delayed,Sophia,284,411,127
+ORD0143,P143,Workbench,Samsung,2026-04-27,2026-05-04,MO0143,TT0143,Cutting,Line D,High,379,269,110,Delayed,John,271,304,33
+ORD0144,P144,Steel Cabinet,Target,2025-09-15,2025-10-02,MO0144,TT0144,Assembly,Line B,Low,273,192,81,Completed,Emily,371,217,-154
+ORD0145,P145,Tool Box,Apple,2026-06-27,2026-07-08,MO0145,TT0145,Quality Control,Line A,Low,247,208,39,Delayed,Michael,314,404,90
+ORD0146,P146,Filing Cabinet,HP,2025-08-07,2025-08-10,MO0146,TT0146,Welding,Line A,Medium,465,205,260,Delayed,David,67,206,139
+ORD0147,P147,Computer Desk,Amazon,2025-08-07,2025-08-23,MO0147,TT0147,Painting,Line A,Medium,120,105,15,Delayed,Sophia,313,399,86
+ORD0148,P148,Steel Cabinet,Tesla,2025-12-03,2025-12-12,MO0148,TT0148,Cutting,Line D,Medium,209,5,204,Completed,David,161,276,115
+ORD0149,P149,Steel Cabinet,Best Buy,2026-06-26,2026-07-02,MO0149,TT0149,Painting,Line D,Low,70,52,18,Completed,Michael,440,272,-168
+ORD0150,P150,Office Chair,Samsung,2025-10-09,2025-10-18,MO0150,TT0150,Painting,Line C,High,339,81,258,Delayed,Emily,147,210,63
+ORD0151,P151,Office Chair,Tesla,2025-10-03,2025-10-06,MO0151,TT0151,Cutting,Line D,Low,458,400,58,In Progress,David,494,334,-160
+ORD0152,P152,Storage Rack,Apple,2026-02-16,2026-02-27,MO0152,TT0152,Cutting,Line D,Low,190,178,12,Delayed,Emily,152,498,346
+ORD0153,P153,Office Chair,Amazon,2025-09-21,2025-09-27,MO0153,TT0153,Quality Control,Line D,High,365,66,299,Completed,Emily,91,305,214
+ORD0154,P154,Storage Rack,Dell,2025-07-07,2025-07-24,MO0154,TT0154,Welding,Line D,High,407,10,397,In Progress,Michael,376,86,-290
+ORD0155,P155,Tool Box,Costco,2025-07-19,2025-07-23,MO0155,TT0155,Assembly,Line B,Medium,53,44,9,In Progress,Michael,76,161,85
+ORD0156,P156,Computer Desk,Amazon,2026-06-11,2026-06-24,MO0156,TT0156,Welding,Line B,High,186,10,176,Completed,Sophia,324,304,-20
+ORD0157,P157,Steel Cabinet,Tesla,2026-06-02,2026-06-05,MO0157,TT0157,Assembly,Line B,Low,485,375,110,Completed,Emily,307,222,-85
+ORD0158,P158,Office Chair,Amazon,2026-01-30,2026-02-13,MO0158,TT0158,Quality Control,Line D,Low,199,24,175,In Progress,David,82,452,370
+ORD0159,P159,Steel Cabinet,Apple,2026-03-07,2026-03-10,MO0159,TT0159,Cutting,Line A,High,448,69,379,In Progress,Sophia,412,375,-37
+ORD0160,P160,Steel Cabinet,Tesla,2026-03-22,2026-04-09,MO0160,TT0160,Welding,Line A,High,487,106,381,In Progress,David,347,331,-16
+ORD0161,P161,Filing Cabinet,Walmart,2025-08-20,2025-08-31,MO0161,TT0161,Painting,Line A,Low,181,37,144,Completed,Michael,310,491,181
+ORD0162,P162,Locker,Costco,2026-05-28,2026-06-06,MO0162,TT0162,Cutting,Line C,Low,346,334,12,Delayed,Emily,417,111,-306
+ORD0163,P163,Tool Box,Target,2025-12-24,2026-01-03,MO0163,TT0163,Painting,Line B,Medium,320,309,11,In Progress,Michael,323,70,-253
+ORD0164,P164,Storage Rack,Tesla,2026-03-16,2026-03-25,MO0164,TT0164,Cutting,Line C,High,363,241,122,Completed,Sophia,436,69,-367
+ORD0165,P165,Steel Cabinet,Amazon,2026-01-18,2026-01-31,MO0165,TT0165,Painting,Line C,Medium,438,305,133,In Progress,John,443,326,-117
+ORD0166,P166,Locker,Target,2025-11-18,2025-11-29,MO0166,TT0166,Assembly,Line D,Low,443,37,406,Delayed,Sophia,387,434,47
+ORD0167,P167,Tool Box,Tesla,2026-06-02,2026-06-20,MO0167,TT0167,Assembly,Line C,Low,219,156,63,Completed,Emily,67,330,263
+ORD0168,P168,Metal Shelf,Samsung,2025-08-12,2025-08-23,MO0168,TT0168,Welding,Line D,High,55,34,21,Delayed,David,332,181,-151
+ORD0169,P169,Steel Cabinet,Samsung,2026-03-21,2026-04-01,MO0169,TT0169,Assembly,Line D,Low,458,250,208,Completed,Michael,157,283,126
+ORD0170,P170,Workbench,Walmart,2025-09-27,2025-10-02,MO0170,TT0170,Welding,Line C,Medium,456,5,451,Completed,John,159,472,313
+ORD0171,P171,Computer Desk,Best Buy,2025-08-10,2025-08-26,MO0171,TT0171,Assembly,Line B,Medium,263,157,106,Delayed,David,414,374,-40
+ORD0172,P172,Wooden Table,Samsung,2026-01-25,2026-02-09,MO0172,TT0172,Cutting,Line B,Low,458,177,281,Completed,John,290,377,87
+ORD0173,P173,Computer Desk,Dell,2026-02-19,2026-03-03,MO0173,TT0173,Welding,Line A,Medium,476,83,393,Delayed,John,347,467,120
+ORD0174,P174,Tool Box,HP,2025-10-25,2025-11-10,MO0174,TT0174,Assembly,Line B,Medium,431,72,359,In Progress,Emily,282,483,201
+ORD0175,P175,Tool Box,Costco,2025-12-17,2026-01-02,MO0175,TT0175,Painting,Line C,Low,306,285,21,Delayed,John,160,489,329
+ORD0176,P176,Wooden Table,Best Buy,2025-07-28,2025-08-10,MO0176,TT0176,Cutting,Line C,Low,473,164,309,Delayed,Emily,358,144,-214
+ORD0177,P177,Steel Cabinet,Samsung,2025-11-15,2025-11-26,MO0177,TT0177,Quality Control,Line C,High,191,73,118,Completed,David,185,187,2
+ORD0178,P178,Tool Box,Best Buy,2026-01-24,2026-02-09,MO0178,TT0178,Quality Control,Line A,High,151,97,54,In Progress,Emily,111,290,179
+ORD0179,P179,Wooden Table,Tesla,2025-09-12,2025-09-29,MO0179,TT0179,Cutting,Line D,High,132,107,25,Delayed,Michael,89,91,2
+ORD0180,P180,Filing Cabinet,Amazon,2026-03-26,2026-04-14,MO0180,TT0180,Assembly,Line B,Low,108,53,55,Delayed,David,418,208,-210
+ORD0181,P181,Locker,Tesla,2025-09-03,2025-09-08,MO0181,TT0181,Quality Control,Line C,High,297,108,189,In Progress,John,381,344,-37
+ORD0182,P182,Wooden Table,Dell,2026-06-09,2026-06-29,MO0182,TT0182,Assembly,Line C,Medium,422,166,256,Completed,Sophia,477,83,-394
+ORD0183,P183,Locker,Tesla,2025-12-29,2026-01-18,MO0183,TT0183,Quality Control,Line A,High,194,98,96,Delayed,Emily,117,70,-47
+ORD0184,P184,Steel Cabinet,Dell,2025-10-17,2025-10-24,MO0184,TT0184,Painting,Line C,Low,50,7,43,Delayed,Sophia,191,290,99
+ORD0185,P185,Storage Rack,Dell,2026-04-17,2026-05-02,MO0185,TT0185,Quality Control,Line A,High,100,57,43,In Progress,John,53,274,221
+ORD0186,P186,Tool Box,Target,2026-04-11,2026-04-27,MO0186,TT0186,Assembly,Line D,High,134,6,128,Delayed,Emily,428,271,-157
+ORD0187,P187,Locker,Dell,2026-02-01,2026-02-10,MO0187,TT0187,Cutting,Line B,High,175,113,62,In Progress,Michael,401,76,-325
+ORD0188,P188,Steel Cabinet,Costco,2025-12-14,2025-12-23,MO0188,TT0188,Quality Control,Line D,Low,433,266,167,Delayed,Sophia,499,278,-221
+ORD0189,P189,Steel Cabinet,Samsung,2025-10-14,2025-10-26,MO0189,TT0189,Assembly,Line A,High,258,97,161,Delayed,John,381,263,-118
+ORD0190,P190,Storage Rack,Walmart,2026-05-25,2026-06-10,MO0190,TT0190,Quality Control,Line B,High,130,46,84,Completed,John,298,354,56
+ORD0191,P191,Wooden Table,HP,2026-04-26,2026-04-30,MO0191,TT0191,Assembly,Line D,High,401,353,48,Delayed,Michael,324,71,-253
+ORD0192,P192,Workbench,Tesla,2026-06-05,2026-06-09,MO0192,TT0192,Quality Control,Line B,Medium,422,345,77,Completed,John,276,436,160
+ORD0193,P193,Wooden Table,Target,2026-06-25,2026-07-13,MO0193,TT0193,Quality Control,Line C,Low,439,143,296,In Progress,David,198,342,144
+ORD0194,P194,Locker,Amazon,2025-08-29,2025-09-02,MO0194,TT0194,Quality Control,Line C,Medium,288,193,95,In Progress,John,324,138,-186
+ORD0195,P195,Tool Box,HP,2026-03-11,2026-03-14,MO0195,TT0195,Quality Control,Line B,High,415,40,375,Delayed,Sophia,462,92,-370
+ORD0196,P196,Steel Cabinet,Tesla,2026-01-30,2026-02-18,MO0196,TT0196,Welding,Line D,High,270,176,94,Completed,Sophia,83,208,125
+ORD0197,P197,Computer Desk,Best Buy,2026-06-23,2026-06-26,MO0197,TT0197,Quality Control,Line B,Medium,96,30,66,Delayed,Michael,476,369,-107
+ORD0198,P198,Locker,Apple,2025-07-19,2025-07-22,MO0198,TT0198,Assembly,Line A,High,447,156,291,In Progress,Sophia,58,87,29
+ORD0199,P199,Tool Box,Samsung,2025-12-08,2025-12-23,MO0199,TT0199,Assembly,Line B,High,51,20,31,In Progress,Emily,104,80,-24
+ORD0200,P200,Filing Cabinet,Walmart,2025-08-21,2025-08-25,MO0200,TT0200,Assembly,Line B,Low,432,43,389,Delayed,Michael,439,232,-207
+ORD0201,P201,Locker,Costco,2026-03-19,2026-03-23,MO0201,TT0201,Assembly,Line C,Medium,234,88,146,Delayed,David,110,332,222
+ORD0202,P202,Tool Box,Amazon,2025-11-02,2025-11-11,MO0202,TT0202,Quality Control,Line D,High,294,23,271,Completed,Michael,233,277,44
+ORD0203,P203,Steel Cabinet,Costco,2025-09-10,2025-09-16,MO0203,TT0203,Painting,Line C,Medium,58,48,10,Completed,Michael,334,449,115
+ORD0204,P204,Computer Desk,Tesla,2026-05-02,2026-05-08,MO0204,TT0204,Cutting,Line D,High,137,130,7,Completed,Emily,408,149,-259
+ORD0205,P205,Locker,Tesla,2025-09-01,2025-09-15,MO0205,TT0205,Painting,Line B,Medium,423,23,400,In Progress,Sophia,111,59,-52
+ORD0206,P206,Filing Cabinet,Apple,2026-02-04,2026-02-08,MO0206,TT0206,Welding,Line B,Medium,488,340,148,In Progress,Michael,498,206,-292
+ORD0207,P207,Tool Box,Costco,2025-12-26,2026-01-06,MO0207,TT0207,Painting,Line A,Medium,301,215,86,Completed,John,295,451,156
+ORD0208,P208,Workbench,Best Buy,2025-08-16,2025-08-29,MO0208,TT0208,Cutting,Line B,Low,163,132,31,Delayed,Emily,96,430,334
+ORD0209,P209,Metal Shelf,Target,2025-10-02,2025-10-20,MO0209,TT0209,Welding,Line D,Low,374,114,260,Delayed,Michael,266,151,-115
+ORD0210,P210,Storage Rack,Costco,2025-08-26,2025-09-02,MO0210,TT0210,Quality Control,Line D,Medium,498,168,330,In Progress,David,355,368,13
+ORD0211,P211,Locker,Dell,2025-08-14,2025-08-21,MO0211,TT0211,Welding,Line A,Medium,59,6,53,Completed,Sophia,160,249,89
+ORD0212,P212,Workbench,Dell,2026-03-26,2026-04-03,MO0212,TT0212,Assembly,Line D,High,338,219,119,Completed,Emily,485,477,-8
+ORD0213,P213,Metal Shelf,Best Buy,2026-06-30,2026-07-16,MO0213,TT0213,Painting,Line C,Low,451,101,350,In Progress,David,349,369,20
+ORD0214,P214,Filing Cabinet,Apple,2025-11-28,2025-12-05,MO0214,TT0214,Welding,Line B,High,177,68,109,In Progress,John,147,284,137
+ORD0215,P215,Computer Desk,Samsung,2025-10-09,2025-10-12,MO0215,TT0215,Painting,Line B,High,145,133,12,Delayed,David,496,443,-53
+ORD0216,P216,Tool Box,Amazon,2026-01-11,2026-01-28,MO0216,TT0216,Welding,Line C,Medium,252,22,230,Delayed,Michael,308,341,33
+ORD0217,P217,Steel Cabinet,Samsung,2025-09-18,2025-09-30,MO0217,TT0217,Cutting,Line D,Low,219,160,59,Delayed,John,250,282,32
+ORD0218,P218,Tool Box,Dell,2026-05-24,2026-06-02,MO0218,TT0218,Assembly,Line B,Low,88,24,64,Delayed,David,485,337,-148
+ORD0219,P219,Office Chair,Samsung,2026-07-02,2026-07-05,MO0219,TT0219,Quality Control,Line B,Low,173,88,85,Completed,Michael,404,219,-185
+ORD0220,P220,Wooden Table,HP,2026-04-07,2026-04-10,MO0220,TT0220,Quality Control,Line B,High,479,257,222,Delayed,David,253,88,-165
+ORD0221,P221,Filing Cabinet,Target,2025-11-28,2025-12-17,MO0221,TT0221,Quality Control,Line A,High,377,170,207,In Progress,Sophia,261,161,-100
+ORD0222,P222,Storage Rack,Best Buy,2025-11-07,2025-11-11,MO0222,TT0222,Welding,Line A,High,270,233,37,In Progress,Emily,379,442,63
+ORD0223,P223,Office Chair,HP,2026-07-02,2026-07-15,MO0223,TT0223,Cutting,Line C,Low,399,246,153,In Progress,John,237,92,-145
+ORD0224,P224,Locker,Costco,2025-10-18,2025-10-25,MO0224,TT0224,Painting,Line A,Medium,158,145,13,In Progress,Emily,356,348,-8
+ORD0225,P225,Storage Rack,Best Buy,2026-04-15,2026-05-03,MO0225,TT0225,Quality Control,Line D,High,454,214,240,In Progress,Michael,233,129,-104
+ORD0226,P226,Tool Box,Walmart,2025-11-14,2025-11-23,MO0226,TT0226,Painting,Line C,High,499,350,149,Delayed,Sophia,333,183,-150
+ORD0227,P227,Tool Box,Dell,2025-07-04,2025-07-11,MO0227,TT0227,Welding,Line B,Medium,147,28,119,Delayed,David,305,232,-73
+ORD0228,P228,Steel Cabinet,Tesla,2026-06-21,2026-07-05,MO0228,TT0228,Cutting,Line B,Low,263,118,145,Completed,David,426,214,-212
+ORD0229,P229,Steel Cabinet,Tesla,2026-04-28,2026-05-07,MO0229,TT0229,Assembly,Line A,Low,301,46,255,In Progress,Sophia,418,385,-33
+ORD0230,P230,Tool Box,Apple,2025-10-13,2025-10-22,MO0230,TT0230,Cutting,Line A,High,96,90,6,Delayed,Sophia,86,273,187
+ORD0231,P231,Wooden Table,HP,2025-07-11,2025-07-16,MO0231,TT0231,Quality Control,Line C,Low,475,425,50,In Progress,Emily,238,375,137
+ORD0232,P232,Steel Cabinet,Best Buy,2025-10-01,2025-10-13,MO0232,TT0232,Cutting,Line C,Low,96,31,65,In Progress,Sophia,416,487,71
+ORD0233,P233,Locker,Costco,2025-11-15,2025-12-05,MO0233,TT0233,Painting,Line C,High,474,282,192,In Progress,Emily,273,359,86
+ORD0234,P234,Steel Cabinet,Best Buy,2025-12-22,2025-12-26,MO0234,TT0234,Welding,Line C,Medium,213,35,178,Delayed,Sophia,235,100,-135
+ORD0235,P235,Office Chair,Samsung,2026-02-07,2026-02-17,MO0235,TT0235,Painting,Line A,High,368,292,76,Delayed,Michael,441,322,-119
+ORD0236,P236,Metal Shelf,Target,2026-04-07,2026-04-26,MO0236,TT0236,Quality Control,Line B,Low,194,147,47,Completed,David,168,270,102
+ORD0237,P237,Workbench,Costco,2026-03-28,2026-04-01,MO0237,TT0237,Welding,Line B,Low,400,390,10,In Progress,John,360,56,-304
+ORD0238,P238,Storage Rack,Target,2025-07-03,2025-07-11,MO0238,TT0238,Quality Control,Line D,High,280,123,157,Completed,Sophia,226,476,250
+ORD0239,P239,Locker,Samsung,2025-07-31,2025-08-14,MO0239,TT0239,Welding,Line B,Medium,497,3,494,Delayed,Sophia,79,108,29
+ORD0240,P240,Office Chair,Tesla,2026-05-05,2026-05-22,MO0240,TT0240,Assembly,Line D,Medium,63,40,23,In Progress,David,292,163,-129
+ORD0241,P241,Metal Shelf,Samsung,2025-11-20,2025-11-27,MO0241,TT0241,Quality Control,Line D,Medium,211,124,87,In Progress,Emily,103,339,236
+ORD0242,P242,Storage Rack,HP,2026-01-29,2026-02-11,MO0242,TT0242,Painting,Line A,Medium,349,348,1,Completed,Sophia,329,256,-73
+ORD0243,P243,Tool Box,Dell,2025-09-15,2025-10-01,MO0243,TT0243,Cutting,Line B,High,166,20,146,In Progress,Emily,345,89,-256
+ORD0244,P244,Locker,Best Buy,2025-09-12,2025-09-24,MO0244,TT0244,Assembly,Line C,High,355,208,147,Completed,Emily,424,497,73
+ORD0245,P245,Metal Shelf,Target,2025-08-06,2025-08-20,MO0245,TT0245,Welding,Line A,Low,469,22,447,Delayed,Sophia,385,180,-205
+ORD0246,P246,Wooden Table,Walmart,2025-10-31,2025-11-18,MO0246,TT0246,Quality Control,Line D,High,467,151,316,In Progress,Michael,247,141,-106
+ORD0247,P247,Tool Box,Dell,2026-03-07,2026-03-18,MO0247,TT0247,Painting,Line C,Low,395,55,340,In Progress,David,191,124,-67
+ORD0248,P248,Metal Shelf,Walmart,2025-09-12,2025-09-24,MO0248,TT0248,Welding,Line C,Low,119,36,83,Completed,John,489,459,-30
+ORD0249,P249,Metal Shelf,Apple,2025-12-25,2026-01-13,MO0249,TT0249,Welding,Line C,High,338,223,115,In Progress,Emily,362,313,-49
+ORD0250,P250,Office Chair,HP,2026-02-15,2026-02-28,MO0250,TT0250,Cutting,Line D,Low,467,84,383,Delayed,John,125,265,140
+ORD0251,P251,Storage Rack,Apple,2026-01-22,2026-02-07,MO0251,TT0251,Cutting,Line A,Low,462,294,168,In Progress,Michael,382,161,-221
+ORD0252,P252,Workbench,HP,2025-11-02,2025-11-08,MO0252,TT0252,Cutting,Line D,Low,353,96,257,Delayed,Michael,401,247,-154
+ORD0253,P253,Filing Cabinet,Apple,2026-06-06,2026-06-09,MO0253,TT0253,Assembly,Line A,High,238,170,68,Delayed,Michael,338,350,12
+ORD0254,P254,Wooden Table,Costco,2025-08-06,2025-08-21,MO0254,TT0254,Cutting,Line A,Low,233,203,30,Completed,David,318,71,-247
+ORD0255,P255,Tool Box,Samsung,2026-06-05,2026-06-19,MO0255,TT0255,Assembly,Line A,High,325,227,98,In Progress,David,165,192,27
+ORD0256,P256,Steel Cabinet,HP,2026-03-19,2026-04-08,MO0256,TT0256,Painting,Line B,High,104,67,37,In Progress,Sophia,313,323,10
+ORD0257,P257,Tool Box,Costco,2025-08-27,2025-09-14,MO0257,TT0257,Quality Control,Line B,Low,462,247,215,Delayed,Sophia,427,124,-303
+ORD0258,P258,Filing Cabinet,Apple,2025-09-07,2025-09-12,MO0258,TT0258,Painting,Line A,High,185,134,51,Completed,Sophia,72,112,40
+ORD0259,P259,Metal Shelf,Target,2025-09-30,2025-10-11,MO0259,TT0259,Quality Control,Line B,Medium,263,198,65,Delayed,Sophia,410,382,-28
+ORD0260,P260,Workbench,Costco,2025-09-18,2025-09-21,MO0260,TT0260,Welding,Line D,High,401,174,227,Delayed,John,312,79,-233
+ORD0261,P261,Computer Desk,HP,2025-08-22,2025-09-10,MO0261,TT0261,Cutting,Line C,High,340,97,243,In Progress,David,240,429,189
+ORD0262,P262,Computer Desk,Samsung,2026-02-28,2026-03-14,MO0262,TT0262,Cutting,Line A,High,311,84,227,Completed,John,75,114,39
+ORD0263,P263,Office Chair,Best Buy,2025-08-04,2025-08-23,MO0263,TT0263,Painting,Line B,Medium,219,131,88,In Progress,David,117,181,64
+ORD0264,P264,Wooden Table,Dell,2025-07-27,2025-08-02,MO0264,TT0264,Quality Control,Line A,Medium,325,203,122,Delayed,John,488,89,-399
+ORD0265,P265,Steel Cabinet,Amazon,2025-09-17,2025-10-06,MO0265,TT0265,Quality Control,Line D,High,409,140,269,Delayed,Sophia,223,271,48
+ORD0266,P266,Metal Shelf,HP,2025-12-09,2025-12-14,MO0266,TT0266,Cutting,Line D,Low,255,130,125,Delayed,Michael,480,489,9
+ORD0267,P267,Steel Cabinet,Tesla,2025-07-15,2025-07-23,MO0267,TT0267,Welding,Line D,Medium,448,130,318,In Progress,Emily,192,337,145
+ORD0268,P268,Tool Box,Amazon,2025-12-31,2026-01-10,MO0268,TT0268,Painting,Line C,Medium,114,23,91,Completed,Emily,470,419,-51
+ORD0269,P269,Metal Shelf,Costco,2026-01-13,2026-01-28,MO0269,TT0269,Painting,Line C,High,437,34,403,Delayed,John,250,156,-94
+ORD0270,P270,Computer Desk,HP,2026-03-28,2026-04-17,MO0270,TT0270,Painting,Line C,Low,387,43,344,Completed,John,51,373,322
+ORD0271,P271,Computer Desk,Best Buy,2025-08-02,2025-08-16,MO0271,TT0271,Painting,Line A,High,324,315,9,Delayed,David,369,208,-161
+ORD0272,P272,Tool Box,Samsung,2025-09-20,2025-10-04,MO0272,TT0272,Painting,Line B,Low,129,53,76,Delayed,Sophia,493,112,-381
+ORD0273,P273,Locker,Target,2026-05-27,2026-06-04,MO0273,TT0273,Assembly,Line A,Medium,151,136,15,Completed,John,464,127,-337
+ORD0274,P274,Storage Rack,Amazon,2026-03-08,2026-03-21,MO0274,TT0274,Assembly,Line A,High,463,439,24,Completed,Michael,246,155,-91
+ORD0275,P275,Locker,Apple,2026-05-27,2026-06-15,MO0275,TT0275,Assembly,Line B,Low,62,35,27,Completed,Sophia,246,354,108
+ORD0276,P276,Storage Rack,Target,2025-11-12,2025-11-16,MO0276,TT0276,Cutting,Line D,High,172,163,9,In Progress,Emily,192,316,124
+ORD0277,P277,Metal Shelf,Amazon,2025-09-15,2025-09-30,MO0277,TT0277,Cutting,Line C,Low,463,338,125,Delayed,Sophia,472,305,-167
+ORD0278,P278,Metal Shelf,Tesla,2026-04-22,2026-05-04,MO0278,TT0278,Quality Control,Line C,Medium,297,151,146,In Progress,John,498,446,-52
+ORD0279,P279,Computer Desk,Apple,2025-10-01,2025-10-20,MO0279,TT0279,Cutting,Line B,Medium,394,348,46,Completed,Sophia,374,157,-217
+ORD0280,P280,Storage Rack,Best Buy,2025-11-24,2025-12-11,MO0280,TT0280,Welding,Line C,High,221,20,201,In Progress,Michael,134,288,154
+ORD0281,P281,Workbench,Dell,2026-01-14,2026-01-24,MO0281,TT0281,Painting,Line B,Low,325,156,169,Delayed,Michael,383,498,115
+ORD0282,P282,Steel Cabinet,Tesla,2025-09-19,2025-10-01,MO0282,TT0282,Quality Control,Line B,High,412,108,304,Completed,John,227,422,195
+ORD0283,P283,Steel Cabinet,Samsung,2026-01-23,2026-02-01,MO0283,TT0283,Cutting,Line B,Low,352,130,222,Delayed,John,460,306,-154
+ORD0284,P284,Office Chair,Tesla,2025-07-06,2025-07-26,MO0284,TT0284,Assembly,Line D,Low,125,17,108,Completed,Emily,327,447,120
+ORD0285,P285,Storage Rack,Samsung,2025-12-20,2026-01-03,MO0285,TT0285,Quality Control,Line A,High,107,0,107,Completed,Emily,388,443,55
+ORD0286,P286,Filing Cabinet,Samsung,2025-08-03,2025-08-06,MO0286,TT0286,Assembly,Line D,High,195,117,78,Delayed,David,302,369,67
+ORD0287,P287,Computer Desk,Costco,2026-03-31,2026-04-16,MO0287,TT0287,Assembly,Line D,Medium,393,240,153,Delayed,John,256,452,196
+ORD0288,P288,Computer Desk,Dell,2025-09-07,2025-09-23,MO0288,TT0288,Quality Control,Line B,Low,56,20,36,In Progress,Michael,411,468,57
+ORD0289,P289,Wooden Table,Target,2026-05-11,2026-05-28,MO0289,TT0289,Quality Control,Line B,Low,322,247,75,Completed,Michael,473,53,-420
+ORD0290,P290,Wooden Table,Samsung,2025-11-26,2025-11-30,MO0290,TT0290,Quality Control,Line D,Low,432,258,174,Completed,David,152,143,-9
+ORD0291,P291,Metal Shelf,Best Buy,2025-11-26,2025-12-12,MO0291,TT0291,Painting,Line C,Low,51,46,5,Completed,Emily,275,353,78
+ORD0292,P292,Computer Desk,Walmart,2025-08-22,2025-09-04,MO0292,TT0292,Assembly,Line B,High,130,30,100,Delayed,Michael,79,487,408
+ORD0293,P293,Storage Rack,Best Buy,2025-08-12,2025-08-17,MO0293,TT0293,Quality Control,Line C,High,492,203,289,Completed,Michael,143,267,124
+ORD0294,P294,Steel Cabinet,Dell,2026-01-18,2026-01-22,MO0294,TT0294,Assembly,Line A,Medium,372,101,271,In Progress,Sophia,287,372,85
+ORD0295,P295,Wooden Table,Tesla,2026-04-08,2026-04-25,MO0295,TT0295,Welding,Line C,High,415,208,207,In Progress,David,363,339,-24
+ORD0296,P296,Office Chair,Apple,2026-05-23,2026-06-04,MO0296,TT0296,Quality Control,Line D,Medium,426,156,270,Delayed,John,201,218,17
+ORD0297,P297,Filing Cabinet,Target,2025-08-05,2025-08-18,MO0297,TT0297,Cutting,Line D,Low,53,51,2,Completed,John,149,307,158
+ORD0298,P298,Steel Cabinet,Costco,2026-01-04,2026-01-15,MO0298,TT0298,Welding,Line C,High,202,86,116,Delayed,Sophia,383,188,-195
+ORD0299,P299,Metal Shelf,Best Buy,2025-10-15,2025-10-20,MO0299,TT0299,Assembly,Line A,High,365,5,360,Delayed,David,327,244,-83
+ORD0300,P300,Tool Box,HP,2025-11-18,2025-12-07,MO0300,TT0300,Painting,Line C,Medium,178,99,79,Delayed,Emily,191,237,46
+ORD0301,P301,Filing Cabinet,Walmart,2026-03-02,2026-03-11,MO0301,TT0301,Assembly,Line C,Medium,409,152,257,Delayed,John,344,492,148
+ORD0302,P302,Locker,Dell,2026-02-24,2026-02-28,MO0302,TT0302,Quality Control,Line A,High,343,114,229,Completed,John,386,189,-197
+ORD0303,P303,Steel Cabinet,Costco,2026-03-10,2026-03-22,MO0303,TT0303,Painting,Line D,Low,94,1,93,Completed,Sophia,104,281,177
+ORD0304,P304,Tool Box,HP,2025-08-26,2025-09-06,MO0304,TT0304,Welding,Line B,Low,298,276,22,In Progress,Michael,139,373,234
+ORD0305,P305,Filing Cabinet,Costco,2025-09-06,2025-09-16,MO0305,TT0305,Quality Control,Line B,Low,272,2,270,In Progress,Michael,214,210,-4
+ORD0306,P306,Workbench,HP,2025-10-28,2025-11-03,MO0306,TT0306,Quality Control,Line A,Medium,195,140,55,Delayed,Emily,136,409,273
+ORD0307,P307,Metal Shelf,Dell,2026-05-07,2026-05-17,MO0307,TT0307,Painting,Line C,Medium,462,48,414,In Progress,David,178,215,37
+ORD0308,P308,Workbench,Samsung,2025-07-15,2025-08-03,MO0308,TT0308,Painting,Line C,Low,270,61,209,Completed,David,486,58,-428
+ORD0309,P309,Tool Box,Walmart,2025-10-26,2025-11-08,MO0309,TT0309,Welding,Line D,Medium,259,218,41,Completed,Sophia,96,52,-44
+ORD0310,P310,Filing Cabinet,Dell,2025-08-06,2025-08-22,MO0310,TT0310,Painting,Line A,High,161,39,122,In Progress,David,361,247,-114
+ORD0311,P311,Metal Shelf,HP,2025-11-18,2025-12-04,MO0311,TT0311,Quality Control,Line A,Low,338,211,127,In Progress,John,370,417,47
+ORD0312,P312,Wooden Table,HP,2026-02-27,2026-03-08,MO0312,TT0312,Quality Control,Line D,High,490,404,86,Delayed,Sophia,277,168,-109
+ORD0313,P313,Office Chair,Tesla,2026-01-03,2026-01-11,MO0313,TT0313,Assembly,Line B,Medium,200,0,200,In Progress,John,492,280,-212
+ORD0314,P314,Tool Box,Walmart,2025-10-19,2025-10-25,MO0314,TT0314,Painting,Line D,Low,434,414,20,Delayed,Sophia,292,348,56
+ORD0315,P315,Locker,Target,2025-10-08,2025-10-12,MO0315,TT0315,Cutting,Line A,High,499,238,261,Completed,David,245,106,-139
+ORD0316,P316,Metal Shelf,Dell,2025-11-13,2025-11-21,MO0316,TT0316,Welding,Line D,Low,193,32,161,Completed,Michael,391,393,2
+ORD0317,P317,Filing Cabinet,Walmart,2025-07-19,2025-08-08,MO0317,TT0317,Cutting,Line A,High,344,231,113,Completed,Michael,447,174,-273
+ORD0318,P318,Metal Shelf,Walmart,2026-03-02,2026-03-12,MO0318,TT0318,Painting,Line A,Medium,61,48,13,Completed,John,149,414,265
+ORD0319,P319,Workbench,Dell,2025-12-03,2025-12-09,MO0319,TT0319,Quality Control,Line B,Low,180,162,18,In Progress,Michael,397,369,-28
+ORD0320,P320,Metal Shelf,HP,2026-06-13,2026-06-16,MO0320,TT0320,Welding,Line A,High,73,9,64,Delayed,Emily,372,409,37
+ORD0321,P321,Metal Shelf,HP,2025-11-09,2025-11-14,MO0321,TT0321,Welding,Line B,Medium,388,321,67,Delayed,Michael,132,455,323
+ORD0322,P322,Steel Cabinet,Tesla,2025-12-23,2026-01-12,MO0322,TT0322,Painting,Line C,Medium,137,32,105,Delayed,David,436,423,-13
+ORD0323,P323,Office Chair,Target,2026-06-01,2026-06-12,MO0323,TT0323,Quality Control,Line D,Low,456,126,330,Delayed,Sophia,228,362,134
+ORD0324,P324,Wooden Table,Best Buy,2026-04-15,2026-04-19,MO0324,TT0324,Welding,Line B,High,113,37,76,Delayed,Emily,405,172,-233
+ORD0325,P325,Metal Shelf,Amazon,2025-08-04,2025-08-08,MO0325,TT0325,Assembly,Line A,Medium,100,0,100,Delayed,Emily,75,178,103
+ORD0326,P326,Tool Box,Dell,2025-11-14,2025-12-02,MO0326,TT0326,Painting,Line D,Medium,207,42,165,Completed,John,91,479,388
+ORD0327,P327,Steel Cabinet,HP,2026-03-23,2026-03-31,MO0327,TT0327,Welding,Line B,Low,496,28,468,Completed,David,228,97,-131
+ORD0328,P328,Wooden Table,Amazon,2026-03-25,2026-03-29,MO0328,TT0328,Painting,Line B,High,351,80,271,Completed,Sophia,313,392,79
+ORD0329,P329,Wooden Table,Walmart,2026-06-03,2026-06-21,MO0329,TT0329,Assembly,Line B,High,367,331,36,Completed,John,386,176,-210
+ORD0330,P330,Office Chair,Target,2026-04-12,2026-04-29,MO0330,TT0330,Cutting,Line A,Medium,371,320,51,In Progress,Michael,202,168,-34
+ORD0331,P331,Tool Box,Apple,2026-02-08,2026-02-11,MO0331,TT0331,Cutting,Line B,Low,275,141,134,In Progress,Sophia,203,205,2
+ORD0332,P332,Wooden Table,Apple,2025-08-09,2025-08-13,MO0332,TT0332,Painting,Line B,Medium,450,172,278,Completed,John,499,100,-399
+ORD0333,P333,Tool Box,Samsung,2025-12-28,2025-12-31,MO0333,TT0333,Assembly,Line C,High,197,16,181,In Progress,David,280,377,97
+ORD0334,P334,Locker,Tesla,2025-10-04,2025-10-22,MO0334,TT0334,Assembly,Line C,High,317,39,278,In Progress,Michael,450,391,-59
+ORD0335,P335,Computer Desk,Best Buy,2025-10-23,2025-11-04,MO0335,TT0335,Cutting,Line C,High,209,54,155,In Progress,Michael,169,283,114
+ORD0336,P336,Steel Cabinet,Target,2025-11-04,2025-11-13,MO0336,TT0336,Painting,Line B,High,157,17,140,Completed,Michael,404,410,6
+ORD0337,P337,Workbench,Walmart,2026-02-08,2026-02-21,MO0337,TT0337,Cutting,Line D,Low,380,258,122,Delayed,David,441,143,-298
+ORD0338,P338,Storage Rack,Target,2026-06-16,2026-06-23,MO0338,TT0338,Painting,Line B,High,303,135,168,Delayed,Sophia,498,306,-192
+ORD0339,P339,Tool Box,Costco,2026-03-17,2026-03-26,MO0339,TT0339,Assembly,Line D,Medium,153,49,104,Delayed,John,135,179,44
+ORD0340,P340,Locker,Target,2026-04-22,2026-05-10,MO0340,TT0340,Welding,Line B,High,478,208,270,Delayed,David,304,243,-61
+ORD0341,P341,Tool Box,HP,2025-08-08,2025-08-27,MO0341,TT0341,Quality Control,Line D,Medium,485,97,388,Completed,Emily,412,65,-347
+ORD0342,P342,Steel Cabinet,Amazon,2025-12-17,2026-01-02,MO0342,TT0342,Painting,Line A,Medium,340,84,256,In Progress,Michael,330,471,141
+ORD0343,P343,Storage Rack,Dell,2026-03-11,2026-03-30,MO0343,TT0343,Quality Control,Line D,Low,356,286,70,Delayed,Michael,52,94,42
+ORD0344,P344,Steel Cabinet,Apple,2026-06-30,2026-07-14,MO0344,TT0344,Quality Control,Line D,Low,357,17,340,Completed,Sophia,492,370,-122
+ORD0345,P345,Locker,Samsung,2025-08-16,2025-08-22,MO0345,TT0345,Assembly,Line A,Low,310,22,288,Completed,Michael,311,215,-96
+ORD0346,P346,Office Chair,Dell,2025-09-09,2025-09-16,MO0346,TT0346,Assembly,Line B,High,456,190,266,Delayed,David,474,248,-226
+ORD0347,P347,Computer Desk,Dell,2025-07-09,2025-07-27,MO0347,TT0347,Painting,Line A,Low,81,45,36,Delayed,Emily,239,139,-100
+ORD0348,P348,Storage Rack,Costco,2026-05-12,2026-05-21,MO0348,TT0348,Cutting,Line D,Low,404,88,316,Completed,Sophia,220,251,31
+ORD0349,P349,Metal Shelf,HP,2025-08-01,2025-08-06,MO0349,TT0349,Welding,Line B,High,277,70,207,Completed,David,236,79,-157
+ORD0350,P350,Steel Cabinet,Best Buy,2025-10-02,2025-10-09,MO0350,TT0350,Painting,Line C,High,406,369,37,Delayed,Michael,309,65,-244
+ORD0351,P351,Office Chair,Amazon,2025-11-05,2025-11-09,MO0351,TT0351,Painting,Line C,High,79,69,10,Completed,Emily,418,162,-256
+ORD0352,P352,Locker,Dell,2025-09-02,2025-09-13,MO0352,TT0352,Assembly,Line A,Medium,213,57,156,In Progress,Emily,315,319,4
+ORD0353,P353,Tool Box,Walmart,2025-12-31,2026-01-16,MO0353,TT0353,Welding,Line A,Low,409,134,275,In Progress,David,134,453,319
+ORD0354,P354,Workbench,Costco,2026-04-15,2026-04-30,MO0354,TT0354,Cutting,Line D,Low,230,24,206,Delayed,Emily,240,193,-47
+ORD0355,P355,Workbench,Amazon,2025-09-09,2025-09-29,MO0355,TT0355,Quality Control,Line B,Medium,360,77,283,Delayed,David,280,234,-46
+ORD0356,P356,Wooden Table,Costco,2025-10-09,2025-10-16,MO0356,TT0356,Cutting,Line D,Medium,247,169,78,Delayed,Emily,498,117,-381
+ORD0357,P357,Wooden Table,HP,2026-03-01,2026-03-12,MO0357,TT0357,Welding,Line A,Medium,499,332,167,In Progress,Emily,167,332,165
+ORD0358,P358,Office Chair,Amazon,2025-12-09,2025-12-20,MO0358,TT0358,Painting,Line C,Low,486,445,41,Delayed,Michael,53,119,66
+ORD0359,P359,Office Chair,Best Buy,2025-08-20,2025-09-06,MO0359,TT0359,Quality Control,Line D,Low,296,178,118,Completed,Emily,64,118,54
+ORD0360,P360,Storage Rack,Dell,2026-06-01,2026-06-08,MO0360,TT0360,Cutting,Line B,High,214,119,95,In Progress,David,273,299,26
+ORD0361,P361,Steel Cabinet,Apple,2026-02-12,2026-02-25,MO0361,TT0361,Painting,Line A,Low,292,45,247,Delayed,Sophia,289,451,162
+ORD0362,P362,Computer Desk,Tesla,2026-03-18,2026-04-01,MO0362,TT0362,Painting,Line B,High,234,157,77,Completed,David,413,200,-213
+ORD0363,P363,Wooden Table,Apple,2025-08-26,2025-08-30,MO0363,TT0363,Cutting,Line A,Medium,477,79,398,In Progress,Emily,327,298,-29
+ORD0364,P364,Wooden Table,Walmart,2026-07-02,2026-07-12,MO0364,TT0364,Quality Control,Line D,Low,343,2,341,In Progress,Emily,362,219,-143
+ORD0365,P365,Metal Shelf,Costco,2025-07-06,2025-07-15,MO0365,TT0365,Painting,Line C,Medium,246,245,1,In Progress,Emily,346,74,-272
+ORD0366,P366,Storage Rack,Walmart,2025-08-09,2025-08-29,MO0366,TT0366,Assembly,Line C,High,474,121,353,In Progress,John,263,166,-97
+ORD0367,P367,Locker,Samsung,2025-08-30,2025-09-04,MO0367,TT0367,Painting,Line D,Medium,156,101,55,Completed,Sophia,77,328,251
+ORD0368,P368,Wooden Table,Samsung,2025-12-11,2025-12-25,MO0368,TT0368,Quality Control,Line B,High,352,96,256,Delayed,Emily,341,284,-57
+ORD0369,P369,Filing Cabinet,Target,2026-04-08,2026-04-11,MO0369,TT0369,Painting,Line B,High,316,95,221,Completed,David,325,493,168
+ORD0370,P370,Tool Box,Best Buy,2025-08-01,2025-08-17,MO0370,TT0370,Cutting,Line A,Low,279,249,30,Delayed,Michael,380,77,-303
+ORD0371,P371,Filing Cabinet,Samsung,2025-12-14,2025-12-28,MO0371,TT0371,Welding,Line C,High,348,313,35,In Progress,Michael,106,83,-23
+ORD0372,P372,Workbench,Samsung,2026-02-22,2026-03-03,MO0372,TT0372,Painting,Line B,High,105,75,30,Completed,David,187,498,311
+ORD0373,P373,Office Chair,Best Buy,2026-05-09,2026-05-27,MO0373,TT0373,Welding,Line C,Medium,348,69,279,Delayed,David,100,269,169
+ORD0374,P374,Workbench,Tesla,2026-01-21,2026-02-06,MO0374,TT0374,Assembly,Line D,Medium,449,99,350,Delayed,Michael,330,205,-125
+ORD0375,P375,Wooden Table,Dell,2026-01-22,2026-02-09,MO0375,TT0375,Cutting,Line D,Medium,401,166,235,Delayed,John,199,499,300
+ORD0376,P376,Storage Rack,Target,2025-12-04,2025-12-10,MO0376,TT0376,Quality Control,Line B,Low,371,47,324,Completed,Sophia,309,429,120
+ORD0377,P377,Office Chair,Tesla,2026-02-07,2026-02-12,MO0377,TT0377,Painting,Line A,High,404,317,87,Completed,Sophia,170,200,30
+ORD0378,P378,Filing Cabinet,Dell,2025-09-01,2025-09-16,MO0378,TT0378,Cutting,Line C,Low,348,153,195,Completed,David,346,356,10
+ORD0379,P379,Workbench,Target,2025-10-11,2025-10-18,MO0379,TT0379,Welding,Line B,High,328,11,317,In Progress,John,87,105,18
+ORD0380,P380,Tool Box,Target,2025-11-01,2025-11-21,MO0380,TT0380,Welding,Line B,Medium,483,161,322,Completed,John,489,446,-43
+ORD0381,P381,Steel Cabinet,Target,2025-08-10,2025-08-15,MO0381,TT0381,Welding,Line C,Low,257,152,105,Delayed,John,222,340,118
+ORD0382,P382,Metal Shelf,Samsung,2025-09-28,2025-10-17,MO0382,TT0382,Cutting,Line B,High,201,50,151,Completed,Sophia,346,497,151
+ORD0383,P383,Workbench,Dell,2025-11-28,2025-12-08,MO0383,TT0383,Painting,Line D,High,407,344,63,In Progress,Sophia,209,137,-72
+ORD0384,P384,Filing Cabinet,Amazon,2026-02-05,2026-02-25,MO0384,TT0384,Welding,Line B,Medium,313,220,93,In Progress,Sophia,330,397,67
+ORD0385,P385,Tool Box,HP,2026-01-25,2026-02-02,MO0385,TT0385,Painting,Line D,Low,146,48,98,Delayed,David,222,401,179
+ORD0386,P386,Metal Shelf,Dell,2025-09-14,2025-09-27,MO0386,TT0386,Cutting,Line A,Medium,432,405,27,Delayed,Emily,423,309,-114
+ORD0387,P387,Office Chair,Tesla,2026-04-08,2026-04-11,MO0387,TT0387,Quality Control,Line A,Medium,461,117,344,Delayed,Michael,206,215,9
+ORD0388,P388,Workbench,Amazon,2026-02-21,2026-03-07,MO0388,TT0388,Quality Control,Line D,Low,383,320,63,Delayed,Sophia,227,143,-84
+ORD0389,P389,Steel Cabinet,Apple,2026-02-06,2026-02-22,MO0389,TT0389,Cutting,Line C,High,131,76,55,In Progress,David,430,222,-208
+ORD0390,P390,Storage Rack,Walmart,2025-10-10,2025-10-20,MO0390,TT0390,Welding,Line A,Low,94,56,38,In Progress,Emily,377,337,-40
+ORD0391,P391,Locker,Best Buy,2025-08-13,2025-08-29,MO0391,TT0391,Cutting,Line B,Medium,398,318,80,Completed,Emily,500,58,-442
+ORD0392,P392,Steel Cabinet,Samsung,2025-12-25,2026-01-13,MO0392,TT0392,Welding,Line D,Medium,322,319,3,Completed,David,345,239,-106
+ORD0393,P393,Steel Cabinet,Apple,2025-09-14,2025-10-01,MO0393,TT0393,Painting,Line A,Low,405,199,206,In Progress,Sophia,221,286,65
+ORD0394,P394,Wooden Table,Dell,2026-06-26,2026-06-29,MO0394,TT0394,Quality Control,Line D,Low,142,95,47,Completed,John,370,157,-213
+ORD0395,P395,Filing Cabinet,HP,2026-06-17,2026-07-04,MO0395,TT0395,Cutting,Line C,High,61,49,12,In Progress,John,493,456,-37
+ORD0396,P396,Wooden Table,Samsung,2026-03-13,2026-03-25,MO0396,TT0396,Quality Control,Line A,Medium,363,127,236,Delayed,John,271,500,229
+ORD0397,P397,Tool Box,Target,2025-07-22,2025-08-10,MO0397,TT0397,Painting,Line B,Medium,246,109,137,Delayed,John,265,419,154
+ORD0398,P398,Locker,Best Buy,2025-11-24,2025-12-04,MO0398,TT0398,Cutting,Line D,Medium,361,118,243,Completed,Michael,450,125,-325
+ORD0399,P399,Metal Shelf,Apple,2026-03-29,2026-04-05,MO0399,TT0399,Quality Control,Line C,High,83,67,16,Delayed,Sophia,397,302,-95
+ORD0400,P400,Office Chair,Best Buy,2025-10-09,2025-10-17,MO0400,TT0400,Painting,Line C,Medium,448,187,261,In Progress,Michael,412,169,-243
+ORD0401,P401,Locker,Dell,2026-01-08,2026-01-13,MO0401,TT0401,Painting,Line C,High,117,106,11,Completed,Michael,325,468,143
+ORD0402,P402,Computer Desk,HP,2025-10-09,2025-10-16,MO0402,TT0402,Cutting,Line D,High,330,44,286,In Progress,Michael,450,143,-307
+ORD0403,P403,Tool Box,Best Buy,2026-06-09,2026-06-12,MO0403,TT0403,Quality Control,Line C,High,50,30,20,Completed,Emily,288,188,-100
+ORD0404,P404,Computer Desk,Walmart,2025-10-02,2025-10-08,MO0404,TT0404,Painting,Line C,High,332,251,81,In Progress,Michael,429,127,-302
+ORD0405,P405,Storage Rack,Apple,2026-01-10,2026-01-29,MO0405,TT0405,Cutting,Line B,Medium,194,130,64,In Progress,Emily,151,122,-29
+ORD0406,P406,Tool Box,Amazon,2025-11-29,2025-12-08,MO0406,TT0406,Painting,Line D,High,202,40,162,In Progress,Emily,445,77,-368
+ORD0407,P407,Office Chair,HP,2026-04-03,2026-04-22,MO0407,TT0407,Quality Control,Line B,High,234,32,202,In Progress,Michael,93,69,-24
+ORD0408,P408,Locker,Target,2026-03-06,2026-03-12,MO0408,TT0408,Quality Control,Line C,Low,470,382,88,Completed,Michael,450,262,-188
+ORD0409,P409,Tool Box,Best Buy,2025-10-26,2025-11-10,MO0409,TT0409,Welding,Line B,High,473,259,214,Delayed,David,96,180,84
+ORD0410,P410,Storage Rack,Costco,2025-07-29,2025-08-04,MO0410,TT0410,Assembly,Line A,Low,57,12,45,Completed,David,402,178,-224
+ORD0411,P411,Office Chair,Best Buy,2026-06-13,2026-06-23,MO0411,TT0411,Quality Control,Line C,Low,315,55,260,Completed,Michael,262,282,20
+ORD0412,P412,Filing Cabinet,Tesla,2025-08-08,2025-08-15,MO0412,TT0412,Cutting,Line A,High,96,69,27,Delayed,Sophia,141,478,337
+ORD0413,P413,Workbench,HP,2025-12-07,2025-12-16,MO0413,TT0413,Welding,Line C,Low,227,57,170,In Progress,Emily,429,83,-346
+ORD0414,P414,Locker,Best Buy,2026-04-12,2026-04-22,MO0414,TT0414,Cutting,Line D,Low,372,1,371,In Progress,Sophia,67,83,16
+ORD0415,P415,Wooden Table,Walmart,2026-04-05,2026-04-23,MO0415,TT0415,Cutting,Line D,Medium,158,90,68,Completed,David,360,51,-309
+ORD0416,P416,Wooden Table,Apple,2025-08-14,2025-08-24,MO0416,TT0416,Welding,Line B,Medium,62,42,20,Delayed,Sophia,233,236,3
+ORD0417,P417,Steel Cabinet,Walmart,2025-12-21,2026-01-01,MO0417,TT0417,Painting,Line A,High,418,296,122,Completed,Michael,85,149,64
+ORD0418,P418,Metal Shelf,Amazon,2026-05-31,2026-06-07,MO0418,TT0418,Cutting,Line C,High,280,5,275,Delayed,Michael,369,421,52
+ORD0419,P419,Wooden Table,Apple,2025-11-15,2025-11-23,MO0419,TT0419,Painting,Line A,High,113,90,23,In Progress,Sophia,443,188,-255
+ORD0420,P420,Tool Box,HP,2026-03-29,2026-04-11,MO0420,TT0420,Painting,Line C,Medium,111,54,57,In Progress,Michael,204,357,153
+ORD0421,P421,Locker,Best Buy,2025-07-10,2025-07-18,MO0421,TT0421,Welding,Line C,Low,78,58,20,Completed,Sophia,52,466,414
+ORD0422,P422,Metal Shelf,Tesla,2026-01-26,2026-02-06,MO0422,TT0422,Quality Control,Line D,Low,205,187,18,Delayed,Emily,180,93,-87
+ORD0423,P423,Wooden Table,Costco,2025-09-19,2025-09-26,MO0423,TT0423,Painting,Line B,Low,331,37,294,In Progress,Sophia,489,274,-215
+ORD0424,P424,Computer Desk,Costco,2026-03-07,2026-03-20,MO0424,TT0424,Cutting,Line C,High,291,289,2,Completed,David,153,480,327
+ORD0425,P425,Filing Cabinet,HP,2026-01-18,2026-02-01,MO0425,TT0425,Cutting,Line C,Low,92,50,42,Completed,John,266,493,227
+ORD0426,P426,Storage Rack,Best Buy,2025-12-14,2025-12-23,MO0426,TT0426,Welding,Line A,High,478,86,392,Delayed,Emily,349,159,-190
+ORD0427,P427,Filing Cabinet,Dell,2025-12-29,2026-01-05,MO0427,TT0427,Quality Control,Line C,Medium,116,1,115,Delayed,Michael,386,345,-41
+ORD0428,P428,Metal Shelf,Dell,2026-01-09,2026-01-25,MO0428,TT0428,Assembly,Line B,Medium,288,103,185,Delayed,Sophia,86,192,106
+ORD0429,P429,Wooden Table,Samsung,2025-12-24,2025-12-31,MO0429,TT0429,Welding,Line B,High,420,278,142,In Progress,David,100,213,113
+ORD0430,P430,Tool Box,Tesla,2025-07-15,2025-08-04,MO0430,TT0430,Quality Control,Line C,High,425,115,310,Completed,John,133,150,17
+ORD0431,P431,Steel Cabinet,HP,2025-08-30,2025-09-08,MO0431,TT0431,Cutting,Line B,Low,452,362,90,Completed,John,289,430,141
+ORD0432,P432,Tool Box,Amazon,2025-07-30,2025-08-12,MO0432,TT0432,Welding,Line A,High,230,147,83,In Progress,David,67,247,180
+ORD0433,P433,Workbench,Costco,2025-10-01,2025-10-10,MO0433,TT0433,Cutting,Line C,Medium,182,60,122,In Progress,David,364,302,-62
+ORD0434,P434,Filing Cabinet,Tesla,2025-07-19,2025-07-28,MO0434,TT0434,Painting,Line B,Low,197,119,78,In Progress,Emily,298,240,-58
+ORD0435,P435,Workbench,Dell,2025-12-01,2025-12-15,MO0435,TT0435,Welding,Line B,High,406,242,164,Completed,John,108,150,42
+ORD0436,P436,Workbench,Best Buy,2026-04-11,2026-04-28,MO0436,TT0436,Assembly,Line B,Medium,323,243,80,Delayed,David,290,172,-118
+ORD0437,P437,Metal Shelf,HP,2025-12-19,2026-01-04,MO0437,TT0437,Assembly,Line D,High,353,111,242,Completed,John,76,248,172
+ORD0438,P438,Steel Cabinet,Best Buy,2026-04-29,2026-05-11,MO0438,TT0438,Assembly,Line C,Medium,314,35,279,In Progress,Michael,388,487,99
+ORD0439,P439,Locker,Apple,2026-01-06,2026-01-24,MO0439,TT0439,Cutting,Line B,High,91,5,86,In Progress,Emily,270,174,-96
+ORD0440,P440,Steel Cabinet,Dell,2025-10-03,2025-10-19,MO0440,TT0440,Cutting,Line B,Medium,500,247,253,Delayed,Emily,402,491,89
+ORD0441,P441,Office Chair,Target,2025-09-15,2025-09-22,MO0441,TT0441,Cutting,Line C,High,70,26,44,In Progress,Sophia,146,136,-10
+ORD0442,P442,Workbench,Costco,2026-01-15,2026-01-18,MO0442,TT0442,Cutting,Line B,Medium,236,70,166,In Progress,Sophia,318,115,-203
+ORD0443,P443,Filing Cabinet,Tesla,2026-03-28,2026-04-09,MO0443,TT0443,Painting,Line C,High,238,234,4,In Progress,Sophia,426,82,-344
+ORD0444,P444,Metal Shelf,Walmart,2026-01-03,2026-01-20,MO0444,TT0444,Cutting,Line D,Low,267,171,96,Delayed,John,476,147,-329
+ORD0445,P445,Steel Cabinet,Best Buy,2025-08-19,2025-08-28,MO0445,TT0445,Painting,Line D,Low,114,74,40,Delayed,Emily,284,103,-181
+ORD0446,P446,Computer Desk,Best Buy,2026-05-30,2026-06-07,MO0446,TT0446,Assembly,Line B,High,174,112,62,Completed,Michael,283,227,-56
+ORD0447,P447,Metal Shelf,Costco,2025-11-18,2025-12-07,MO0447,TT0447,Painting,Line B,High,340,59,281,In Progress,Sophia,489,299,-190
+ORD0448,P448,Locker,Apple,2026-05-14,2026-05-22,MO0448,TT0448,Cutting,Line A,Medium,289,91,198,Completed,David,382,57,-325
+ORD0449,P449,Wooden Table,Walmart,2025-10-10,2025-10-20,MO0449,TT0449,Assembly,Line B,Low,488,284,204,Delayed,Sophia,89,111,22
+ORD0450,P450,Filing Cabinet,Best Buy,2026-06-04,2026-06-19,MO0450,TT0450,Quality Control,Line D,Low,404,388,16,In Progress,Sophia,381,477,96
+ORD0451,P451,Storage Rack,Samsung,2026-04-15,2026-04-24,MO0451,TT0451,Welding,Line C,Low,320,230,90,Completed,John,208,330,122
+ORD0452,P452,Workbench,Costco,2025-10-27,2025-11-02,MO0452,TT0452,Quality Control,Line A,Low,369,326,43,In Progress,David,173,452,279
+ORD0453,P453,Tool Box,Walmart,2025-07-02,2025-07-15,MO0453,TT0453,Painting,Line D,Low,149,80,69,Delayed,Sophia,472,455,-17
+ORD0454,P454,Steel Cabinet,Target,2026-04-07,2026-04-17,MO0454,TT0454,Quality Control,Line B,Low,55,34,21,Delayed,John,285,409,124
+ORD0455,P455,Office Chair,Dell,2026-05-18,2026-05-22,MO0455,TT0455,Quality Control,Line D,High,440,342,98,Completed,John,148,382,234
+ORD0456,P456,Metal Shelf,Amazon,2025-09-25,2025-10-14,MO0456,TT0456,Painting,Line C,Medium,200,198,2,Delayed,David,410,400,-10
+ORD0457,P457,Computer Desk,Apple,2026-01-02,2026-01-15,MO0457,TT0457,Assembly,Line B,Medium,324,312,12,Completed,David,278,230,-48
+ORD0458,P458,Locker,Costco,2025-08-06,2025-08-26,MO0458,TT0458,Quality Control,Line C,High,198,98,100,In Progress,David,388,150,-238
+ORD0459,P459,Metal Shelf,Apple,2025-10-24,2025-10-27,MO0459,TT0459,Painting,Line B,High,242,202,40,Completed,John,244,222,-22
+ORD0460,P460,Filing Cabinet,Amazon,2026-06-12,2026-06-28,MO0460,TT0460,Painting,Line C,Medium,424,381,43,Completed,Emily,114,209,95
+ORD0461,P461,Tool Box,HP,2025-12-14,2025-12-23,MO0461,TT0461,Welding,Line A,Medium,123,20,103,Completed,John,422,202,-220
+ORD0462,P462,Workbench,Tesla,2026-04-14,2026-04-30,MO0462,TT0462,Cutting,Line D,Medium,333,327,6,In Progress,Emily,448,269,-179
+ORD0463,P463,Tool Box,Apple,2026-03-13,2026-03-17,MO0463,TT0463,Quality Control,Line B,Low,67,65,2,Completed,Emily,55,245,190
+ORD0464,P464,Locker,Samsung,2025-12-28,2026-01-03,MO0464,TT0464,Cutting,Line B,High,123,49,74,Completed,Michael,245,268,23
+ORD0465,P465,Workbench,Apple,2026-01-19,2026-01-27,MO0465,TT0465,Assembly,Line A,High,484,436,48,In Progress,Sophia,278,281,3
+ORD0466,P466,Steel Cabinet,Dell,2025-09-25,2025-10-02,MO0466,TT0466,Painting,Line B,Low,132,58,74,In Progress,Michael,95,227,132
+ORD0467,P467,Metal Shelf,Apple,2025-09-23,2025-10-10,MO0467,TT0467,Cutting,Line B,Medium,184,160,24,Completed,Sophia,404,320,-84
+ORD0468,P468,Locker,Target,2026-06-18,2026-06-26,MO0468,TT0468,Welding,Line D,Low,301,115,186,In Progress,David,303,405,102
+ORD0469,P469,Workbench,Samsung,2025-09-08,2025-09-17,MO0469,TT0469,Cutting,Line D,High,96,22,74,In Progress,John,248,500,252
+ORD0470,P470,Metal Shelf,Costco,2025-11-22,2025-12-01,MO0470,TT0470,Cutting,Line B,High,436,133,303,In Progress,Emily,322,356,34
+ORD0471,P471,Steel Cabinet,Best Buy,2025-09-25,2025-10-05,MO0471,TT0471,Cutting,Line A,Low,433,355,78,Delayed,John,52,413,361
+ORD0472,P472,Steel Cabinet,Tesla,2025-08-16,2025-08-22,MO0472,TT0472,Quality Control,Line A,High,110,74,36,In Progress,David,489,428,-61
+ORD0473,P473,Steel Cabinet,Costco,2026-02-28,2026-03-15,MO0473,TT0473,Assembly,Line C,High,413,237,176,In Progress,John,169,273,104
+ORD0474,P474,Office Chair,Amazon,2025-12-30,2026-01-18,MO0474,TT0474,Cutting,Line C,High,218,70,148,Completed,Michael,200,162,-38
+ORD0475,P475,Tool Box,Dell,2025-10-02,2025-10-07,MO0475,TT0475,Painting,Line C,Low,120,52,68,Completed,David,330,379,49
+ORD0476,P476,Locker,Best Buy,2026-01-09,2026-01-21,MO0476,TT0476,Assembly,Line B,High,405,326,79,Delayed,David,76,376,300
+ORD0477,P477,Workbench,Target,2025-12-11,2025-12-23,MO0477,TT0477,Assembly,Line A,High,375,314,61,Delayed,Michael,342,100,-242
+ORD0478,P478,Locker,Best Buy,2026-01-18,2026-01-29,MO0478,TT0478,Welding,Line A,Medium,135,46,89,Delayed,Michael,200,267,67
+ORD0479,P479,Locker,Walmart,2026-01-29,2026-02-18,MO0479,TT0479,Quality Control,Line B,Low,92,74,18,In Progress,David,171,400,229
+ORD0480,P480,Workbench,Tesla,2025-07-30,2025-08-12,MO0480,TT0480,Assembly,Line D,Low,308,290,18,Delayed,David,500,474,-26
+ORD0481,P481,Filing Cabinet,Dell,2026-04-25,2026-05-09,MO0481,TT0481,Cutting,Line A,Low,304,108,196,Delayed,John,293,140,-153
+ORD0482,P482,Filing Cabinet,Walmart,2025-10-20,2025-10-23,MO0482,TT0482,Painting,Line D,Medium,462,31,431,Completed,David,381,437,56
+ORD0483,P483,Tool Box,Tesla,2025-07-14,2025-07-30,MO0483,TT0483,Welding,Line A,Low,367,35,332,In Progress,Emily,222,257,35
+ORD0484,P484,Computer Desk,Apple,2025-12-03,2025-12-14,MO0484,TT0484,Painting,Line D,Medium,289,255,34,Delayed,John,98,100,2
+ORD0485,P485,Steel Cabinet,Tesla,2026-05-06,2026-05-16,MO0485,TT0485,Assembly,Line C,Low,324,39,285,Completed,Michael,151,460,309
+ORD0486,P486,Filing Cabinet,Amazon,2026-02-25,2026-03-15,MO0486,TT0486,Welding,Line D,High,158,105,53,In Progress,David,435,481,46
+ORD0487,P487,Tool Box,Walmart,2025-09-05,2025-09-15,MO0487,TT0487,Painting,Line D,Medium,408,217,191,Delayed,Emily,80,434,354
+ORD0488,P488,Steel Cabinet,Walmart,2026-03-26,2026-04-02,MO0488,TT0488,Quality Control,Line C,Low,72,2,70,Delayed,Emily,197,395,198
+ORD0489,P489,Office Chair,Walmart,2026-03-29,2026-04-09,MO0489,TT0489,Cutting,Line B,High,164,150,14,In Progress,Emily,404,425,21
+ORD0490,P490,Steel Cabinet,Best Buy,2026-01-31,2026-02-20,MO0490,TT0490,Quality Control,Line A,High,451,368,83,Delayed,Emily,250,76,-174
+ORD0491,P491,Storage Rack,HP,2025-09-20,2025-10-07,MO0491,TT0491,Welding,Line C,Medium,70,1,69,In Progress,Sophia,118,100,-18
+ORD0492,P492,Wooden Table,Samsung,2025-09-30,2025-10-03,MO0492,TT0492,Welding,Line C,Low,98,32,66,In Progress,Sophia,127,230,103
+ORD0493,P493,Filing Cabinet,Apple,2026-02-12,2026-02-16,MO0493,TT0493,Assembly,Line D,Low,92,20,72,In Progress,Sophia,94,352,258
+ORD0494,P494,Storage Rack,HP,2026-06-01,2026-06-07,MO0494,TT0494,Assembly,Line C,Medium,441,91,350,In Progress,Emily,185,228,43
+ORD0495,P495,Filing Cabinet,Walmart,2026-02-12,2026-03-01,MO0495,TT0495,Welding,Line D,Medium,328,39,289,In Progress,John,168,63,-105
+ORD0496,P496,Locker,Best Buy,2026-05-15,2026-05-24,MO0496,TT0496,Cutting,Line D,High,404,380,24,Delayed,David,196,486,290
+ORD0497,P497,Workbench,Apple,2025-12-13,2025-12-30,MO0497,TT0497,Cutting,Line B,Low,442,108,334,In Progress,John,343,455,112
+ORD0498,P498,Filing Cabinet,HP,2025-08-21,2025-09-03,MO0498,TT0498,Assembly,Line D,Low,396,161,235,Delayed,David,245,83,-162
+ORD0499,P499,Tool Box,Amazon,2025-08-19,2025-09-04,MO0499,TT0499,Quality Control,Line D,High,176,86,90,Delayed,John,98,358,260
+ORD0500,P500,Locker,Dell,2026-02-01,2026-02-10,MO0500,TT0500,Welding,Line D,Medium,439,48,391,Delayed,John,461,325,-136

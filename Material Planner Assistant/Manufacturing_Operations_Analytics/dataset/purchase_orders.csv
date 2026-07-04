@@ -1,0 +1,501 @@
+PO_Number,Supplier,PO_Date,Item,Ordered_Qty,Received_Qty,PO_Amount,Buyer,PO_Status
+PO0001,ABC Metals,2026-01-20,Storage Rack,244,171,28060,James,Partial
+PO0002,Vertex Industries,2026-03-14,Computer Desk,329,155,24346,Daniel,Partial
+PO0003,Global Steel,2025-07-08,Storage Rack,365,252,17885,Alice,Open
+PO0004,Future Materials,2026-05-27,Office Chair,134,16,8174,James,Partial
+PO0005,Future Materials,2026-04-02,Office Chair,495,438,22770,Linda,Open
+PO0006,ABC Metals,2026-02-26,Workbench,290,245,22620,James,Closed
+PO0007,Prime Industries,2026-01-09,Locker,469,389,27202,Alice,Closed
+PO0008,Global Steel,2026-05-10,Wooden Table,201,96,13869,James,Partial
+PO0009,Prime Industries,2026-02-11,Locker,151,78,3322,Robert,Open
+PO0010,ABC Metals,2025-12-22,Metal Shelf,486,108,32562,James,Partial
+PO0011,Rapid Components,2026-02-21,Filing Cabinet,368,121,12880,Robert,Open
+PO0012,Titan Supply,2026-04-08,Filing Cabinet,471,352,35325,Robert,Open
+PO0013,United Supplies,2026-03-13,Locker,65,45,5525,James,Open
+PO0014,United Supplies,2026-06-21,Locker,331,58,6951,Daniel,Partial
+PO0015,Rapid Components,2025-12-13,Storage Rack,295,271,30680,Robert,Closed
+PO0016,Prime Industries,2026-02-25,Locker,97,35,8924,Linda,Closed
+PO0017,Prime Industries,2026-03-01,Workbench,444,387,19092,Daniel,Open
+PO0018,Future Materials,2025-12-23,Wooden Table,438,353,41610,Daniel,Closed
+PO0019,Industrial Parts,2025-11-27,Tool Box,297,175,34155,James,Partial
+PO0020,Vertex Industries,2025-08-12,Workbench,352,35,22528,Daniel,Open
+PO0021,United Supplies,2026-01-24,Computer Desk,454,10,20430,Linda,Partial
+PO0022,ABC Metals,2026-06-02,Steel Cabinet,312,236,18408,James,Open
+PO0023,Blue Manufacturing,2025-12-26,Steel Cabinet,226,163,5424,Daniel,Open
+PO0024,Blue Manufacturing,2026-05-26,Wooden Table,100,95,9300,Robert,Partial
+PO0025,Prime Industries,2026-01-27,Office Chair,371,65,34503,James,Closed
+PO0026,Rapid Components,2026-04-30,Wooden Table,191,74,17190,Linda,Open
+PO0027,Titan Supply,2025-08-08,Filing Cabinet,444,405,20868,Daniel,Partial
+PO0028,Blue Manufacturing,2026-06-04,Workbench,422,313,46420,Daniel,Closed
+PO0029,Industrial Parts,2026-02-07,Tool Box,351,147,28782,Linda,Closed
+PO0030,Global Steel,2025-07-14,Storage Rack,252,228,18396,Robert,Partial
+PO0031,ABC Metals,2025-12-05,Filing Cabinet,87,41,4437,Linda,Closed
+PO0032,Industrial Parts,2025-08-09,Wooden Table,438,122,46866,Daniel,Partial
+PO0033,ABC Metals,2026-01-21,Steel Cabinet,386,89,15826,Alice,Closed
+PO0034,Prime Industries,2025-10-08,Workbench,99,62,4851,James,Closed
+PO0035,Vertex Industries,2025-07-10,Steel Cabinet,463,253,52319,Robert,Open
+PO0036,Vertex Industries,2026-01-05,Steel Cabinet,59,26,1947,Linda,Open
+PO0037,Rapid Components,2025-12-17,Steel Cabinet,278,32,20294,Linda,Partial
+PO0038,Titan Supply,2025-10-29,Steel Cabinet,234,7,20826,Linda,Partial
+PO0039,Blue Manufacturing,2026-06-19,Steel Cabinet,109,52,7630,Robert,Closed
+PO0040,United Supplies,2026-01-21,Filing Cabinet,311,20,35143,Linda,Partial
+PO0041,Industrial Parts,2026-01-09,Metal Shelf,195,84,5655,Alice,Partial
+PO0042,Global Steel,2026-01-05,Metal Shelf,465,140,38130,Linda,Closed
+PO0043,Industrial Parts,2026-03-10,Tool Box,391,296,23460,Daniel,Partial
+PO0044,Blue Manufacturing,2025-07-28,Metal Shelf,362,305,41992,Alice,Closed
+PO0045,ABC Metals,2026-04-08,Metal Shelf,489,72,38142,Robert,Open
+PO0046,United Supplies,2026-02-26,Office Chair,368,128,34960,Alice,Partial
+PO0047,Prime Industries,2025-11-09,Wooden Table,301,227,20468,Robert,Closed
+PO0048,Rapid Components,2025-10-23,Filing Cabinet,257,59,13364,Robert,Closed
+PO0049,Global Steel,2026-03-10,Tool Box,453,425,54360,Daniel,Closed
+PO0050,Vertex Industries,2026-03-14,Computer Desk,65,4,2275,Robert,Open
+PO0051,Future Materials,2026-02-10,Workbench,147,43,17640,Robert,Open
+PO0052,Rapid Components,2025-10-31,Computer Desk,182,152,12376,Linda,Closed
+PO0053,Future Materials,2025-08-10,Storage Rack,386,335,13896,James,Partial
+PO0054,Titan Supply,2026-03-13,Wooden Table,380,36,27740,Linda,Partial
+PO0055,ABC Metals,2025-11-04,Locker,148,91,9916,Daniel,Partial
+PO0056,United Supplies,2026-03-20,Filing Cabinet,156,42,11700,James,Partial
+PO0057,Rapid Components,2025-10-02,Filing Cabinet,419,200,23883,Robert,Open
+PO0058,Vertex Industries,2025-10-10,Workbench,286,221,12584,Alice,Open
+PO0059,Future Materials,2026-03-17,Computer Desk,104,4,5824,Alice,Open
+PO0060,Rapid Components,2025-08-01,Computer Desk,155,130,10075,Daniel,Partial
+PO0061,ABC Metals,2025-10-24,Computer Desk,219,96,15768,James,Closed
+PO0062,Blue Manufacturing,2026-05-25,Filing Cabinet,203,62,18473,Alice,Open
+PO0063,United Supplies,2026-06-21,Workbench,400,184,37600,Linda,Partial
+PO0064,Titan Supply,2025-08-03,Wooden Table,194,43,21146,Robert,Partial
+PO0065,United Supplies,2026-01-22,Locker,324,191,17496,Linda,Open
+PO0066,Global Steel,2025-08-12,Office Chair,474,213,55932,Linda,Closed
+PO0067,Prime Industries,2025-09-14,Metal Shelf,390,383,27300,Alice,Closed
+PO0068,Prime Industries,2026-01-12,Wooden Table,260,136,7020,Alice,Closed
+PO0069,ABC Metals,2025-09-28,Filing Cabinet,95,6,10545,James,Partial
+PO0070,Blue Manufacturing,2025-11-24,Computer Desk,386,268,16598,Daniel,Partial
+PO0071,ABC Metals,2026-07-02,Office Chair,248,72,5456,James,Partial
+PO0072,Titan Supply,2026-06-18,Storage Rack,280,278,19880,Alice,Closed
+PO0073,Rapid Components,2025-11-04,Metal Shelf,151,126,12684,Linda,Partial
+PO0074,Vertex Industries,2025-12-17,Filing Cabinet,124,118,3968,Robert,Partial
+PO0075,United Supplies,2025-10-25,Workbench,394,279,31520,Alice,Partial
+PO0076,Titan Supply,2025-09-10,Wooden Table,261,110,16443,Robert,Partial
+PO0077,United Supplies,2026-06-08,Filing Cabinet,346,90,26988,Linda,Partial
+PO0078,ABC Metals,2025-08-18,Steel Cabinet,242,112,16698,Linda,Closed
+PO0079,Global Steel,2025-07-25,Locker,468,325,17784,James,Partial
+PO0080,Vertex Industries,2026-06-18,Metal Shelf,335,331,34170,Alice,Partial
+PO0081,Global Steel,2025-12-27,Storage Rack,228,135,5016,Alice,Partial
+PO0082,Industrial Parts,2026-06-12,Steel Cabinet,323,285,21318,Linda,Partial
+PO0083,ABC Metals,2025-12-10,Tool Box,364,306,39676,Daniel,Partial
+PO0084,Prime Industries,2026-03-04,Tool Box,125,73,3250,Robert,Closed
+PO0085,Industrial Parts,2026-06-13,Computer Desk,92,75,9568,Robert,Partial
+PO0086,Future Materials,2026-04-09,Storage Rack,328,6,11480,Alice,Closed
+PO0087,Vertex Industries,2025-07-03,Computer Desk,162,136,9396,Linda,Open
+PO0088,Industrial Parts,2026-05-31,Office Chair,203,121,5887,Linda,Partial
+PO0089,Global Steel,2025-11-26,Tool Box,426,302,28968,Daniel,Closed
+PO0090,Global Steel,2025-09-23,Storage Rack,465,173,43710,James,Closed
+PO0091,Future Materials,2026-03-29,Metal Shelf,383,345,42896,Robert,Partial
+PO0092,Blue Manufacturing,2025-09-25,Filing Cabinet,102,92,11526,Robert,Closed
+PO0093,Vertex Industries,2026-01-26,Storage Rack,330,146,10560,Linda,Partial
+PO0094,Blue Manufacturing,2025-10-06,Tool Box,500,479,58000,Robert,Partial
+PO0095,Blue Manufacturing,2025-08-16,Locker,381,89,31242,Robert,Closed
+PO0096,Global Steel,2025-11-05,Steel Cabinet,411,101,39456,Robert,Closed
+PO0097,Future Materials,2026-04-07,Computer Desk,133,10,9975,Robert,Partial
+PO0098,ABC Metals,2025-12-29,Locker,417,154,36696,Linda,Open
+PO0099,United Supplies,2025-07-20,Filing Cabinet,293,249,29007,James,Partial
+PO0100,Vertex Industries,2026-04-17,Locker,471,361,21195,Linda,Partial
+PO0101,Blue Manufacturing,2026-03-19,Storage Rack,446,14,14272,Daniel,Partial
+PO0102,ABC Metals,2025-11-27,Office Chair,477,237,57240,Alice,Closed
+PO0103,United Supplies,2025-11-14,Metal Shelf,64,36,5184,James,Open
+PO0104,Future Materials,2026-04-22,Filing Cabinet,96,72,10272,Daniel,Partial
+PO0105,Industrial Parts,2026-01-10,Tool Box,102,41,8874,Daniel,Open
+PO0106,Vertex Industries,2026-03-14,Tool Box,104,86,11128,Linda,Partial
+PO0107,United Supplies,2026-04-02,Computer Desk,283,78,28866,Daniel,Closed
+PO0108,Prime Industries,2026-06-13,Locker,317,66,9510,James,Partial
+PO0109,United Supplies,2026-05-16,Steel Cabinet,383,312,43662,Robert,Partial
+PO0110,Rapid Components,2026-04-11,Storage Rack,141,5,8460,Daniel,Closed
+PO0111,Global Steel,2025-10-31,Metal Shelf,194,148,14550,Alice,Open
+PO0112,Vertex Industries,2025-09-03,Office Chair,486,147,19926,Robert,Closed
+PO0113,United Supplies,2025-10-16,Steel Cabinet,443,361,17277,Linda,Closed
+PO0114,Titan Supply,2025-09-07,Wooden Table,246,239,5904,Daniel,Open
+PO0115,United Supplies,2025-11-24,Office Chair,102,11,11220,Robert,Partial
+PO0116,ABC Metals,2025-08-23,Steel Cabinet,227,207,27240,Linda,Closed
+PO0117,Global Steel,2025-11-30,Filing Cabinet,74,27,3626,Daniel,Partial
+PO0118,Global Steel,2025-11-17,Tool Box,273,10,18018,Alice,Closed
+PO0119,Titan Supply,2025-09-13,Workbench,333,72,32634,James,Closed
+PO0120,Blue Manufacturing,2026-05-30,Storage Rack,126,51,9198,Robert,Open
+PO0121,Prime Industries,2025-09-10,Steel Cabinet,278,213,12510,James,Open
+PO0122,Rapid Components,2026-03-16,Wooden Table,446,73,19178,Robert,Open
+PO0123,Future Materials,2026-05-20,Storage Rack,235,11,11750,James,Closed
+PO0124,Rapid Components,2025-08-10,Office Chair,78,41,6474,Linda,Partial
+PO0125,United Supplies,2026-06-09,Computer Desk,500,89,59000,Daniel,Partial
+PO0126,ABC Metals,2026-01-06,Storage Rack,238,93,19040,Linda,Partial
+PO0127,ABC Metals,2026-03-06,Filing Cabinet,247,97,18278,Linda,Partial
+PO0128,Rapid Components,2026-05-11,Locker,404,17,35552,James,Open
+PO0129,Rapid Components,2025-09-04,Office Chair,157,42,17113,Linda,Partial
+PO0130,Rapid Components,2025-11-28,Computer Desk,118,75,5428,Alice,Open
+PO0131,Vertex Industries,2025-07-08,Filing Cabinet,263,9,27352,Linda,Partial
+PO0132,Rapid Components,2025-10-03,Workbench,479,148,20118,James,Open
+PO0133,Prime Industries,2025-08-12,Wooden Table,420,44,16380,Linda,Open
+PO0134,Prime Industries,2026-04-26,Office Chair,364,266,40404,Linda,Open
+PO0135,Rapid Components,2025-11-14,Tool Box,80,56,9360,Daniel,Open
+PO0136,Titan Supply,2026-05-30,Wooden Table,330,63,10230,Alice,Partial
+PO0137,Vertex Industries,2026-06-03,Filing Cabinet,199,88,11741,Daniel,Closed
+PO0138,Industrial Parts,2026-01-15,Storage Rack,256,166,15616,Robert,Partial
+PO0139,Rapid Components,2025-09-20,Steel Cabinet,237,31,25833,James,Partial
+PO0140,Prime Industries,2025-07-20,Wooden Table,65,49,7280,Robert,Partial
+PO0141,United Supplies,2025-09-13,Storage Rack,167,43,4509,James,Closed
+PO0142,United Supplies,2026-03-17,Steel Cabinet,210,84,7770,Alice,Open
+PO0143,Future Materials,2026-04-27,Workbench,379,279,21603,James,Closed
+PO0144,Blue Manufacturing,2025-09-15,Steel Cabinet,273,263,27573,James,Open
+PO0145,Global Steel,2026-06-27,Tool Box,247,149,7163,Alice,Open
+PO0146,ABC Metals,2025-08-07,Filing Cabinet,465,287,55800,Robert,Closed
+PO0147,Vertex Industries,2025-08-07,Computer Desk,120,104,6360,James,Open
+PO0148,Industrial Parts,2025-12-03,Steel Cabinet,209,166,9405,Robert,Closed
+PO0149,Blue Manufacturing,2026-06-26,Steel Cabinet,70,60,2730,Linda,Open
+PO0150,Vertex Industries,2025-10-09,Office Chair,339,77,18645,Alice,Open
+PO0151,Vertex Industries,2025-10-03,Office Chair,458,242,50380,Linda,Partial
+PO0152,Titan Supply,2026-02-16,Storage Rack,190,175,10070,Robert,Partial
+PO0153,Titan Supply,2025-09-21,Office Chair,365,223,14235,Linda,Closed
+PO0154,ABC Metals,2025-07-07,Storage Rack,407,60,16687,Daniel,Partial
+PO0155,Future Materials,2025-07-19,Tool Box,53,30,2438,Daniel,Closed
+PO0156,Industrial Parts,2026-06-11,Computer Desk,186,131,21762,James,Partial
+PO0157,Global Steel,2026-06-02,Steel Cabinet,485,109,42680,Alice,Closed
+PO0158,Titan Supply,2026-01-30,Office Chair,199,135,22686,Daniel,Open
+PO0159,Blue Manufacturing,2026-03-07,Steel Cabinet,448,103,33152,Robert,Partial
+PO0160,Blue Manufacturing,2026-03-22,Steel Cabinet,487,88,46265,Linda,Closed
+PO0161,United Supplies,2025-08-20,Filing Cabinet,181,3,8326,Linda,Closed
+PO0162,Future Materials,2026-05-28,Locker,346,181,16608,Linda,Open
+PO0163,Prime Industries,2025-12-24,Tool Box,320,101,7680,James,Open
+PO0164,United Supplies,2026-03-16,Storage Rack,363,30,28314,James,Closed
+PO0165,Rapid Components,2026-01-18,Steel Cabinet,438,154,23652,Linda,Partial
+PO0166,Rapid Components,2025-11-18,Locker,443,189,38984,Alice,Partial
+PO0167,Blue Manufacturing,2026-06-02,Tool Box,219,58,24528,James,Partial
+PO0168,Global Steel,2025-08-12,Metal Shelf,55,52,3410,Alice,Partial
+PO0169,Titan Supply,2026-03-21,Steel Cabinet,458,199,44426,Linda,Open
+PO0170,ABC Metals,2025-09-27,Workbench,456,283,36936,Daniel,Closed
+PO0171,Industrial Parts,2025-08-10,Computer Desk,263,20,26826,Robert,Partial
+PO0172,Rapid Components,2026-01-25,Wooden Table,458,55,47632,James,Closed
+PO0173,ABC Metals,2026-02-19,Computer Desk,476,114,44744,Daniel,Closed
+PO0174,Vertex Industries,2025-10-25,Tool Box,431,338,25429,Alice,Partial
+PO0175,Future Materials,2025-12-17,Tool Box,306,68,16524,Robert,Closed
+PO0176,ABC Metals,2025-07-28,Wooden Table,473,173,25069,Alice,Closed
+PO0177,United Supplies,2025-11-15,Steel Cabinet,191,53,5921,Daniel,Closed
+PO0178,Rapid Components,2026-01-24,Tool Box,151,91,6040,Linda,Open
+PO0179,ABC Metals,2025-09-12,Wooden Table,132,16,5148,James,Partial
+PO0180,Titan Supply,2026-03-26,Filing Cabinet,108,20,8640,Alice,Partial
+PO0181,ABC Metals,2025-09-03,Locker,297,295,12177,Robert,Closed
+PO0182,ABC Metals,2026-06-09,Wooden Table,422,355,14348,Alice,Partial
+PO0183,Prime Industries,2025-12-29,Locker,194,45,9506,Robert,Open
+PO0184,Future Materials,2025-10-17,Steel Cabinet,50,48,1550,Linda,Open
+PO0185,United Supplies,2026-04-17,Storage Rack,100,40,7300,Daniel,Partial
+PO0186,Industrial Parts,2026-04-11,Tool Box,134,94,3886,Alice,Closed
+PO0187,Titan Supply,2026-02-01,Locker,175,30,19250,Linda,Open
+PO0188,ABC Metals,2025-12-14,Steel Cabinet,433,176,11258,Daniel,Open
+PO0189,Blue Manufacturing,2025-10-14,Steel Cabinet,258,172,17802,James,Partial
+PO0190,Global Steel,2026-05-25,Storage Rack,130,13,11700,Robert,Partial
+PO0191,Blue Manufacturing,2026-04-26,Wooden Table,401,49,11629,Daniel,Partial
+PO0192,Blue Manufacturing,2026-06-05,Workbench,422,362,27430,Alice,Open
+PO0193,Vertex Industries,2026-06-25,Wooden Table,439,24,24584,Alice,Partial
+PO0194,Blue Manufacturing,2025-08-29,Locker,288,120,15552,Alice,Open
+PO0195,Future Materials,2026-03-11,Tool Box,415,333,40255,James,Open
+PO0196,Global Steel,2026-01-30,Steel Cabinet,270,224,25380,Linda,Partial
+PO0197,ABC Metals,2026-06-23,Computer Desk,96,5,10944,Daniel,Partial
+PO0198,Prime Industries,2025-07-19,Locker,447,10,36207,Alice,Open
+PO0199,Industrial Parts,2025-12-08,Tool Box,51,43,1326,Alice,Closed
+PO0200,Titan Supply,2025-08-21,Filing Cabinet,432,402,31536,Daniel,Open
+PO0201,ABC Metals,2026-03-19,Locker,234,44,10062,Alice,Open
+PO0202,ABC Metals,2025-11-02,Tool Box,294,156,25578,Daniel,Partial
+PO0203,Blue Manufacturing,2025-09-10,Steel Cabinet,58,33,3480,Linda,Open
+PO0204,ABC Metals,2026-05-02,Computer Desk,137,25,15755,Alice,Closed
+PO0205,Global Steel,2025-09-01,Locker,423,279,9729,Robert,Closed
+PO0206,Prime Industries,2026-02-04,Filing Cabinet,488,393,53680,Daniel,Closed
+PO0207,United Supplies,2025-12-26,Tool Box,301,278,9030,Robert,Open
+PO0208,Vertex Industries,2025-08-16,Workbench,163,28,11247,James,Partial
+PO0209,Global Steel,2025-10-02,Metal Shelf,374,311,10472,Alice,Closed
+PO0210,Industrial Parts,2025-08-26,Storage Rack,498,51,32370,Linda,Partial
+PO0211,Titan Supply,2025-08-14,Locker,59,27,4838,Robert,Partial
+PO0212,Prime Industries,2026-03-26,Workbench,338,64,12506,Daniel,Partial
+PO0213,Vertex Industries,2026-06-30,Metal Shelf,451,241,50963,Robert,Open
+PO0214,Future Materials,2025-11-28,Filing Cabinet,177,164,20178,Daniel,Open
+PO0215,ABC Metals,2025-10-09,Computer Desk,145,103,5800,Robert,Partial
+PO0216,Future Materials,2026-01-11,Tool Box,252,94,17640,Linda,Partial
+PO0217,Industrial Parts,2025-09-18,Steel Cabinet,219,28,20367,Robert,Open
+PO0218,Titan Supply,2026-05-24,Tool Box,88,62,6952,James,Open
+PO0219,Industrial Parts,2026-07-02,Office Chair,173,124,19895,James,Partial
+PO0220,Future Materials,2026-04-07,Wooden Table,479,340,43110,Daniel,Closed
+PO0221,Future Materials,2025-11-28,Filing Cabinet,377,271,39208,James,Closed
+PO0222,Global Steel,2025-11-07,Storage Rack,270,200,13500,Robert,Partial
+PO0223,ABC Metals,2026-07-02,Office Chair,399,156,21147,James,Closed
+PO0224,Titan Supply,2025-10-18,Locker,158,140,10744,James,Closed
+PO0225,Global Steel,2026-04-15,Storage Rack,454,303,13620,Linda,Closed
+PO0226,Global Steel,2025-11-14,Tool Box,499,163,22455,Alice,Closed
+PO0227,Industrial Parts,2025-07-04,Tool Box,147,82,7203,James,Closed
+PO0228,Future Materials,2026-06-21,Steel Cabinet,263,105,23933,Linda,Open
+PO0229,Global Steel,2026-04-28,Steel Cabinet,301,271,16856,Robert,Partial
+PO0230,ABC Metals,2025-10-13,Tool Box,96,92,9312,Daniel,Closed
+PO0231,Future Materials,2025-07-11,Wooden Table,475,409,56525,Daniel,Open
+PO0232,Blue Manufacturing,2025-10-01,Steel Cabinet,96,64,6528,Alice,Open
+PO0233,Blue Manufacturing,2025-11-15,Locker,474,392,49770,James,Closed
+PO0234,Titan Supply,2025-12-22,Steel Cabinet,213,198,22365,James,Closed
+PO0235,Global Steel,2026-02-07,Office Chair,368,192,33856,James,Open
+PO0236,Prime Industries,2026-04-07,Metal Shelf,194,132,22310,Alice,Open
+PO0237,Titan Supply,2026-03-28,Workbench,400,325,32400,Daniel,Open
+PO0238,United Supplies,2025-07-03,Storage Rack,280,278,24920,Robert,Open
+PO0239,United Supplies,2025-07-31,Locker,497,319,36778,Linda,Partial
+PO0240,Future Materials,2026-05-05,Office Chair,63,21,4599,Robert,Partial
+PO0241,Prime Industries,2025-11-20,Metal Shelf,211,188,17935,Robert,Closed
+PO0242,ABC Metals,2026-01-29,Storage Rack,349,281,33853,James,Open
+PO0243,Vertex Industries,2025-09-15,Tool Box,166,138,3984,Linda,Closed
+PO0244,ABC Metals,2025-09-12,Locker,355,291,28755,Robert,Open
+PO0245,Vertex Industries,2025-08-06,Metal Shelf,469,182,18760,Alice,Open
+PO0246,Rapid Components,2025-10-31,Wooden Table,467,419,49502,Alice,Partial
+PO0247,United Supplies,2026-03-07,Tool Box,395,267,26860,Alice,Open
+PO0248,Prime Industries,2025-09-12,Metal Shelf,119,38,4522,Robert,Closed
+PO0249,United Supplies,2025-12-25,Metal Shelf,338,170,29406,Daniel,Partial
+PO0250,Future Materials,2026-02-15,Office Chair,467,348,46233,Alice,Partial
+PO0251,Future Materials,2026-01-22,Storage Rack,462,327,20790,Daniel,Partial
+PO0252,United Supplies,2025-11-02,Workbench,353,330,12002,Robert,Open
+PO0253,Blue Manufacturing,2026-06-06,Filing Cabinet,238,73,24514,James,Closed
+PO0254,United Supplies,2025-08-06,Wooden Table,233,158,8854,Robert,Open
+PO0255,ABC Metals,2026-06-05,Tool Box,325,267,29900,Robert,Open
+PO0256,ABC Metals,2026-03-19,Steel Cabinet,104,57,8320,James,Closed
+PO0257,Blue Manufacturing,2025-08-27,Tool Box,462,138,54978,Alice,Partial
+PO0258,Prime Industries,2025-09-07,Filing Cabinet,185,147,17945,Alice,Open
+PO0259,Industrial Parts,2025-09-30,Metal Shelf,263,173,15517,Alice,Open
+PO0260,Vertex Industries,2025-09-18,Workbench,401,100,37694,Alice,Closed
+PO0261,Blue Manufacturing,2025-08-22,Computer Desk,340,117,24820,Daniel,Closed
+PO0262,Global Steel,2026-02-28,Computer Desk,311,262,35454,Linda,Partial
+PO0263,United Supplies,2025-08-04,Office Chair,219,199,22119,Linda,Partial
+PO0264,Blue Manufacturing,2025-07-27,Wooden Table,325,251,11700,Daniel,Open
+PO0265,Global Steel,2025-09-17,Steel Cabinet,409,207,39673,Linda,Open
+PO0266,United Supplies,2025-12-09,Metal Shelf,255,158,29070,James,Partial
+PO0267,Prime Industries,2025-07-15,Steel Cabinet,448,142,30464,James,Open
+PO0268,Blue Manufacturing,2025-12-31,Tool Box,114,54,6612,Linda,Open
+PO0269,Vertex Industries,2026-01-13,Metal Shelf,437,8,29279,Daniel,Open
+PO0270,Rapid Components,2026-03-28,Computer Desk,387,179,42183,Alice,Open
+PO0271,Prime Industries,2025-08-02,Computer Desk,324,292,12636,Linda,Partial
+PO0272,Blue Manufacturing,2025-09-20,Tool Box,129,96,4773,Linda,Open
+PO0273,Industrial Parts,2026-05-27,Locker,151,108,9060,James,Open
+PO0274,Future Materials,2026-03-08,Storage Rack,463,307,48615,Linda,Open
+PO0275,United Supplies,2026-05-27,Locker,62,3,1612,James,Open
+PO0276,Titan Supply,2025-11-12,Storage Rack,172,171,12556,Robert,Open
+PO0277,United Supplies,2025-09-15,Metal Shelf,463,240,38892,Daniel,Partial
+PO0278,Prime Industries,2026-04-22,Metal Shelf,297,215,27027,James,Open
+PO0279,Vertex Industries,2025-10-01,Computer Desk,394,389,40976,Linda,Partial
+PO0280,Global Steel,2025-11-24,Storage Rack,221,165,8398,Alice,Partial
+PO0281,Industrial Parts,2026-01-14,Workbench,325,82,13325,James,Partial
+PO0282,Prime Industries,2025-09-19,Steel Cabinet,412,73,41612,James,Open
+PO0283,Rapid Components,2026-01-23,Steel Cabinet,352,245,29920,James,Open
+PO0284,Prime Industries,2025-07-06,Office Chair,125,69,4125,Linda,Partial
+PO0285,Vertex Industries,2025-12-20,Storage Rack,107,76,7704,Daniel,Partial
+PO0286,Blue Manufacturing,2025-08-03,Filing Cabinet,195,9,23400,Robert,Partial
+PO0287,ABC Metals,2026-03-31,Computer Desk,393,64,24366,Robert,Open
+PO0288,Rapid Components,2025-09-07,Computer Desk,56,0,2128,Robert,Partial
+PO0289,Prime Industries,2026-05-11,Wooden Table,322,283,18032,Daniel,Closed
+PO0290,United Supplies,2025-11-26,Wooden Table,432,191,34992,James,Open
+PO0291,ABC Metals,2025-11-26,Metal Shelf,51,42,5253,James,Closed
+PO0292,ABC Metals,2025-08-22,Computer Desk,130,73,4680,Daniel,Open
+PO0293,ABC Metals,2025-08-12,Storage Rack,492,479,9840,Linda,Partial
+PO0294,Rapid Components,2026-01-18,Steel Cabinet,372,150,39804,Alice,Closed
+PO0295,Vertex Industries,2026-04-08,Wooden Table,415,203,11205,Alice,Open
+PO0296,United Supplies,2026-05-23,Office Chair,426,45,18744,James,Partial
+PO0297,Rapid Components,2025-08-05,Filing Cabinet,53,28,1802,Robert,Partial
+PO0298,Vertex Industries,2026-01-04,Steel Cabinet,202,47,11716,Alice,Open
+PO0299,Future Materials,2025-10-15,Metal Shelf,365,103,40515,Linda,Open
+PO0300,Prime Industries,2025-11-18,Tool Box,178,118,17622,Daniel,Open
+PO0301,Industrial Parts,2026-03-02,Filing Cabinet,409,341,42127,Alice,Partial
+PO0302,Future Materials,2026-02-24,Locker,343,79,36358,James,Open
+PO0303,Titan Supply,2026-03-10,Steel Cabinet,94,77,3008,Robert,Closed
+PO0304,Blue Manufacturing,2025-08-26,Tool Box,298,138,31588,Daniel,Partial
+PO0305,Titan Supply,2025-09-06,Filing Cabinet,272,207,31824,Robert,Partial
+PO0306,Prime Industries,2025-10-28,Workbench,195,179,15990,Daniel,Partial
+PO0307,Rapid Components,2026-05-07,Metal Shelf,462,52,36036,James,Partial
+PO0308,Future Materials,2025-07-15,Workbench,270,249,12960,Daniel,Partial
+PO0309,Vertex Industries,2025-10-26,Tool Box,259,146,10878,Alice,Closed
+PO0310,Industrial Parts,2025-08-06,Filing Cabinet,161,59,17871,Robert,Partial
+PO0311,Industrial Parts,2025-11-18,Metal Shelf,338,333,34476,Daniel,Closed
+PO0312,Titan Supply,2026-02-27,Wooden Table,490,300,31360,James,Open
+PO0313,Industrial Parts,2026-01-03,Office Chair,200,60,23800,Robert,Closed
+PO0314,Blue Manufacturing,2025-10-19,Tool Box,434,27,39928,Daniel,Open
+PO0315,Prime Industries,2025-10-08,Locker,499,2,16467,James,Closed
+PO0316,Prime Industries,2025-11-13,Metal Shelf,193,53,7141,James,Partial
+PO0317,Prime Industries,2025-07-19,Filing Cabinet,344,102,25456,James,Closed
+PO0318,Blue Manufacturing,2026-03-02,Metal Shelf,61,59,6893,Linda,Closed
+PO0319,Titan Supply,2025-12-03,Workbench,180,31,9540,Robert,Partial
+PO0320,Titan Supply,2026-06-13,Metal Shelf,73,6,7446,Alice,Open
+PO0321,Rapid Components,2025-11-09,Metal Shelf,388,326,12028,Alice,Closed
+PO0322,ABC Metals,2025-12-23,Steel Cabinet,137,90,10275,Alice,Closed
+PO0323,Industrial Parts,2026-06-01,Office Chair,456,71,20064,James,Closed
+PO0324,Industrial Parts,2026-04-15,Wooden Table,113,102,13447,Alice,Open
+PO0325,ABC Metals,2025-08-04,Metal Shelf,100,4,8700,Alice,Open
+PO0326,United Supplies,2025-11-14,Tool Box,207,89,12420,Alice,Closed
+PO0327,Titan Supply,2026-03-23,Steel Cabinet,496,357,30752,Daniel,Partial
+PO0328,Rapid Components,2026-03-25,Wooden Table,351,341,8424,Alice,Partial
+PO0329,Titan Supply,2026-06-03,Wooden Table,367,11,30461,Linda,Closed
+PO0330,Future Materials,2026-04-12,Office Chair,371,259,24857,Robert,Closed
+PO0331,Rapid Components,2026-02-08,Tool Box,275,43,12100,Linda,Closed
+PO0332,Vertex Industries,2025-08-09,Wooden Table,450,322,17100,Alice,Open
+PO0333,ABC Metals,2025-12-28,Tool Box,197,154,22064,Daniel,Partial
+PO0334,Vertex Industries,2025-10-04,Locker,317,251,8559,Linda,Partial
+PO0335,ABC Metals,2025-10-23,Computer Desk,209,71,9405,James,Partial
+PO0336,Rapid Components,2025-11-04,Steel Cabinet,157,64,4710,Robert,Closed
+PO0337,Blue Manufacturing,2026-02-08,Workbench,380,338,32300,Linda,Partial
+PO0338,United Supplies,2026-06-16,Storage Rack,303,283,10302,Robert,Closed
+PO0339,Future Materials,2026-03-17,Tool Box,153,147,5355,Alice,Closed
+PO0340,Vertex Industries,2026-04-22,Locker,478,20,32026,Linda,Open
+PO0341,Industrial Parts,2025-08-08,Tool Box,485,47,25220,Robert,Partial
+PO0342,Rapid Components,2025-12-17,Steel Cabinet,340,99,32640,James,Partial
+PO0343,Vertex Industries,2026-03-11,Storage Rack,356,190,13528,Daniel,Partial
+PO0344,Rapid Components,2026-06-30,Steel Cabinet,357,197,23562,Robert,Open
+PO0345,Future Materials,2025-08-16,Locker,310,35,6820,James,Open
+PO0346,Future Materials,2025-09-09,Office Chair,456,51,34200,Robert,Partial
+PO0347,Blue Manufacturing,2025-07-09,Computer Desk,81,12,7209,Linda,Partial
+PO0348,ABC Metals,2026-05-12,Storage Rack,404,299,33128,Alice,Closed
+PO0349,Prime Industries,2025-08-01,Metal Shelf,277,5,32132,Alice,Closed
+PO0350,Vertex Industries,2025-10-02,Steel Cabinet,406,192,12992,James,Closed
+PO0351,Rapid Components,2025-11-05,Office Chair,79,31,7426,Linda,Closed
+PO0352,Prime Industries,2025-09-02,Locker,213,104,18318,Robert,Closed
+PO0353,Vertex Industries,2025-12-31,Tool Box,409,34,18405,Daniel,Open
+PO0354,Global Steel,2026-04-15,Workbench,230,189,12190,Linda,Partial
+PO0355,Industrial Parts,2025-09-09,Workbench,360,104,16560,Robert,Partial
+PO0356,Future Materials,2025-10-09,Wooden Table,247,81,14326,Linda,Closed
+PO0357,Titan Supply,2026-03-01,Wooden Table,499,123,22954,James,Open
+PO0358,Future Materials,2025-12-09,Office Chair,486,433,16524,Robert,Closed
+PO0359,ABC Metals,2025-08-20,Office Chair,296,197,21904,Linda,Open
+PO0360,Rapid Components,2026-06-01,Storage Rack,214,188,22256,Linda,Closed
+PO0361,Blue Manufacturing,2026-02-12,Steel Cabinet,292,104,12264,James,Partial
+PO0362,Global Steel,2026-03-18,Computer Desk,234,61,10764,James,Open
+PO0363,Rapid Components,2025-08-26,Wooden Table,477,339,42453,Robert,Closed
+PO0364,Future Materials,2026-07-02,Wooden Table,343,164,8575,Linda,Open
+PO0365,Global Steel,2025-07-06,Metal Shelf,246,119,9102,James,Partial
+PO0366,Titan Supply,2025-08-09,Storage Rack,474,442,56406,Linda,Open
+PO0367,Global Steel,2025-08-30,Locker,156,68,7332,Daniel,Open
+PO0368,Prime Industries,2025-12-11,Wooden Table,352,174,28512,Linda,Open
+PO0369,Titan Supply,2026-04-08,Filing Cabinet,316,67,19908,Alice,Closed
+PO0370,Prime Industries,2025-08-01,Tool Box,279,76,10323,James,Partial
+PO0371,Future Materials,2025-12-14,Filing Cabinet,348,225,17748,Linda,Partial
+PO0372,Rapid Components,2026-02-22,Workbench,105,17,12075,Alice,Open
+PO0373,Global Steel,2026-05-09,Office Chair,348,207,26100,Robert,Open
+PO0374,Global Steel,2026-01-21,Workbench,449,251,26042,James,Open
+PO0375,Future Materials,2026-01-22,Wooden Table,401,361,36090,Linda,Closed
+PO0376,Rapid Components,2025-12-04,Storage Rack,371,183,44149,James,Partial
+PO0377,Global Steel,2026-02-07,Office Chair,404,300,40400,James,Open
+PO0378,Global Steel,2025-09-01,Filing Cabinet,348,123,13572,James,Open
+PO0379,Prime Industries,2025-10-11,Workbench,328,307,27224,Alice,Closed
+PO0380,Rapid Components,2025-11-01,Tool Box,483,290,57477,Robert,Open
+PO0381,Future Materials,2025-08-10,Steel Cabinet,257,140,5911,Daniel,Closed
+PO0382,United Supplies,2025-09-28,Metal Shelf,201,120,16482,James,Closed
+PO0383,Prime Industries,2025-11-28,Workbench,407,163,47619,Robert,Partial
+PO0384,Titan Supply,2026-02-05,Filing Cabinet,313,264,35369,Robert,Open
+PO0385,Vertex Industries,2026-01-25,Tool Box,146,98,16790,Robert,Partial
+PO0386,Global Steel,2025-09-14,Metal Shelf,432,51,14256,Robert,Closed
+PO0387,United Supplies,2026-04-08,Office Chair,461,100,18901,Linda,Open
+PO0388,Industrial Parts,2026-02-21,Workbench,383,182,35619,Linda,Partial
+PO0389,Vertex Industries,2026-02-06,Steel Cabinet,131,8,6157,Daniel,Open
+PO0390,Vertex Industries,2025-10-10,Storage Rack,94,77,2444,Daniel,Open
+PO0391,Global Steel,2025-08-13,Locker,398,33,19104,Alice,Open
+PO0392,Vertex Industries,2025-12-25,Steel Cabinet,322,184,28336,Alice,Partial
+PO0393,ABC Metals,2025-09-14,Steel Cabinet,405,350,10125,Daniel,Closed
+PO0394,Titan Supply,2026-06-26,Wooden Table,142,8,5538,Linda,Open
+PO0395,ABC Metals,2026-06-17,Filing Cabinet,61,13,2440,James,Open
+PO0396,Prime Industries,2026-03-13,Wooden Table,363,140,18876,James,Open
+PO0397,Future Materials,2025-07-22,Tool Box,246,176,5412,Alice,Open
+PO0398,Prime Industries,2025-11-24,Locker,361,54,23826,Alice,Partial
+PO0399,ABC Metals,2026-03-29,Metal Shelf,83,23,5063,Daniel,Closed
+PO0400,Global Steel,2025-10-09,Office Chair,448,131,22848,Linda,Closed
+PO0401,Industrial Parts,2026-01-08,Locker,117,50,6084,Linda,Partial
+PO0402,Global Steel,2025-10-09,Computer Desk,330,321,8910,Linda,Partial
+PO0403,Industrial Parts,2026-06-09,Tool Box,50,24,1400,Daniel,Open
+PO0404,Rapid Components,2025-10-02,Computer Desk,332,180,27556,Linda,Closed
+PO0405,Blue Manufacturing,2026-01-10,Storage Rack,194,156,22116,Robert,Open
+PO0406,Titan Supply,2025-11-29,Tool Box,202,18,4242,James,Open
+PO0407,ABC Metals,2026-04-03,Office Chair,234,18,26208,Alice,Open
+PO0408,Global Steel,2026-03-06,Locker,470,273,28200,Robert,Closed
+PO0409,Titan Supply,2025-10-26,Tool Box,473,357,54395,Linda,Closed
+PO0410,Global Steel,2025-07-29,Storage Rack,57,13,4674,Daniel,Closed
+PO0411,Prime Industries,2026-06-13,Office Chair,315,51,28980,Robert,Partial
+PO0412,Global Steel,2025-08-08,Filing Cabinet,96,40,9504,Alice,Closed
+PO0413,Rapid Components,2025-12-07,Workbench,227,18,27013,Linda,Partial
+PO0414,Prime Industries,2026-04-12,Locker,372,29,18972,Alice,Closed
+PO0415,Rapid Components,2026-04-05,Wooden Table,158,69,18486,James,Partial
+PO0416,Industrial Parts,2025-08-14,Wooden Table,62,0,7068,James,Closed
+PO0417,Rapid Components,2025-12-21,Steel Cabinet,418,44,27170,James,Closed
+PO0418,Blue Manufacturing,2026-05-31,Metal Shelf,280,276,22960,Robert,Partial
+PO0419,Prime Industries,2025-11-15,Wooden Table,113,4,7458,James,Partial
+PO0420,Rapid Components,2026-03-29,Tool Box,111,50,12654,Alice,Closed
+PO0421,Blue Manufacturing,2025-07-10,Locker,78,76,5304,Daniel,Partial
+PO0422,Future Materials,2026-01-26,Metal Shelf,205,78,14350,Linda,Partial
+PO0423,Titan Supply,2025-09-19,Wooden Table,331,81,37072,Linda,Partial
+PO0424,United Supplies,2026-03-07,Computer Desk,291,66,33465,Linda,Closed
+PO0425,Blue Manufacturing,2026-01-18,Filing Cabinet,92,18,3680,Linda,Partial
+PO0426,Future Materials,2025-12-14,Storage Rack,478,196,41586,Daniel,Open
+PO0427,ABC Metals,2025-12-29,Filing Cabinet,116,56,8700,Linda,Closed
+PO0428,Vertex Industries,2026-01-09,Metal Shelf,288,22,34560,James,Closed
+PO0429,Industrial Parts,2025-12-24,Wooden Table,420,163,15120,Alice,Partial
+PO0430,Vertex Industries,2025-07-15,Tool Box,425,303,14875,Daniel,Open
+PO0431,Global Steel,2025-08-30,Steel Cabinet,452,199,32092,Alice,Open
+PO0432,Prime Industries,2025-07-30,Tool Box,230,13,20470,James,Closed
+PO0433,Prime Industries,2025-10-01,Workbench,182,152,21840,Alice,Closed
+PO0434,Global Steel,2025-07-19,Filing Cabinet,197,192,21670,James,Open
+PO0435,Prime Industries,2025-12-01,Workbench,406,288,47502,Alice,Open
+PO0436,ABC Metals,2026-04-11,Workbench,323,166,29716,Alice,Partial
+PO0437,Blue Manufacturing,2025-12-19,Metal Shelf,353,219,36712,Robert,Open
+PO0438,Blue Manufacturing,2026-04-29,Steel Cabinet,314,135,25748,Alice,Open
+PO0439,Vertex Industries,2026-01-06,Locker,91,28,3731,Daniel,Open
+PO0440,United Supplies,2025-10-03,Steel Cabinet,500,275,43500,Daniel,Closed
+PO0441,United Supplies,2025-09-15,Office Chair,70,62,2170,Linda,Closed
+PO0442,Rapid Components,2026-01-15,Workbench,236,22,4956,James,Open
+PO0443,Vertex Industries,2026-03-28,Filing Cabinet,238,179,16898,Daniel,Open
+PO0444,Titan Supply,2026-01-03,Metal Shelf,267,179,8544,Linda,Open
+PO0445,Vertex Industries,2025-08-19,Steel Cabinet,114,34,7068,Daniel,Partial
+PO0446,United Supplies,2026-05-30,Computer Desk,174,127,9744,Alice,Closed
+PO0447,ABC Metals,2025-11-18,Metal Shelf,340,207,12920,Linda,Closed
+PO0448,Rapid Components,2026-05-14,Locker,289,119,29189,Alice,Open
+PO0449,Blue Manufacturing,2025-10-10,Wooden Table,488,381,12688,Linda,Partial
+PO0450,Prime Industries,2026-06-04,Filing Cabinet,404,85,46864,Alice,Open
+PO0451,Titan Supply,2026-04-15,Storage Rack,320,126,31360,Robert,Open
+PO0452,Titan Supply,2025-10-27,Workbench,369,288,34317,Alice,Partial
+PO0453,ABC Metals,2025-07-02,Tool Box,149,3,3278,Linda,Partial
+PO0454,Titan Supply,2026-04-07,Steel Cabinet,55,46,6050,Robert,Partial
+PO0455,Prime Industries,2026-05-18,Office Chair,440,42,8800,Alice,Open
+PO0456,Titan Supply,2025-09-25,Metal Shelf,200,94,17400,Daniel,Open
+PO0457,Rapid Components,2026-01-02,Computer Desk,324,302,6804,Linda,Open
+PO0458,Industrial Parts,2025-08-06,Locker,198,192,15840,Linda,Open
+PO0459,Prime Industries,2025-10-24,Metal Shelf,242,207,12342,Linda,Open
+PO0460,Titan Supply,2026-06-12,Filing Cabinet,424,288,47488,Daniel,Open
+PO0461,United Supplies,2025-12-14,Tool Box,123,72,9471,Daniel,Partial
+PO0462,Blue Manufacturing,2026-04-14,Workbench,333,222,33300,Linda,Closed
+PO0463,Blue Manufacturing,2026-03-13,Tool Box,67,54,2680,Daniel,Open
+PO0464,United Supplies,2025-12-28,Locker,123,12,4428,James,Partial
+PO0465,Titan Supply,2026-01-19,Workbench,484,379,57112,James,Closed
+PO0466,ABC Metals,2025-09-25,Steel Cabinet,132,120,4488,Linda,Partial
+PO0467,United Supplies,2025-09-23,Metal Shelf,184,148,3680,James,Open
+PO0468,Blue Manufacturing,2026-06-18,Locker,301,79,26187,Daniel,Closed
+PO0469,United Supplies,2025-09-08,Workbench,96,93,5088,James,Open
+PO0470,Blue Manufacturing,2025-11-22,Metal Shelf,436,306,45344,Robert,Closed
+PO0471,United Supplies,2025-09-25,Steel Cabinet,433,175,45465,Daniel,Open
+PO0472,Industrial Parts,2025-08-16,Steel Cabinet,110,60,12760,Daniel,Partial
+PO0473,Blue Manufacturing,2026-02-28,Steel Cabinet,413,212,39235,Alice,Partial
+PO0474,Rapid Components,2025-12-30,Office Chair,218,87,24634,Alice,Open
+PO0475,Blue Manufacturing,2025-10-02,Tool Box,120,31,12600,Robert,Partial
+PO0476,Prime Industries,2026-01-09,Locker,405,208,39690,Robert,Partial
+PO0477,Global Steel,2025-12-11,Workbench,375,151,25875,James,Closed
+PO0478,Global Steel,2026-01-18,Locker,135,91,14580,Linda,Closed
+PO0479,Blue Manufacturing,2026-01-29,Locker,92,59,5152,Linda,Partial
+PO0480,Future Materials,2025-07-30,Workbench,308,299,22484,Alice,Partial
+PO0481,Future Materials,2026-04-25,Filing Cabinet,304,191,13072,Robert,Partial
+PO0482,Rapid Components,2025-10-20,Filing Cabinet,462,21,11088,Robert,Closed
+PO0483,Prime Industries,2025-07-14,Tool Box,367,218,27892,Robert,Closed
+PO0484,Titan Supply,2025-12-03,Computer Desk,289,70,30923,Linda,Partial
+PO0485,Blue Manufacturing,2026-05-06,Steel Cabinet,324,163,13608,Alice,Open
+PO0486,Rapid Components,2026-02-25,Filing Cabinet,158,131,15800,Daniel,Open
+PO0487,Industrial Parts,2025-09-05,Tool Box,408,45,39984,Linda,Partial
+PO0488,Global Steel,2026-03-26,Steel Cabinet,72,48,2016,Linda,Partial
+PO0489,Vertex Industries,2026-03-29,Office Chair,164,46,17220,James,Closed
+PO0490,ABC Metals,2026-01-31,Steel Cabinet,451,385,52316,James,Closed
+PO0491,Titan Supply,2025-09-20,Storage Rack,70,16,7140,Alice,Open
+PO0492,Prime Industries,2025-09-30,Wooden Table,98,79,4802,Alice,Closed
+PO0493,Rapid Components,2026-02-12,Filing Cabinet,92,32,8740,James,Open
+PO0494,Industrial Parts,2026-06-01,Storage Rack,441,181,8820,Daniel,Open
+PO0495,Rapid Components,2026-02-12,Filing Cabinet,328,137,30504,Robert,Closed
+PO0496,Industrial Parts,2026-05-15,Locker,404,70,47268,Robert,Open
+PO0497,ABC Metals,2025-12-13,Workbench,442,256,23426,Alice,Partial
+PO0498,Future Materials,2025-08-21,Filing Cabinet,396,352,26136,Robert,Closed
+PO0499,Blue Manufacturing,2025-08-19,Tool Box,176,5,6336,Linda,Open
+PO0500,Future Materials,2026-02-01,Locker,439,232,23706,James,Closed
