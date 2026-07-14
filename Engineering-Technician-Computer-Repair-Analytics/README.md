@@ -149,19 +149,4 @@ All reports use:
 
 ---
 
-## 🚀 How to Run
 
-### 1. Install dependencies
-
-```bash
-pip install pandas matplotlib reportlab
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-Computer%20Repair%20Analytics-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-MySQL%208.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reports-PDF%20%2B%20Charts-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data-500%20Records-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-</p>
