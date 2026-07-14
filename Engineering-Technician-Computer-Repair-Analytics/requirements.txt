@@ -1,0 +1,13 @@
+pandas==2.2.2
+matplotlib==3.8.2
+reportlab==4.0.8
+numpy==1.26.4
+mysql-connector-python==8.3.0
+python-dateutil==2.9.0.post0
+
+✔ pandas — data processing
+✔ numpy — required by pandas & matplotlib
+✔ matplotlib — charts for all reports
+✔ reportlab — PDF generation
+✔ mysql-connector-python — SQL integration
+✔ python-dateutil — date parsing

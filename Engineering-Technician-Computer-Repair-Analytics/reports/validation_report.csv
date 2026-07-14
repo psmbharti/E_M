@@ -1,0 +1,10 @@
+Validation,Status,Failed_Count
+Repair ID Unique,PASS,0
+Device ID Missing Check,PASS,0
+Serial Number Unique,PASS,0
+Future Repair Date Check,PASS,0
+Repair Time Range,PASS,0
+Repair Cost Validation,PASS,0
+QC Status Validation,PASS,0
+Warehouse Validation,PASS,0
+Customer Rating Validation,PASS,0
