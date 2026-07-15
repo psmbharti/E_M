@@ -1,0 +1,10 @@
+Test_ID,Test_Name,Expected_Result,Actual_Result,Status,Comments,Test_Date
+FAT001,System ID Validation,Unique System IDs,All IDs Unique,PASS,No duplicate system IDs found,2026-07-14 16:50:34.588231
+FAT002,PLC CPU Test,<90%,30 high CPU PLCs,FAIL,CPU overload detected,2026-07-14 16:50:34.605266
+FAT003,PLC Communication,Connected,248 failures,FAIL,Network issues detected,2026-07-14 16:50:34.605564
+FAT004,Sensor Calibration,Valid Calibration Date,All Sensors Calibrated,PASS,Calibration verified,2026-07-14 16:50:34.621141
+FAT005,Robot Configuration,4-6 Axis Robot,Valid,PASS,Robot configuration approved,2026-07-14 16:50:34.663604
+SAT001,System Availability,No stopped systems,143 stopped,FAIL,Production issue,2026-07-14 16:50:34.664183
+SAT002,Alarm Verification,<50 Open Alarms,237 Open,FAIL,Too many active alarms,2026-07-14 16:50:34.693140
+SAT003,Maintenance Readiness,<100 Open Tasks,171 Tasks,FAIL,Maintenance backlog,2026-07-14 16:50:34.717286
+SAT004,Compliance Test,No Failed Audits,259 Failed,FAIL,Compliance issues found,2026-07-14 16:50:34.740910

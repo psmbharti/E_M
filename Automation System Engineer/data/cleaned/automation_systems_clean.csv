@@ -1,0 +1,501 @@
+System_ID,System_Name,Plant,Production_Line,Automation_Type,PLC,SCADA,DCS,Robot_Model,Status,Efficiency,Cycle_Time,Energy_Consumption,Downtime_Minutes,Alarm_Count,Operator_ID,Maintenance_Status,Project_ID,Compliance_Status,Created_Date
+Sys0001,Pay Automation,Dallas Plant,Line A,Robotic Cell,Plc001,Factorytalk,Abb 800Xa,Abb Irb2600,Idle,92.68,30.3,2284.36,44,13,Op001,Completed,Prj001,Passed,2024-12-10
+Sys0002,Herself Automation,Dallas Plant,Line B,Fully Automated,Plc002,Wincc,Emerson Deltav,Abb Irb2600,Stopped,80.29,27.68,2118.86,3,5,Op002,In Progress,Prj002,Pending,2024-11-24
+Sys0003,Evidence Automation,Houston Plant,Line C,Fully Automated,Plc003,Ignition,Honeywell Experion,Fanuc M-20Id,Running,84.12,20.77,1187.91,135,1,Op003,In Progress,Prj003,Pending,2025-10-12
+Sys0004,Coach Automation,Phoenix Plant,Line A,Semi Automated,Plc004,Wincc,Emerson Deltav,Kuka Kr10,Maintenance,88.86,31.14,591.65,116,9,Op004,Completed,Prj004,Passed,2025-04-23
+Sys0005,Time Automation,Dallas Plant,Line D,Semi Automated,Plc005,Wonderware,Emerson Deltav,Kuka Kr10,Idle,83.88,16.29,1033.96,36,5,Op005,In Progress,Prj005,Failed,2026-02-02
+Sys0006,Bit Automation,Austin Plant,Line B,Semi Automated,Plc006,Wonderware,Honeywell Experion,Abb Irb2600,Maintenance,95.23,33.28,958.1,16,10,Op006,Scheduled,Prj006,Pending,2026-06-23
+Sys0007,Democratic Automation,Dallas Plant,Line B,Robotic Cell,Plc007,Factorytalk,Abb 800Xa,Yaskawa Gp25,Stopped,96.23,29.29,785.74,71,7,Op007,In Progress,Prj007,Failed,2026-03-26
+Sys0008,Fact Automation,Phoenix Plant,Line C,Robotic Cell,Plc008,Wonderware,Emerson Deltav,Yaskawa Gp25,Maintenance,80.26,39.93,1519.05,46,1,Op008,Completed,Prj008,Passed,2026-01-11
+Sys0009,Through Automation,Austin Plant,Packaging Line,Semi Automated,Plc009,Wincc,Honeywell Experion,Yaskawa Gp25,Stopped,87.7,39.13,2221.56,5,3,Op009,In Progress,Prj009,Failed,2025-12-01
+Sys0010,Mission Automation,Houston Plant,Packaging Line,Semi Automated,Plc010,Wincc,Honeywell Experion,Yaskawa Gp25,Idle,85.89,38.61,2251.71,134,5,Op010,In Progress,Prj010,Passed,2025-03-17
+Sys0011,You Automation,Houston Plant,Packaging Line,Robotic Cell,Plc011,Ignition,Abb 800Xa,Kuka Kr10,Idle,87.95,33.36,1560.71,0,10,Op011,Scheduled,Prj011,Passed,2025-05-04
+Sys0012,Lose Automation,Dallas Plant,Line C,Semi Automated,Plc012,Ignition,Abb 800Xa,Abb Irb2600,Running,77.06,24.58,638.43,272,4,Op012,Completed,Prj012,Failed,2024-10-31
+Sys0013,Evening Automation,Chicago Plant,Assembly Line,Fully Automated,Plc013,Factorytalk,Emerson Deltav,Yaskawa Gp25,Idle,97.29,32.66,1879.74,159,12,Op013,In Progress,Prj013,Failed,2026-05-30
+Sys0014,Interesting Automation,Houston Plant,Line D,Robotic Cell,Plc014,Wonderware,Abb 800Xa,Abb Irb2600,Idle,76.54,10.63,1607.84,112,0,Op014,Completed,Prj014,Failed,2025-05-07
+Sys0015,Position Automation,Dallas Plant,Line B,Fully Automated,Plc015,Wincc,Honeywell Experion,Fanuc M-20Id,Idle,81.68,24.56,1578.47,292,15,Op015,Completed,Prj015,Pending,2026-05-06
+Sys0016,Suggest Automation,Chicago Plant,Line B,Fully Automated,Plc016,Wincc,Emerson Deltav,Yaskawa Gp25,Maintenance,85.17,24.01,1958.15,50,1,Op016,Scheduled,Prj016,Failed,2026-06-05
+Sys0017,Never Automation,Houston Plant,Line A,Fully Automated,Plc017,Ignition,Abb 800Xa,Yaskawa Gp25,Idle,85.13,18.36,999.61,38,14,Op017,In Progress,Prj017,Passed,2026-05-21
+Sys0018,Then Automation,Dallas Plant,Packaging Line,Robotic Cell,Plc018,Wincc,Abb 800Xa,Abb Irb2600,Idle,84.75,24.44,2229.3,30,5,Op018,Scheduled,Prj018,Passed,2025-01-15
+Sys0019,Movement Automation,Chicago Plant,Line C,Semi Automated,Plc019,Factorytalk,Honeywell Experion,Yaskawa Gp25,Idle,79.56,16.53,616.97,277,1,Op019,In Progress,Prj019,Pending,2025-02-01
+Sys0020,Apply Automation,Dallas Plant,Line A,Robotic Cell,Plc020,Wonderware,Emerson Deltav,Abb Irb2600,Running,98.06,12.4,871.65,34,7,Op020,Scheduled,Prj020,Passed,2024-11-14
+Sys0021,Difference Automation,Phoenix Plant,Line B,Robotic Cell,Plc021,Wincc,Emerson Deltav,Fanuc M-20Id,Stopped,90.78,26.96,1132.74,133,6,Op021,In Progress,Prj021,Failed,2024-10-25
+Sys0022,Outside Automation,Houston Plant,Line B,Semi Automated,Plc022,Wonderware,Abb 800Xa,Kuka Kr10,Stopped,82.59,32.56,645.09,234,3,Op022,Completed,Prj022,Failed,2026-03-28
+Sys0023,Industry Automation,Austin Plant,Assembly Line,Semi Automated,Plc023,Ignition,Honeywell Experion,Fanuc M-20Id,Idle,83.87,14.73,2167.49,154,0,Op023,In Progress,Prj023,Failed,2025-04-20
+Sys0024,Think Automation,Houston Plant,Packaging Line,Fully Automated,Plc024,Ignition,Honeywell Experion,Fanuc M-20Id,Running,92.82,14.66,1063.51,107,10,Op024,Completed,Prj024,Failed,2025-01-08
+Sys0025,Exist Automation,Houston Plant,Assembly Line,Semi Automated,Plc025,Factorytalk,Abb 800Xa,Fanuc M-20Id,Stopped,94.9,11.32,1167.11,66,8,Op025,Completed,Prj025,Failed,2024-10-14
+Sys0026,Method Automation,Chicago Plant,Assembly Line,Robotic Cell,Plc026,Wonderware,Emerson Deltav,Fanuc M-20Id,Running,76.81,36.49,2307.86,279,1,Op026,Scheduled,Prj026,Failed,2025-05-28
+Sys0027,Off Automation,Phoenix Plant,Line B,Semi Automated,Plc027,Ignition,Abb 800Xa,Kuka Kr10,Maintenance,96.58,33.88,2221.41,183,6,Op027,In Progress,Prj027,Passed,2025-11-08
+Sys0028,Those Automation,Dallas Plant,Line C,Robotic Cell,Plc028,Wonderware,Emerson Deltav,Abb Irb2600,Idle,95.75,39.29,2121.54,211,0,Op028,Completed,Prj028,Failed,2025-12-31
+Sys0029,It Automation,Houston Plant,Line D,Robotic Cell,Plc029,Ignition,Honeywell Experion,Abb Irb2600,Running,84.18,11.16,1441.38,102,14,Op029,Scheduled,Prj029,Pending,2024-07-23
+Sys0030,Ground Automation,Austin Plant,Line B,Fully Automated,Plc030,Ignition,Honeywell Experion,Kuka Kr10,Maintenance,95.74,39.01,1058.25,260,12,Op030,In Progress,Prj030,Failed,2025-02-28
+Sys0031,Face Automation,Houston Plant,Line A,Fully Automated,Plc031,Factorytalk,Abb 800Xa,Kuka Kr10,Running,77.6,23.04,1957.09,160,13,Op031,In Progress,Prj031,Failed,2026-05-20
+Sys0032,Much Automation,Dallas Plant,Line D,Robotic Cell,Plc032,Ignition,Honeywell Experion,Fanuc M-20Id,Stopped,75.04,37.77,1576.9,100,11,Op032,Scheduled,Prj032,Passed,2025-04-14
+Sys0033,Total Automation,Houston Plant,Assembly Line,Semi Automated,Plc033,Wincc,Emerson Deltav,Kuka Kr10,Maintenance,91.01,19.79,1894.42,283,4,Op033,Completed,Prj033,Pending,2024-08-12
+Sys0034,Perform Automation,Chicago Plant,Packaging Line,Robotic Cell,Plc034,Ignition,Emerson Deltav,Kuka Kr10,Stopped,88.15,10.01,1073.83,220,10,Op034,Scheduled,Prj034,Pending,2025-04-23
+Sys0035,Especially Automation,Chicago Plant,Packaging Line,Fully Automated,Plc035,Wonderware,Emerson Deltav,Abb Irb2600,Running,81.81,29.92,1738.52,47,7,Op035,In Progress,Prj035,Pending,2026-04-28
+Sys0036,Strong Automation,Austin Plant,Line B,Fully Automated,Plc036,Wincc,Abb 800Xa,Abb Irb2600,Stopped,89.67,33.05,1410.83,294,6,Op036,In Progress,Prj036,Failed,2026-01-26
+Sys0037,Spend Automation,Chicago Plant,Line D,Semi Automated,Plc037,Ignition,Abb 800Xa,Fanuc M-20Id,Running,93.68,16.57,2108.22,265,14,Op037,Completed,Prj037,Failed,2024-07-18
+Sys0038,Fine Automation,Austin Plant,Line A,Semi Automated,Plc038,Ignition,Honeywell Experion,Kuka Kr10,Stopped,89.7,31.58,1509.56,280,14,Op038,Completed,Prj038,Failed,2025-09-27
+Sys0039,Single Automation,Chicago Plant,Line D,Semi Automated,Plc039,Ignition,Emerson Deltav,Kuka Kr10,Stopped,90.04,18.24,654.97,146,7,Op039,Scheduled,Prj039,Pending,2026-04-24
+Sys0040,Material Automation,Houston Plant,Assembly Line,Fully Automated,Plc040,Ignition,Abb 800Xa,Abb Irb2600,Stopped,91.65,31.19,628.46,208,10,Op040,In Progress,Prj040,Pending,2025-10-13
+Sys0041,Bit Automation,Chicago Plant,Line A,Fully Automated,Plc041,Wonderware,Honeywell Experion,Fanuc M-20Id,Stopped,86.45,38.28,1097.23,199,13,Op041,In Progress,Prj041,Failed,2026-04-04
+Sys0042,No Automation,Phoenix Plant,Assembly Line,Fully Automated,Plc042,Wonderware,Abb 800Xa,Kuka Kr10,Stopped,86.66,21.67,1837.75,207,5,Op042,Scheduled,Prj042,Passed,2025-09-21
+Sys0043,Old Automation,Phoenix Plant,Assembly Line,Fully Automated,Plc043,Wonderware,Emerson Deltav,Fanuc M-20Id,Running,90.43,14.07,1423.4,25,8,Op043,Scheduled,Prj043,Pending,2024-09-09
+Sys0044,Point Automation,Austin Plant,Line D,Semi Automated,Plc044,Factorytalk,Honeywell Experion,Kuka Kr10,Stopped,81.05,12.46,538.77,276,1,Op044,Scheduled,Prj044,Passed,2026-01-19
+Sys0045,Him Automation,Dallas Plant,Packaging Line,Fully Automated,Plc045,Wincc,Abb 800Xa,Abb Irb2600,Running,89.91,17.16,1447.12,58,6,Op045,Scheduled,Prj045,Failed,2025-07-15
+Sys0046,Over Automation,Houston Plant,Line C,Fully Automated,Plc046,Wincc,Abb 800Xa,Kuka Kr10,Running,88.89,37.87,1651.59,192,12,Op046,In Progress,Prj046,Passed,2024-08-29
+Sys0047,Ten Automation,Dallas Plant,Assembly Line,Robotic Cell,Plc047,Ignition,Abb 800Xa,Kuka Kr10,Running,94.11,26.98,582.14,272,13,Op047,In Progress,Prj047,Pending,2024-10-22
+Sys0048,Late Automation,Dallas Plant,Assembly Line,Robotic Cell,Plc048,Factorytalk,Abb 800Xa,Yaskawa Gp25,Stopped,77.53,38.82,1771.17,235,4,Op048,Scheduled,Prj048,Passed,2025-03-28
+Sys0049,Office Automation,Phoenix Plant,Packaging Line,Semi Automated,Plc049,Wonderware,Honeywell Experion,Yaskawa Gp25,Maintenance,82.74,17.36,2369.24,142,14,Op049,Completed,Prj049,Pending,2026-05-14
+Sys0050,Doctor Automation,Phoenix Plant,Assembly Line,Robotic Cell,Plc050,Wonderware,Honeywell Experion,Fanuc M-20Id,Stopped,95.42,15.46,924.24,132,10,Op050,Scheduled,Prj050,Failed,2025-01-14
+Sys0051,Grow Automation,Houston Plant,Assembly Line,Fully Automated,Plc051,Ignition,Abb 800Xa,Abb Irb2600,Stopped,86.73,32.74,1881.22,251,14,Op051,Completed,Prj051,Passed,2024-11-16
+Sys0052,When Automation,Houston Plant,Line B,Semi Automated,Plc052,Ignition,Honeywell Experion,Kuka Kr10,Stopped,88.28,20.31,2493.26,281,10,Op052,Scheduled,Prj052,Failed,2026-03-06
+Sys0053,Beyond Automation,Chicago Plant,Line C,Semi Automated,Plc053,Factorytalk,Abb 800Xa,Fanuc M-20Id,Idle,82.57,32.29,2401.76,94,6,Op053,Completed,Prj053,Failed,2025-06-23
+Sys0054,Despite Automation,Chicago Plant,Line C,Robotic Cell,Plc054,Factorytalk,Abb 800Xa,Abb Irb2600,Maintenance,80.46,15.38,528.3,273,4,Op054,Scheduled,Prj054,Passed,2025-12-27
+Sys0055,Food Automation,Dallas Plant,Assembly Line,Semi Automated,Plc055,Ignition,Emerson Deltav,Yaskawa Gp25,Running,95.95,27.22,1438.79,225,10,Op055,Completed,Prj055,Passed,2024-07-25
+Sys0056,Treatment Automation,Houston Plant,Line D,Fully Automated,Plc056,Wincc,Honeywell Experion,Yaskawa Gp25,Running,88.85,30.59,803.45,288,9,Op056,Completed,Prj056,Passed,2025-03-17
+Sys0057,Per Automation,Dallas Plant,Assembly Line,Semi Automated,Plc057,Ignition,Emerson Deltav,Yaskawa Gp25,Stopped,96.8,18.92,1677.05,219,9,Op057,In Progress,Prj057,Failed,2026-07-11
+Sys0058,Follow Automation,Dallas Plant,Assembly Line,Robotic Cell,Plc058,Wincc,Abb 800Xa,Abb Irb2600,Maintenance,90.85,14.71,847.63,38,5,Op058,Completed,Prj058,Pending,2026-05-01
+Sys0059,Despite Automation,Chicago Plant,Packaging Line,Robotic Cell,Plc059,Wonderware,Honeywell Experion,Fanuc M-20Id,Idle,81.91,18.48,2219.21,36,7,Op059,Scheduled,Prj059,Failed,2025-04-27
+Sys0060,Once Automation,Phoenix Plant,Packaging Line,Fully Automated,Plc060,Wonderware,Abb 800Xa,Abb Irb2600,Idle,96.8,34.8,642.82,84,9,Op060,In Progress,Prj060,Failed,2025-03-22
+Sys0061,Know Automation,Phoenix Plant,Line C,Semi Automated,Plc061,Wincc,Honeywell Experion,Kuka Kr10,Stopped,97.62,25.01,1487.59,41,1,Op061,Scheduled,Prj061,Failed,2024-12-11
+Sys0062,Likely Automation,Houston Plant,Assembly Line,Semi Automated,Plc062,Wincc,Abb 800Xa,Abb Irb2600,Running,98.99,30.17,1039.02,20,5,Op062,Scheduled,Prj062,Failed,2025-10-13
+Sys0063,Machine Automation,Chicago Plant,Line C,Fully Automated,Plc063,Wonderware,Emerson Deltav,Yaskawa Gp25,Running,86.28,22.25,1142.12,53,5,Op063,Scheduled,Prj063,Pending,2026-06-15
+Sys0064,Thus Automation,Chicago Plant,Line C,Robotic Cell,Plc064,Wonderware,Emerson Deltav,Fanuc M-20Id,Stopped,77.11,17.57,731.84,206,0,Op064,In Progress,Prj064,Failed,2026-02-16
+Sys0065,Within Automation,Chicago Plant,Line D,Fully Automated,Plc065,Ignition,Emerson Deltav,Kuka Kr10,Stopped,90.01,32.8,907.12,281,4,Op065,Scheduled,Prj065,Pending,2026-02-25
+Sys0066,Step Automation,Chicago Plant,Line A,Fully Automated,Plc066,Ignition,Emerson Deltav,Abb Irb2600,Maintenance,88.22,26.57,686.42,58,14,Op066,Completed,Prj066,Failed,2026-07-06
+Sys0067,When Automation,Austin Plant,Line D,Robotic Cell,Plc067,Factorytalk,Emerson Deltav,Kuka Kr10,Stopped,95.03,39.41,987.46,282,4,Op067,Scheduled,Prj067,Passed,2024-09-14
+Sys0068,They Automation,Phoenix Plant,Assembly Line,Robotic Cell,Plc068,Ignition,Abb 800Xa,Kuka Kr10,Stopped,83.16,33.63,1034.35,1,9,Op068,In Progress,Prj068,Pending,2026-03-26
+Sys0069,Open Automation,Phoenix Plant,Assembly Line,Robotic Cell,Plc069,Wonderware,Abb 800Xa,Yaskawa Gp25,Stopped,83.28,26.56,1586.86,233,10,Op069,Completed,Prj069,Failed,2026-06-09
+Sys0070,Week Automation,Austin Plant,Assembly Line,Semi Automated,Plc070,Ignition,Honeywell Experion,Fanuc M-20Id,Maintenance,92.87,31.16,2122.82,197,4,Op070,Scheduled,Prj070,Passed,2025-08-26
+Sys0071,Record Automation,Austin Plant,Assembly Line,Robotic Cell,Plc071,Factorytalk,Abb 800Xa,Yaskawa Gp25,Running,87.62,23.71,1944.89,209,4,Op071,Completed,Prj071,Pending,2026-01-09
+Sys0072,Use Automation,Houston Plant,Line C,Robotic Cell,Plc072,Wonderware,Emerson Deltav,Fanuc M-20Id,Maintenance,95.46,35.78,1260.02,162,15,Op072,In Progress,Prj072,Passed,2025-02-17
+Sys0073,Ok Automation,Phoenix Plant,Line A,Fully Automated,Plc073,Factorytalk,Abb 800Xa,Fanuc M-20Id,Stopped,98.48,32.81,1907.78,51,14,Op073,Completed,Prj073,Failed,2025-06-02
+Sys0074,Section Automation,Houston Plant,Line A,Fully Automated,Plc074,Factorytalk,Abb 800Xa,Kuka Kr10,Maintenance,84.0,14.37,1562.33,289,5,Op074,Completed,Prj074,Passed,2025-08-15
+Sys0075,Management Automation,Dallas Plant,Assembly Line,Semi Automated,Plc075,Ignition,Honeywell Experion,Abb Irb2600,Idle,86.07,17.62,1010.65,4,14,Op075,Scheduled,Prj075,Failed,2024-11-03
+Sys0076,Mrs Automation,Phoenix Plant,Line B,Fully Automated,Plc076,Wonderware,Honeywell Experion,Kuka Kr10,Stopped,91.57,23.71,1104.24,196,15,Op076,Completed,Prj076,Passed,2026-01-05
+Sys0077,Consumer Automation,Chicago Plant,Assembly Line,Semi Automated,Plc077,Factorytalk,Emerson Deltav,Kuka Kr10,Running,98.47,29.75,1048.96,289,1,Op077,In Progress,Prj077,Failed,2025-07-08
+Sys0078,Daughter Automation,Chicago Plant,Line C,Fully Automated,Plc078,Factorytalk,Abb 800Xa,Abb Irb2600,Maintenance,91.27,31.63,1818.36,70,3,Op078,In Progress,Prj078,Failed,2025-03-15
+Sys0079,Well Automation,Dallas Plant,Line C,Semi Automated,Plc079,Wincc,Emerson Deltav,Kuka Kr10,Idle,77.16,18.85,1994.96,89,6,Op079,Completed,Prj079,Failed,2026-04-15
+Sys0080,Blue Automation,Houston Plant,Assembly Line,Robotic Cell,Plc080,Factorytalk,Abb 800Xa,Kuka Kr10,Stopped,98.22,18.85,2240.79,58,14,Op080,Completed,Prj080,Passed,2026-06-09
+Sys0081,Before Automation,Austin Plant,Packaging Line,Robotic Cell,Plc081,Wonderware,Emerson Deltav,Kuka Kr10,Running,93.98,10.42,1573.14,232,11,Op081,In Progress,Prj081,Failed,2026-02-15
+Sys0082,His Automation,Houston Plant,Assembly Line,Semi Automated,Plc082,Factorytalk,Abb 800Xa,Abb Irb2600,Stopped,75.6,36.53,1622.81,113,2,Op082,In Progress,Prj082,Pending,2026-02-19
+Sys0083,Receive Automation,Houston Plant,Packaging Line,Semi Automated,Plc083,Wincc,Abb 800Xa,Fanuc M-20Id,Running,82.3,24.78,694.38,275,4,Op083,Scheduled,Prj083,Pending,2024-10-11
+Sys0084,Focus Automation,Houston Plant,Packaging Line,Robotic Cell,Plc084,Wonderware,Emerson Deltav,Abb Irb2600,Stopped,90.72,35.01,1731.3,143,1,Op084,In Progress,Prj084,Pending,2025-11-04
+Sys0085,Ball Automation,Austin Plant,Line D,Semi Automated,Plc085,Ignition,Honeywell Experion,Fanuc M-20Id,Maintenance,88.07,39.34,1217.35,203,8,Op085,Completed,Prj085,Passed,2025-11-21
+Sys0086,Coach Automation,Chicago Plant,Line A,Robotic Cell,Plc086,Ignition,Emerson Deltav,Fanuc M-20Id,Running,93.88,17.31,751.85,289,6,Op086,Completed,Prj086,Failed,2025-04-22
+Sys0087,Support Automation,Austin Plant,Assembly Line,Fully Automated,Plc087,Ignition,Honeywell Experion,Abb Irb2600,Running,81.65,39.52,2475.05,276,8,Op087,Completed,Prj087,Passed,2025-09-18
+Sys0088,Politics Automation,Dallas Plant,Line B,Fully Automated,Plc088,Factorytalk,Abb 800Xa,Kuka Kr10,Running,79.18,11.57,1983.44,269,3,Op088,In Progress,Prj088,Passed,2025-02-12
+Sys0089,First Automation,Chicago Plant,Line D,Semi Automated,Plc089,Wincc,Honeywell Experion,Abb Irb2600,Running,92.45,37.26,1817.81,154,14,Op089,In Progress,Prj089,Passed,2025-01-18
+Sys0090,Security Automation,Dallas Plant,Line D,Semi Automated,Plc090,Wonderware,Emerson Deltav,Fanuc M-20Id,Stopped,92.1,23.31,2298.53,164,4,Op090,Completed,Prj090,Passed,2026-04-01
+Sys0091,Agency Automation,Houston Plant,Assembly Line,Robotic Cell,Plc091,Factorytalk,Honeywell Experion,Kuka Kr10,Stopped,87.13,22.91,2086.19,58,6,Op091,Scheduled,Prj091,Pending,2025-05-26
+Sys0092,Wrong Automation,Austin Plant,Line D,Semi Automated,Plc092,Wonderware,Honeywell Experion,Yaskawa Gp25,Running,82.5,19.38,1009.78,78,15,Op092,Completed,Prj092,Passed,2026-05-12
+Sys0093,Check Automation,Dallas Plant,Line A,Semi Automated,Plc093,Wincc,Emerson Deltav,Kuka Kr10,Idle,88.35,27.59,1623.17,168,3,Op093,Scheduled,Prj093,Pending,2025-05-25
+Sys0094,Cup Automation,Chicago Plant,Packaging Line,Fully Automated,Plc094,Factorytalk,Emerson Deltav,Kuka Kr10,Maintenance,77.49,25.22,809.46,246,7,Op094,Completed,Prj094,Pending,2024-12-12
+Sys0095,Top Automation,Phoenix Plant,Line C,Fully Automated,Plc095,Factorytalk,Emerson Deltav,Abb Irb2600,Stopped,95.28,39.24,2136.85,285,0,Op095,In Progress,Prj095,Failed,2024-10-09
+Sys0096,Point Automation,Houston Plant,Line A,Fully Automated,Plc096,Factorytalk,Emerson Deltav,Kuka Kr10,Maintenance,83.42,15.44,786.5,205,2,Op096,Completed,Prj096,Failed,2026-04-13
+Sys0097,Food Automation,Dallas Plant,Line A,Robotic Cell,Plc097,Ignition,Honeywell Experion,Yaskawa Gp25,Stopped,83.18,21.1,1943.19,290,2,Op097,Completed,Prj097,Passed,2025-09-11
+Sys0098,Able Automation,Austin Plant,Assembly Line,Fully Automated,Plc098,Wincc,Honeywell Experion,Yaskawa Gp25,Stopped,86.66,23.26,1046.33,262,3,Op098,Scheduled,Prj098,Pending,2024-12-26
+Sys0099,Power Automation,Dallas Plant,Line C,Robotic Cell,Plc099,Wonderware,Emerson Deltav,Kuka Kr10,Running,80.29,39.53,609.56,104,9,Op099,Completed,Prj099,Passed,2025-06-15
+Sys0100,Cold Automation,Houston Plant,Line C,Semi Automated,Plc100,Wincc,Abb 800Xa,Yaskawa Gp25,Stopped,79.22,21.41,1907.34,256,11,Op100,Completed,Prj100,Pending,2025-01-15
+Sys0101,Rather Automation,Dallas Plant,Line D,Fully Automated,Plc101,Wonderware,Abb 800Xa,Kuka Kr10,Stopped,88.76,31.28,1335.39,58,12,Op101,Completed,Prj101,Pending,2025-11-26
+Sys0102,Require Automation,Austin Plant,Assembly Line,Semi Automated,Plc102,Factorytalk,Abb 800Xa,Yaskawa Gp25,Running,80.84,27.67,1547.93,202,9,Op102,In Progress,Prj102,Pending,2025-01-12
+Sys0103,Computer Automation,Austin Plant,Line C,Fully Automated,Plc103,Wincc,Emerson Deltav,Fanuc M-20Id,Idle,96.74,20.48,1954.76,75,7,Op103,Completed,Prj103,Passed,2025-02-26
+Sys0104,Huge Automation,Houston Plant,Line B,Fully Automated,Plc104,Ignition,Emerson Deltav,Fanuc M-20Id,Idle,97.83,28.84,1427.91,288,14,Op104,In Progress,Prj104,Failed,2025-11-03
+Sys0105,Contain Automation,Phoenix Plant,Line C,Robotic Cell,Plc105,Factorytalk,Abb 800Xa,Yaskawa Gp25,Running,86.25,28.94,2092.66,28,11,Op105,In Progress,Prj105,Passed,2025-10-13
+Sys0106,Remain Automation,Houston Plant,Line D,Semi Automated,Plc106,Wincc,Abb 800Xa,Kuka Kr10,Maintenance,76.84,35.93,2210.59,259,12,Op106,Scheduled,Prj106,Failed,2025-11-27
+Sys0107,Attention Automation,Phoenix Plant,Packaging Line,Fully Automated,Plc107,Wonderware,Emerson Deltav,Abb Irb2600,Maintenance,89.52,25.04,2415.44,230,3,Op107,Scheduled,Prj107,Failed,2024-12-27
+Sys0108,Each Automation,Dallas Plant,Assembly Line,Robotic Cell,Plc108,Ignition,Abb 800Xa,Abb Irb2600,Stopped,98.78,25.72,1719.61,186,11,Op108,Scheduled,Prj108,Pending,2026-03-08
+Sys0109,Radio Automation,Chicago Plant,Line C,Robotic Cell,Plc109,Wincc,Emerson Deltav,Kuka Kr10,Running,82.91,26.74,1273.13,129,4,Op109,Scheduled,Prj109,Passed,2025-08-26
+Sys0110,Research Automation,Phoenix Plant,Packaging Line,Fully Automated,Plc110,Factorytalk,Honeywell Experion,Yaskawa Gp25,Idle,89.28,38.14,1119.16,192,10,Op110,Completed,Prj110,Failed,2025-01-07
+Sys0111,Able Automation,Phoenix Plant,Line A,Robotic Cell,Plc111,Wonderware,Emerson Deltav,Kuka Kr10,Running,83.7,15.41,928.39,248,6,Op111,Completed,Prj111,Passed,2026-06-05
+Sys0112,Today Automation,Austin Plant,Line A,Semi Automated,Plc112,Wincc,Emerson Deltav,Fanuc M-20Id,Maintenance,96.03,28.54,1694.49,78,5,Op112,Completed,Prj112,Failed,2025-05-03
+Sys0113,Story Automation,Phoenix Plant,Line B,Robotic Cell,Plc113,Wonderware,Abb 800Xa,Yaskawa Gp25,Maintenance,91.23,17.13,1388.4,145,14,Op113,Completed,Prj113,Failed,2026-04-20
+Sys0114,Interview Automation,Austin Plant,Line C,Semi Automated,Plc114,Ignition,Honeywell Experion,Yaskawa Gp25,Stopped,93.47,33.34,1505.81,214,5,Op114,Completed,Prj114,Failed,2024-12-14
+Sys0115,Number Automation,Austin Plant,Line C,Fully Automated,Plc115,Wonderware,Honeywell Experion,Fanuc M-20Id,Running,81.84,32.89,1045.58,262,4,Op115,Scheduled,Prj115,Passed,2025-06-01
+Sys0116,Quite Automation,Austin Plant,Line D,Semi Automated,Plc116,Wincc,Honeywell Experion,Fanuc M-20Id,Stopped,87.05,17.07,2489.05,191,7,Op116,Completed,Prj116,Pending,2024-12-18
+Sys0117,Continue Automation,Dallas Plant,Packaging Line,Robotic Cell,Plc117,Factorytalk,Abb 800Xa,Abb Irb2600,Running,81.89,34.89,1892.14,71,15,Op117,Scheduled,Prj117,Failed,2025-04-07
+Sys0118,Put Automation,Dallas Plant,Line A,Fully Automated,Plc118,Factorytalk,Abb 800Xa,Abb Irb2600,Stopped,77.67,18.64,1102.3,24,7,Op118,Scheduled,Prj118,Failed,2025-02-27
+Sys0119,Then Automation,Phoenix Plant,Line D,Fully Automated,Plc119,Wincc,Honeywell Experion,Fanuc M-20Id,Idle,92.25,18.74,503.13,180,7,Op119,In Progress,Prj119,Pending,2025-07-27
+Sys0120,Three Automation,Austin Plant,Packaging Line,Robotic Cell,Plc120,Wincc,Emerson Deltav,Kuka Kr10,Running,97.88,26.32,2072.82,259,0,Op120,Scheduled,Prj120,Pending,2025-01-07
+Sys0121,Class Automation,Dallas Plant,Packaging Line,Semi Automated,Plc121,Factorytalk,Honeywell Experion,Fanuc M-20Id,Maintenance,93.92,20.34,1965.88,53,10,Op121,Completed,Prj121,Passed,2026-03-28
+Sys0122,Store Automation,Houston Plant,Assembly Line,Semi Automated,Plc122,Ignition,Emerson Deltav,Yaskawa Gp25,Stopped,90.16,34.34,626.2,234,1,Op122,Scheduled,Prj122,Passed,2025-07-12
+Sys0123,Tough Automation,Dallas Plant,Line B,Fully Automated,Plc123,Factorytalk,Honeywell Experion,Yaskawa Gp25,Stopped,81.08,32.6,882.21,182,1,Op123,In Progress,Prj123,Pending,2025-01-18
+Sys0124,Fine Automation,Houston Plant,Line A,Semi Automated,Plc124,Wonderware,Honeywell Experion,Yaskawa Gp25,Stopped,83.14,15.6,1884.14,188,8,Op124,Completed,Prj124,Failed,2025-08-10
+Sys0125,Information Automation,Chicago Plant,Line A,Semi Automated,Plc125,Ignition,Emerson Deltav,Kuka Kr10,Maintenance,77.46,19.84,1091.28,228,13,Op125,Completed,Prj125,Failed,2024-11-06
+Sys0126,Position Automation,Chicago Plant,Line C,Semi Automated,Plc126,Wincc,Emerson Deltav,Kuka Kr10,Stopped,81.59,39.4,2395.81,38,12,Op126,Scheduled,Prj126,Failed,2025-07-17
+Sys0127,Current Automation,Austin Plant,Line A,Fully Automated,Plc127,Wonderware,Abb 800Xa,Abb Irb2600,Running,80.66,29.35,1224.3,290,1,Op127,In Progress,Prj127,Passed,2025-12-03
+Sys0128,Hope Automation,Chicago Plant,Line C,Semi Automated,Plc128,Wonderware,Abb 800Xa,Abb Irb2600,Maintenance,84.55,29.49,999.22,58,0,Op128,In Progress,Prj128,Passed,2024-07-19
+Sys0129,College Automation,Chicago Plant,Assembly Line,Semi Automated,Plc129,Wincc,Honeywell Experion,Kuka Kr10,Stopped,80.15,28.36,1887.96,251,6,Op129,Completed,Prj129,Passed,2026-01-17
+Sys0130,Stop Automation,Dallas Plant,Line D,Fully Automated,Plc130,Wonderware,Abb 800Xa,Kuka Kr10,Maintenance,92.03,26.5,1080.72,153,5,Op130,In Progress,Prj130,Failed,2025-06-09
+Sys0131,Become Automation,Austin Plant,Line C,Robotic Cell,Plc131,Ignition,Abb 800Xa,Abb Irb2600,Idle,80.68,24.82,1221.79,293,11,Op131,Scheduled,Prj131,Failed,2025-12-07
+Sys0132,Make Automation,Austin Plant,Assembly Line,Fully Automated,Plc132,Wincc,Honeywell Experion,Yaskawa Gp25,Stopped,87.62,33.07,2146.68,37,4,Op132,Scheduled,Prj132,Failed,2025-06-12
+Sys0133,Century Automation,Dallas Plant,Line D,Semi Automated,Plc133,Factorytalk,Abb 800Xa,Abb Irb2600,Idle,85.38,37.32,610.83,63,4,Op133,Scheduled,Prj133,Passed,2025-04-19
+Sys0134,Weight Automation,Austin Plant,Line C,Robotic Cell,Plc134,Ignition,Honeywell Experion,Kuka Kr10,Running,81.01,29.05,1601.68,64,9,Op134,In Progress,Prj134,Failed,2026-02-06
+Sys0135,Professor Automation,Dallas Plant,Assembly Line,Robotic Cell,Plc135,Ignition,Emerson Deltav,Abb Irb2600,Idle,90.81,31.62,1710.28,288,1,Op135,Completed,Prj135,Passed,2024-11-21
+Sys0136,Than Automation,Dallas Plant,Packaging Line,Robotic Cell,Plc136,Factorytalk,Emerson Deltav,Abb Irb2600,Stopped,89.83,10.91,2277.99,279,9,Op136,In Progress,Prj136,Pending,2026-06-29
+Sys0137,Game Automation,Chicago Plant,Line B,Robotic Cell,Plc137,Wonderware,Honeywell Experion,Yaskawa Gp25,Running,91.53,14.74,1331.24,237,6,Op137,Scheduled,Prj137,Failed,2025-12-04
+Sys0138,Billion Automation,Austin Plant,Line C,Robotic Cell,Plc138,Factorytalk,Emerson Deltav,Kuka Kr10,Stopped,78.14,21.12,1623.3,163,7,Op138,Scheduled,Prj138,Passed,2025-10-22
+Sys0139,Yeah Automation,Houston Plant,Line D,Fully Automated,Plc139,Ignition,Abb 800Xa,Fanuc M-20Id,Maintenance,97.69,35.92,1336.27,81,10,Op139,In Progress,Prj139,Failed,2025-05-13
+Sys0140,Word Automation,Houston Plant,Line B,Fully Automated,Plc140,Wonderware,Emerson Deltav,Yaskawa Gp25,Stopped,96.1,24.92,680.1,201,14,Op140,Completed,Prj140,Passed,2026-04-29
+Sys0141,Mission Automation,Phoenix Plant,Line C,Fully Automated,Plc141,Wincc,Honeywell Experion,Yaskawa Gp25,Stopped,81.86,10.25,714.99,68,8,Op141,In Progress,Prj141,Pending,2024-08-22
+Sys0142,Somebody Automation,Chicago Plant,Line C,Fully Automated,Plc142,Wonderware,Abb 800Xa,Abb Irb2600,Maintenance,88.28,12.21,1508.51,281,8,Op142,In Progress,Prj142,Failed,2025-07-21
+Sys0143,Do Automation,Phoenix Plant,Line A,Fully Automated,Plc143,Wincc,Honeywell Experion,Kuka Kr10,Maintenance,88.39,20.97,788.53,260,12,Op143,In Progress,Prj143,Passed,2025-04-30
+Sys0144,Turn Automation,Dallas Plant,Line A,Fully Automated,Plc144,Factorytalk,Honeywell Experion,Yaskawa Gp25,Idle,89.55,25.47,1155.93,163,5,Op144,Scheduled,Prj144,Failed,2024-11-20
+Sys0145,Rich Automation,Houston Plant,Assembly Line,Semi Automated,Plc145,Wonderware,Emerson Deltav,Kuka Kr10,Stopped,94.58,21.05,1847.61,213,9,Op145,In Progress,Prj145,Failed,2025-07-24
+Sys0146,Inside Automation,Dallas Plant,Assembly Line,Semi Automated,Plc146,Factorytalk,Emerson Deltav,Abb Irb2600,Running,89.0,15.12,1758.05,194,4,Op146,In Progress,Prj146,Passed,2025-11-01
+Sys0147,Situation Automation,Dallas Plant,Assembly Line,Robotic Cell,Plc147,Wincc,Abb 800Xa,Fanuc M-20Id,Stopped,82.53,14.54,1881.0,210,15,Op147,In Progress,Prj147,Failed,2025-05-04
+Sys0148,However Automation,Dallas Plant,Packaging Line,Fully Automated,Plc148,Ignition,Emerson Deltav,Kuka Kr10,Stopped,87.61,19.41,846.36,272,10,Op148,In Progress,Prj148,Pending,2025-10-29
+Sys0149,Little Automation,Houston Plant,Assembly Line,Semi Automated,Plc149,Ignition,Abb 800Xa,Kuka Kr10,Maintenance,80.4,39.19,1095.23,147,6,Op149,In Progress,Prj149,Failed,2026-06-25
+Sys0150,Wrong Automation,Chicago Plant,Line C,Semi Automated,Plc150,Factorytalk,Emerson Deltav,Kuka Kr10,Maintenance,77.92,30.3,1259.39,202,11,Op150,Completed,Prj150,Pending,2024-11-05
+Sys0151,Become Automation,Dallas Plant,Line C,Robotic Cell,Plc151,Wincc,Honeywell Experion,Yaskawa Gp25,Maintenance,92.94,16.42,2155.9,138,8,Op151,Completed,Prj151,Passed,2026-01-26
+Sys0152,Often Automation,Phoenix Plant,Packaging Line,Robotic Cell,Plc152,Ignition,Abb 800Xa,Fanuc M-20Id,Idle,90.31,11.57,1326.6,241,3,Op152,In Progress,Prj152,Passed,2026-05-13
+Sys0153,Clearly Automation,Dallas Plant,Assembly Line,Fully Automated,Plc153,Wonderware,Emerson Deltav,Yaskawa Gp25,Stopped,90.61,32.68,1074.49,146,1,Op153,Completed,Prj153,Failed,2025-01-21
+Sys0154,Address Automation,Phoenix Plant,Line B,Robotic Cell,Plc154,Wincc,Abb 800Xa,Yaskawa Gp25,Idle,97.41,11.09,2172.41,253,5,Op154,In Progress,Prj154,Pending,2025-12-01
+Sys0155,Win Automation,Dallas Plant,Line A,Semi Automated,Plc155,Wincc,Honeywell Experion,Kuka Kr10,Stopped,98.74,26.3,1487.82,68,14,Op155,Scheduled,Prj155,Passed,2026-04-10
+Sys0156,Though Automation,Dallas Plant,Line C,Fully Automated,Plc156,Wonderware,Emerson Deltav,Kuka Kr10,Idle,75.34,20.11,1090.05,98,5,Op156,In Progress,Prj156,Failed,2025-10-28
+Sys0157,Leg Automation,Chicago Plant,Line D,Robotic Cell,Plc157,Factorytalk,Abb 800Xa,Yaskawa Gp25,Running,79.43,14.22,1147.2,127,0,Op157,Scheduled,Prj157,Pending,2024-08-15
+Sys0158,Entire Automation,Austin Plant,Line D,Semi Automated,Plc158,Factorytalk,Honeywell Experion,Fanuc M-20Id,Maintenance,90.69,30.78,624.25,60,14,Op158,Scheduled,Prj158,Passed,2025-07-11
+Sys0159,Current Automation,Chicago Plant,Packaging Line,Robotic Cell,Plc159,Factorytalk,Emerson Deltav,Fanuc M-20Id,Maintenance,83.82,16.63,2414.72,244,4,Op159,Scheduled,Prj159,Failed,2025-11-21
+Sys0160,Beautiful Automation,Phoenix Plant,Line C,Semi Automated,Plc160,Wonderware,Emerson Deltav,Abb Irb2600,Idle,91.33,27.87,2074.74,269,14,Op160,In Progress,Prj160,Failed,2026-04-07
+Sys0161,Will Automation,Houston Plant,Line A,Robotic Cell,Plc161,Wincc,Abb 800Xa,Abb Irb2600,Idle,78.95,35.63,1383.68,105,15,Op161,Completed,Prj161,Failed,2025-01-12
+Sys0162,Argue Automation,Chicago Plant,Line A,Semi Automated,Plc162,Ignition,Emerson Deltav,Yaskawa Gp25,Stopped,88.53,26.76,1845.54,157,0,Op162,Scheduled,Prj162,Pending,2026-02-04
+Sys0163,Project Automation,Dallas Plant,Packaging Line,Fully Automated,Plc163,Wincc,Abb 800Xa,Yaskawa Gp25,Maintenance,91.81,26.23,620.51,35,15,Op163,Completed,Prj163,Pending,2025-11-18
+Sys0164,Town Automation,Chicago Plant,Line B,Fully Automated,Plc164,Wonderware,Honeywell Experion,Yaskawa Gp25,Stopped,95.87,37.2,1251.29,276,4,Op164,In Progress,Prj164,Pending,2026-04-17
+Sys0165,Easy Automation,Dallas Plant,Line B,Robotic Cell,Plc165,Wonderware,Emerson Deltav,Abb Irb2600,Idle,95.04,32.69,2456.98,237,13,Op165,In Progress,Prj165,Pending,2025-09-17
+Sys0166,Response Automation,Austin Plant,Line B,Semi Automated,Plc166,Factorytalk,Abb 800Xa,Kuka Kr10,Idle,97.5,31.75,725.69,214,0,Op166,Completed,Prj166,Passed,2024-08-13
+Sys0167,Science Automation,Dallas Plant,Line A,Robotic Cell,Plc167,Wincc,Honeywell Experion,Fanuc M-20Id,Idle,92.77,22.07,968.68,111,1,Op167,Completed,Prj167,Failed,2026-07-04
+Sys0168,Lose Automation,Houston Plant,Line B,Robotic Cell,Plc168,Factorytalk,Emerson Deltav,Kuka Kr10,Idle,82.24,14.3,1820.42,113,13,Op168,Scheduled,Prj168,Pending,2025-07-30
+Sys0169,Look Automation,Dallas Plant,Assembly Line,Robotic Cell,Plc169,Ignition,Emerson Deltav,Yaskawa Gp25,Stopped,76.13,20.33,1786.63,195,10,Op169,In Progress,Prj169,Pending,2024-10-23
+Sys0170,Full Automation,Chicago Plant,Line B,Semi Automated,Plc170,Wonderware,Abb 800Xa,Yaskawa Gp25,Idle,95.38,19.02,1915.15,237,1,Op170,In Progress,Prj170,Pending,2025-03-24
+Sys0171,Among Automation,Chicago Plant,Assembly Line,Robotic Cell,Plc171,Ignition,Honeywell Experion,Abb Irb2600,Maintenance,79.88,29.4,2344.45,189,2,Op171,In Progress,Prj171,Failed,2024-09-18
+Sys0172,Game Automation,Austin Plant,Line A,Semi Automated,Plc172,Wonderware,Emerson Deltav,Fanuc M-20Id,Running,79.52,32.85,1948.61,286,6,Op172,Scheduled,Prj172,Passed,2026-01-26
+Sys0173,Your Automation,Houston Plant,Line C,Fully Automated,Plc173,Ignition,Abb 800Xa,Fanuc M-20Id,Stopped,96.95,30.87,1907.54,203,7,Op173,In Progress,Prj173,Pending,2025-12-30
+Sys0174,It Automation,Houston Plant,Line D,Semi Automated,Plc174,Factorytalk,Honeywell Experion,Kuka Kr10,Maintenance,87.31,24.92,697.22,240,10,Op174,Completed,Prj174,Pending,2025-02-06
+Sys0175,My Automation,Houston Plant,Line D,Fully Automated,Plc175,Ignition,Emerson Deltav,Abb Irb2600,Running,81.26,38.04,1658.29,213,9,Op175,Completed,Prj175,Passed,2025-07-29
+Sys0176,Idea Automation,Houston Plant,Line B,Semi Automated,Plc176,Ignition,Honeywell Experion,Kuka Kr10,Maintenance,93.32,24.66,1947.12,251,14,Op176,Completed,Prj176,Failed,2026-05-07
+Sys0177,Price Automation,Houston Plant,Line B,Fully Automated,Plc177,Wonderware,Abb 800Xa,Fanuc M-20Id,Running,95.14,12.23,2135.99,24,0,Op177,Scheduled,Prj177,Passed,2024-09-15
+Sys0178,Take Automation,Austin Plant,Line A,Robotic Cell,Plc178,Ignition,Abb 800Xa,Abb Irb2600,Stopped,83.96,28.54,1833.51,247,15,Op178,Completed,Prj178,Passed,2025-03-06
+Sys0179,Develop Automation,Phoenix Plant,Assembly Line,Semi Automated,Plc179,Wincc,Abb 800Xa,Kuka Kr10,Maintenance,75.41,34.39,1848.07,91,3,Op179,Completed,Prj179,Failed,2025-04-01
+Sys0180,Raise Automation,Austin Plant,Line B,Fully Automated,Plc180,Factorytalk,Honeywell Experion,Kuka Kr10,Stopped,76.9,38.78,1418.0,124,7,Op180,Scheduled,Prj180,Failed,2026-01-25
+Sys0181,Her Automation,Dallas Plant,Packaging Line,Robotic Cell,Plc181,Wincc,Abb 800Xa,Yaskawa Gp25,Stopped,84.05,24.28,1773.5,87,2,Op181,Scheduled,Prj181,Pending,2025-12-15
+Sys0182,Commercial Automation,Houston Plant,Assembly Line,Fully Automated,Plc182,Wincc,Abb 800Xa,Abb Irb2600,Stopped,81.51,37.72,1868.86,143,1,Op182,Completed,Prj182,Pending,2026-04-19
+Sys0183,Loss Automation,Dallas Plant,Line B,Robotic Cell,Plc183,Ignition,Emerson Deltav,Yaskawa Gp25,Running,82.18,26.92,1633.39,199,10,Op183,Scheduled,Prj183,Failed,2025-06-20
+Sys0184,Such Automation,Austin Plant,Packaging Line,Robotic Cell,Plc184,Wincc,Emerson Deltav,Kuka Kr10,Running,77.34,16.96,652.04,203,10,Op184,Completed,Prj184,Failed,2025-02-22
+Sys0185,Anything Automation,Houston Plant,Line D,Semi Automated,Plc185,Ignition,Honeywell Experion,Yaskawa Gp25,Stopped,79.46,27.58,1260.15,151,7,Op185,In Progress,Prj185,Passed,2025-05-07
+Sys0186,Job Automation,Dallas Plant,Line C,Fully Automated,Plc186,Wonderware,Emerson Deltav,Abb Irb2600,Stopped,82.6,13.2,510.39,157,14,Op186,Scheduled,Prj186,Pending,2026-02-04
+Sys0187,Any Automation,Dallas Plant,Line B,Fully Automated,Plc187,Ignition,Honeywell Experion,Yaskawa Gp25,Stopped,77.48,12.69,1608.44,166,12,Op187,Completed,Prj187,Pending,2025-07-06
+Sys0188,Serious Automation,Chicago Plant,Line D,Fully Automated,Plc188,Ignition,Emerson Deltav,Abb Irb2600,Stopped,79.07,18.07,1036.81,74,2,Op188,Completed,Prj188,Pending,2026-03-24
+Sys0189,Down Automation,Houston Plant,Line D,Semi Automated,Plc189,Wonderware,Abb 800Xa,Kuka Kr10,Maintenance,97.66,31.63,1491.6,100,14,Op189,Completed,Prj189,Passed,2024-07-31
+Sys0190,Others Automation,Houston Plant,Line A,Semi Automated,Plc190,Factorytalk,Emerson Deltav,Yaskawa Gp25,Maintenance,85.57,22.92,2147.07,69,9,Op190,Scheduled,Prj190,Failed,2025-01-01
+Sys0191,Brother Automation,Austin Plant,Line D,Semi Automated,Plc191,Ignition,Honeywell Experion,Kuka Kr10,Maintenance,92.64,28.99,2435.53,124,10,Op191,Scheduled,Prj191,Pending,2026-01-21
+Sys0192,Space Automation,Chicago Plant,Line C,Fully Automated,Plc192,Ignition,Emerson Deltav,Abb Irb2600,Running,97.87,23.85,1916.73,224,9,Op192,In Progress,Prj192,Passed,2024-10-03
+Sys0193,Avoid Automation,Chicago Plant,Packaging Line,Semi Automated,Plc193,Ignition,Emerson Deltav,Kuka Kr10,Idle,81.06,14.62,1346.26,193,2,Op193,Scheduled,Prj193,Failed,2025-03-10
+Sys0194,Two Automation,Chicago Plant,Assembly Line,Semi Automated,Plc194,Wonderware,Emerson Deltav,Fanuc M-20Id,Maintenance,91.84,34.37,1687.64,43,3,Op194,Completed,Prj194,Failed,2025-01-07
+Sys0195,Win Automation,Houston Plant,Line B,Robotic Cell,Plc195,Wincc,Emerson Deltav,Yaskawa Gp25,Maintenance,98.18,22.91,521.1,132,7,Op195,In Progress,Prj195,Failed,2025-12-16
+Sys0196,Few Automation,Phoenix Plant,Assembly Line,Robotic Cell,Plc196,Ignition,Honeywell Experion,Kuka Kr10,Stopped,86.11,30.39,1880.87,77,11,Op196,Completed,Prj196,Pending,2026-01-08
+Sys0197,Network Automation,Dallas Plant,Line C,Semi Automated,Plc197,Wincc,Abb 800Xa,Abb Irb2600,Maintenance,82.49,23.66,913.73,247,11,Op197,Scheduled,Prj197,Passed,2025-02-24
+Sys0198,Cut Automation,Chicago Plant,Packaging Line,Robotic Cell,Plc198,Wonderware,Honeywell Experion,Fanuc M-20Id,Maintenance,76.07,31.32,545.17,175,3,Op198,In Progress,Prj198,Passed,2025-05-18
+Sys0199,Because Automation,Austin Plant,Assembly Line,Fully Automated,Plc199,Ignition,Honeywell Experion,Yaskawa Gp25,Stopped,80.56,22.15,868.9,221,12,Op199,Completed,Prj199,Failed,2025-03-04
+Sys0200,Learn Automation,Phoenix Plant,Line B,Semi Automated,Plc200,Wonderware,Honeywell Experion,Fanuc M-20Id,Idle,79.94,32.57,2117.46,32,3,Op200,In Progress,Prj200,Passed,2024-10-12
+Sys0201,Grow Automation,Houston Plant,Line C,Fully Automated,Plc201,Wonderware,Abb 800Xa,Kuka Kr10,Stopped,87.67,29.17,1693.94,200,3,Op201,Scheduled,Prj201,Pending,2025-05-05
+Sys0202,Cost Automation,Chicago Plant,Assembly Line,Fully Automated,Plc202,Factorytalk,Emerson Deltav,Fanuc M-20Id,Idle,82.52,17.16,733.9,191,4,Op202,In Progress,Prj202,Pending,2025-06-16
+Sys0203,Weight Automation,Chicago Plant,Assembly Line,Fully Automated,Plc203,Wonderware,Honeywell Experion,Abb Irb2600,Stopped,90.25,30.8,1790.52,88,5,Op203,Scheduled,Prj203,Pending,2024-08-02
+Sys0204,Left Automation,Austin Plant,Line B,Semi Automated,Plc204,Wonderware,Emerson Deltav,Fanuc M-20Id,Maintenance,97.84,24.54,890.26,196,15,Op204,Scheduled,Prj204,Failed,2025-01-31
+Sys0205,Including Automation,Chicago Plant,Line D,Robotic Cell,Plc205,Wonderware,Honeywell Experion,Abb Irb2600,Running,88.57,33.88,941.06,16,8,Op205,Completed,Prj205,Failed,2025-10-31
+Sys0206,And Automation,Houston Plant,Line B,Semi Automated,Plc206,Wonderware,Emerson Deltav,Fanuc M-20Id,Running,81.43,26.29,2481.79,277,1,Op206,In Progress,Prj206,Pending,2026-03-12
+Sys0207,Else Automation,Phoenix Plant,Line B,Semi Automated,Plc207,Wincc,Emerson Deltav,Abb Irb2600,Maintenance,96.0,10.97,1025.63,44,14,Op207,Completed,Prj207,Passed,2025-11-09
+Sys0208,Or Automation,Austin Plant,Packaging Line,Robotic Cell,Plc208,Factorytalk,Emerson Deltav,Yaskawa Gp25,Idle,89.79,33.55,2127.06,30,11,Op208,In Progress,Prj208,Pending,2026-01-13
+Sys0209,Stuff Automation,Phoenix Plant,Assembly Line,Fully Automated,Plc209,Factorytalk,Emerson Deltav,Kuka Kr10,Maintenance,88.75,38.57,1528.83,48,4,Op209,Scheduled,Prj209,Passed,2025-07-31
+Sys0210,Fund Automation,Houston Plant,Packaging Line,Fully Automated,Plc210,Ignition,Abb 800Xa,Abb Irb2600,Maintenance,94.88,32.84,1852.47,250,4,Op210,In Progress,Prj210,Failed,2024-12-10
+Sys0211,Happy Automation,Houston Plant,Packaging Line,Semi Automated,Plc211,Wonderware,Honeywell Experion,Fanuc M-20Id,Running,84.67,32.49,1889.41,188,14,Op211,Scheduled,Prj211,Pending,2026-04-13
+Sys0212,Protect Automation,Phoenix Plant,Line A,Robotic Cell,Plc212,Wincc,Emerson Deltav,Yaskawa Gp25,Maintenance,95.4,33.87,1295.43,219,6,Op212,Scheduled,Prj212,Pending,2024-09-20
+Sys0213,Word Automation,Houston Plant,Line C,Semi Automated,Plc213,Ignition,Emerson Deltav,Yaskawa Gp25,Maintenance,96.46,32.87,591.89,235,0,Op213,Completed,Prj213,Passed,2025-02-05
+Sys0214,Protect Automation,Chicago Plant,Line D,Fully Automated,Plc214,Wonderware,Abb 800Xa,Abb Irb2600,Maintenance,78.82,37.98,1048.04,184,8,Op214,Completed,Prj214,Pending,2026-01-05
+Sys0215,Base Automation,Austin Plant,Line A,Semi Automated,Plc215,Factorytalk,Emerson Deltav,Abb Irb2600,Stopped,90.73,31.11,502.17,244,2,Op215,Completed,Prj215,Failed,2025-05-05
+Sys0216,Most Automation,Austin Plant,Assembly Line,Robotic Cell,Plc216,Wonderware,Abb 800Xa,Fanuc M-20Id,Maintenance,94.61,39.64,1344.63,67,15,Op216,Completed,Prj216,Passed,2024-10-28
+Sys0217,Letter Automation,Chicago Plant,Line A,Robotic Cell,Plc217,Wincc,Abb 800Xa,Kuka Kr10,Maintenance,96.14,14.11,2046.92,68,4,Op217,Completed,Prj217,Failed,2025-04-15
+Sys0218,Still Automation,Phoenix Plant,Line A,Robotic Cell,Plc218,Ignition,Honeywell Experion,Kuka Kr10,Idle,90.07,14.54,1323.42,226,6,Op218,Completed,Prj218,Passed,2025-12-12
+Sys0219,Recently Automation,Austin Plant,Line A,Robotic Cell,Plc219,Wonderware,Honeywell Experion,Yaskawa Gp25,Maintenance,93.99,17.43,1789.24,127,9,Op219,In Progress,Prj219,Passed,2025-07-29
+Sys0220,Reduce Automation,Houston Plant,Line B,Robotic Cell,Plc220,Ignition,Emerson Deltav,Yaskawa Gp25,Maintenance,90.51,33.51,2087.56,122,15,Op220,Scheduled,Prj220,Passed,2025-06-20
+Sys0221,Sport Automation,Austin Plant,Line D,Robotic Cell,Plc221,Wincc,Emerson Deltav,Fanuc M-20Id,Maintenance,97.41,13.96,2221.63,291,13,Op221,Scheduled,Prj221,Failed,2025-01-13
+Sys0222,Office Automation,Austin Plant,Line D,Fully Automated,Plc222,Wincc,Emerson Deltav,Fanuc M-20Id,Running,81.29,11.19,620.94,203,9,Op222,In Progress,Prj222,Failed,2025-12-03
+Sys0223,Charge Automation,Phoenix Plant,Line D,Semi Automated,Plc223,Wonderware,Abb 800Xa,Abb Irb2600,Maintenance,77.01,12.37,2341.85,79,10,Op223,Scheduled,Prj223,Failed,2025-04-03
+Sys0224,Both Automation,Dallas Plant,Line C,Robotic Cell,Plc224,Wonderware,Emerson Deltav,Abb Irb2600,Running,80.87,37.74,731.97,28,9,Op224,In Progress,Prj224,Failed,2025-02-18
+Sys0225,Care Automation,Austin Plant,Line A,Fully Automated,Plc225,Ignition,Emerson Deltav,Fanuc M-20Id,Idle,86.91,20.4,1534.45,132,5,Op225,Scheduled,Prj225,Passed,2026-06-21
+Sys0226,Wait Automation,Houston Plant,Packaging Line,Fully Automated,Plc226,Wincc,Honeywell Experion,Yaskawa Gp25,Maintenance,87.57,17.89,2450.1,39,15,Op226,Scheduled,Prj226,Failed,2025-03-26
+Sys0227,Watch Automation,Houston Plant,Line A,Semi Automated,Plc227,Ignition,Honeywell Experion,Abb Irb2600,Maintenance,93.56,36.83,1848.24,59,7,Op227,In Progress,Prj227,Failed,2025-12-06
+Sys0228,Identify Automation,Dallas Plant,Line A,Fully Automated,Plc228,Ignition,Abb 800Xa,Yaskawa Gp25,Maintenance,84.19,14.5,2362.32,18,13,Op228,Completed,Prj228,Pending,2026-01-27
+Sys0229,Six Automation,Austin Plant,Line D,Robotic Cell,Plc229,Factorytalk,Honeywell Experion,Fanuc M-20Id,Maintenance,77.87,30.2,605.34,114,1,Op229,Scheduled,Prj229,Passed,2024-08-02
+Sys0230,Letter Automation,Chicago Plant,Line C,Semi Automated,Plc230,Factorytalk,Abb 800Xa,Yaskawa Gp25,Running,83.85,18.75,2069.01,124,14,Op230,Scheduled,Prj230,Failed,2026-05-07
+Sys0231,Century Automation,Chicago Plant,Line B,Robotic Cell,Plc231,Ignition,Abb 800Xa,Fanuc M-20Id,Stopped,75.57,26.25,1771.88,4,10,Op231,Completed,Prj231,Failed,2026-03-27
+Sys0232,One Automation,Chicago Plant,Packaging Line,Robotic Cell,Plc232,Factorytalk,Abb 800Xa,Abb Irb2600,Idle,85.08,38.84,2445.12,72,8,Op232,Completed,Prj232,Passed,2024-09-25
+Sys0233,Fine Automation,Austin Plant,Assembly Line,Semi Automated,Plc233,Factorytalk,Honeywell Experion,Fanuc M-20Id,Running,87.13,29.12,1288.7,290,1,Op233,Scheduled,Prj233,Failed,2026-04-21
+Sys0234,Successful Automation,Austin Plant,Line B,Semi Automated,Plc234,Factorytalk,Honeywell Experion,Yaskawa Gp25,Maintenance,82.63,18.16,649.37,103,4,Op234,In Progress,Prj234,Passed,2025-11-01
+Sys0235,Discussion Automation,Austin Plant,Line A,Fully Automated,Plc235,Wonderware,Honeywell Experion,Kuka Kr10,Stopped,77.9,20.75,2040.67,231,9,Op235,Scheduled,Prj235,Pending,2024-09-17
+Sys0236,Program Automation,Dallas Plant,Line A,Fully Automated,Plc236,Factorytalk,Emerson Deltav,Fanuc M-20Id,Idle,95.06,19.83,682.43,127,11,Op236,Scheduled,Prj236,Failed,2026-04-18
+Sys0237,Parent Automation,Dallas Plant,Packaging Line,Semi Automated,Plc237,Factorytalk,Abb 800Xa,Fanuc M-20Id,Stopped,95.51,26.68,1600.24,48,14,Op237,Completed,Prj237,Passed,2026-01-12
+Sys0238,Third Automation,Dallas Plant,Line A,Fully Automated,Plc238,Ignition,Abb 800Xa,Abb Irb2600,Stopped,83.93,28.91,1789.37,298,8,Op238,Completed,Prj238,Passed,2024-08-09
+Sys0239,Study Automation,Dallas Plant,Line B,Robotic Cell,Plc239,Wonderware,Abb 800Xa,Fanuc M-20Id,Maintenance,77.94,38.27,601.28,293,13,Op239,In Progress,Prj239,Pending,2025-08-07
+Sys0240,Material Automation,Chicago Plant,Line A,Semi Automated,Plc240,Wonderware,Abb 800Xa,Kuka Kr10,Idle,96.8,18.25,1392.02,76,1,Op240,In Progress,Prj240,Failed,2026-06-21
+Sys0241,Key Automation,Phoenix Plant,Line B,Robotic Cell,Plc241,Factorytalk,Honeywell Experion,Yaskawa Gp25,Stopped,76.46,18.39,774.47,102,7,Op241,In Progress,Prj241,Failed,2025-06-22
+Sys0242,Property Automation,Dallas Plant,Line D,Robotic Cell,Plc242,Factorytalk,Honeywell Experion,Yaskawa Gp25,Maintenance,96.9,25.07,1276.76,92,0,Op242,Scheduled,Prj242,Failed,2025-01-26
+Sys0243,Policy Automation,Austin Plant,Line A,Semi Automated,Plc243,Wincc,Honeywell Experion,Kuka Kr10,Idle,98.38,13.0,1813.73,136,1,Op243,Completed,Prj243,Failed,2024-11-06
+Sys0244,Eat Automation,Chicago Plant,Line C,Fully Automated,Plc244,Ignition,Abb 800Xa,Kuka Kr10,Maintenance,96.94,10.85,1901.12,290,4,Op244,In Progress,Prj244,Passed,2025-01-18
+Sys0245,Situation Automation,Chicago Plant,Assembly Line,Semi Automated,Plc245,Ignition,Honeywell Experion,Fanuc M-20Id,Running,76.35,28.05,539.86,244,0,Op245,Scheduled,Prj245,Failed,2026-05-18
+Sys0246,Situation Automation,Austin Plant,Line B,Semi Automated,Plc246,Ignition,Honeywell Experion,Fanuc M-20Id,Running,78.55,31.14,783.31,56,11,Op246,Completed,Prj246,Pending,2024-10-14
+Sys0247,Account Automation,Chicago Plant,Assembly Line,Fully Automated,Plc247,Factorytalk,Honeywell Experion,Kuka Kr10,Idle,98.42,31.97,1373.74,249,10,Op247,Completed,Prj247,Failed,2024-08-28
+Sys0248,Measure Automation,Phoenix Plant,Packaging Line,Robotic Cell,Plc248,Factorytalk,Abb 800Xa,Abb Irb2600,Stopped,82.36,30.65,754.7,0,12,Op248,In Progress,Prj248,Passed,2024-12-23
+Sys0249,Perform Automation,Austin Plant,Assembly Line,Semi Automated,Plc249,Ignition,Emerson Deltav,Fanuc M-20Id,Stopped,78.38,32.36,975.99,163,5,Op249,In Progress,Prj249,Passed,2025-05-31
+Sys0250,Drive Automation,Houston Plant,Line D,Fully Automated,Plc250,Factorytalk,Abb 800Xa,Abb Irb2600,Running,83.41,33.61,1940.83,24,12,Op250,Scheduled,Prj250,Failed,2025-06-04
+Sys0251,Letter Automation,Chicago Plant,Line B,Semi Automated,Plc251,Wonderware,Honeywell Experion,Kuka Kr10,Stopped,77.43,24.38,2228.1,115,5,Op251,Scheduled,Prj251,Passed,2025-04-15
+Sys0252,Scientist Automation,Dallas Plant,Line C,Fully Automated,Plc252,Factorytalk,Honeywell Experion,Fanuc M-20Id,Running,83.2,36.64,821.81,38,2,Op252,Scheduled,Prj252,Failed,2025-01-16
+Sys0253,Up Automation,Phoenix Plant,Line D,Robotic Cell,Plc253,Wincc,Honeywell Experion,Abb Irb2600,Stopped,78.77,13.04,911.1,97,13,Op253,In Progress,Prj253,Failed,2025-03-15
+Sys0254,Fill Automation,Phoenix Plant,Line C,Robotic Cell,Plc254,Factorytalk,Honeywell Experion,Abb Irb2600,Running,76.19,27.15,2179.71,78,1,Op254,Scheduled,Prj254,Passed,2025-02-17
+Sys0255,Instead Automation,Chicago Plant,Line A,Semi Automated,Plc255,Wonderware,Abb 800Xa,Fanuc M-20Id,Running,79.97,29.15,2454.12,242,3,Op255,Scheduled,Prj255,Pending,2024-10-07
+Sys0256,Thousand Automation,Chicago Plant,Line D,Robotic Cell,Plc256,Factorytalk,Abb 800Xa,Yaskawa Gp25,Idle,83.9,21.44,873.17,22,8,Op256,Scheduled,Prj256,Pending,2025-09-23
+Sys0257,Newspaper Automation,Houston Plant,Line B,Semi Automated,Plc257,Wincc,Abb 800Xa,Fanuc M-20Id,Running,91.04,34.25,1327.97,116,1,Op257,Scheduled,Prj257,Failed,2025-09-03
+Sys0258,Sign Automation,Chicago Plant,Assembly Line,Robotic Cell,Plc258,Wonderware,Emerson Deltav,Abb Irb2600,Stopped,82.17,21.84,2207.88,17,4,Op258,Completed,Prj258,Pending,2026-06-08
+Sys0259,Take Automation,Austin Plant,Line B,Fully Automated,Plc259,Ignition,Abb 800Xa,Fanuc M-20Id,Stopped,76.88,30.49,903.84,75,8,Op259,Scheduled,Prj259,Failed,2026-02-01
+Sys0260,Any Automation,Dallas Plant,Line A,Semi Automated,Plc260,Wonderware,Emerson Deltav,Kuka Kr10,Maintenance,87.47,37.51,524.73,300,13,Op260,Completed,Prj260,Pending,2025-12-07
+Sys0261,Across Automation,Austin Plant,Line B,Robotic Cell,Plc261,Wincc,Abb 800Xa,Fanuc M-20Id,Maintenance,95.82,36.4,2255.79,135,12,Op261,In Progress,Prj261,Pending,2025-10-05
+Sys0262,Wide Automation,Phoenix Plant,Assembly Line,Semi Automated,Plc262,Wincc,Abb 800Xa,Kuka Kr10,Stopped,78.45,28.26,1887.32,19,12,Op262,Scheduled,Prj262,Failed,2024-08-06
+Sys0263,From Automation,Austin Plant,Line A,Robotic Cell,Plc263,Wonderware,Honeywell Experion,Kuka Kr10,Running,83.11,33.81,1121.9,251,3,Op263,Completed,Prj263,Passed,2025-12-11
+Sys0264,Behavior Automation,Houston Plant,Packaging Line,Semi Automated,Plc264,Factorytalk,Honeywell Experion,Yaskawa Gp25,Running,79.51,16.34,2147.94,248,11,Op264,Completed,Prj264,Failed,2024-09-15
+Sys0265,Population Automation,Austin Plant,Line A,Semi Automated,Plc265,Wonderware,Abb 800Xa,Fanuc M-20Id,Idle,79.63,34.99,2173.95,127,1,Op265,Scheduled,Prj265,Passed,2026-05-03
+Sys0266,True Automation,Houston Plant,Packaging Line,Fully Automated,Plc266,Factorytalk,Honeywell Experion,Yaskawa Gp25,Stopped,90.25,13.72,561.13,190,15,Op266,In Progress,Prj266,Pending,2025-10-03
+Sys0267,Executive Automation,Austin Plant,Line D,Robotic Cell,Plc267,Factorytalk,Honeywell Experion,Abb Irb2600,Maintenance,92.98,30.67,1070.14,197,1,Op267,Completed,Prj267,Failed,2025-09-26
+Sys0268,Knowledge Automation,Austin Plant,Line B,Robotic Cell,Plc268,Ignition,Emerson Deltav,Abb Irb2600,Maintenance,90.64,25.4,2229.26,4,15,Op268,Completed,Prj268,Failed,2024-09-02
+Sys0269,Vote Automation,Austin Plant,Assembly Line,Fully Automated,Plc269,Ignition,Honeywell Experion,Kuka Kr10,Maintenance,85.17,21.29,1197.42,129,6,Op269,Scheduled,Prj269,Pending,2025-08-06
+Sys0270,City Automation,Phoenix Plant,Assembly Line,Semi Automated,Plc270,Wincc,Abb 800Xa,Kuka Kr10,Maintenance,82.16,13.24,627.67,141,10,Op270,Scheduled,Prj270,Pending,2026-01-28
+Sys0271,Would Automation,Houston Plant,Line B,Fully Automated,Plc271,Ignition,Abb 800Xa,Yaskawa Gp25,Maintenance,91.34,31.64,1810.8,151,8,Op271,Scheduled,Prj271,Pending,2026-03-25
+Sys0272,Purpose Automation,Chicago Plant,Packaging Line,Fully Automated,Plc272,Ignition,Honeywell Experion,Abb Irb2600,Stopped,96.76,30.16,1514.63,87,5,Op272,Scheduled,Prj272,Passed,2026-05-11
+Sys0273,Exactly Automation,Chicago Plant,Line B,Robotic Cell,Plc273,Factorytalk,Emerson Deltav,Abb Irb2600,Maintenance,90.71,16.67,946.66,157,13,Op273,Scheduled,Prj273,Pending,2025-11-01
+Sys0274,Responsibility Automation,Houston Plant,Assembly Line,Semi Automated,Plc274,Wonderware,Abb 800Xa,Yaskawa Gp25,Running,95.79,27.51,2388.6,36,15,Op274,Completed,Prj274,Failed,2024-12-05
+Sys0275,Drive Automation,Dallas Plant,Packaging Line,Semi Automated,Plc275,Factorytalk,Honeywell Experion,Fanuc M-20Id,Idle,78.3,16.01,1318.38,291,14,Op275,Completed,Prj275,Pending,2024-10-20
+Sys0276,One Automation,Austin Plant,Line A,Semi Automated,Plc276,Factorytalk,Emerson Deltav,Abb Irb2600,Maintenance,90.23,10.14,1047.06,86,5,Op276,Scheduled,Prj276,Passed,2024-07-31
+Sys0277,Without Automation,Austin Plant,Assembly Line,Semi Automated,Plc277,Wonderware,Honeywell Experion,Yaskawa Gp25,Stopped,84.2,11.13,898.83,191,0,Op277,Scheduled,Prj277,Failed,2025-12-11
+Sys0278,Range Automation,Austin Plant,Line A,Robotic Cell,Plc278,Wincc,Emerson Deltav,Abb Irb2600,Idle,91.64,20.33,757.86,196,9,Op278,Completed,Prj278,Passed,2025-06-24
+Sys0279,Wait Automation,Dallas Plant,Line C,Semi Automated,Plc279,Wonderware,Emerson Deltav,Kuka Kr10,Stopped,96.31,39.86,1185.47,250,11,Op279,Completed,Prj279,Passed,2026-03-20
+Sys0280,Mind Automation,Chicago Plant,Line A,Fully Automated,Plc280,Ignition,Emerson Deltav,Abb Irb2600,Idle,92.62,27.69,837.97,187,1,Op280,Scheduled,Prj280,Failed,2025-06-13
+Sys0281,Material Automation,Houston Plant,Assembly Line,Robotic Cell,Plc281,Wincc,Emerson Deltav,Fanuc M-20Id,Running,90.69,10.59,1879.5,213,14,Op281,Scheduled,Prj281,Passed,2026-05-28
+Sys0282,Occur Automation,Phoenix Plant,Line C,Semi Automated,Plc282,Ignition,Abb 800Xa,Fanuc M-20Id,Maintenance,85.1,13.03,1540.62,70,13,Op282,Completed,Prj282,Failed,2025-04-09
+Sys0283,Probably Automation,Phoenix Plant,Line A,Semi Automated,Plc283,Wincc,Abb 800Xa,Yaskawa Gp25,Idle,89.62,33.34,2163.0,103,11,Op283,In Progress,Prj283,Pending,2026-02-02
+Sys0284,Quickly Automation,Houston Plant,Line B,Fully Automated,Plc284,Wonderware,Abb 800Xa,Yaskawa Gp25,Maintenance,80.63,10.38,678.01,56,15,Op284,Completed,Prj284,Passed,2024-09-12
+Sys0285,Design Automation,Phoenix Plant,Line A,Robotic Cell,Plc285,Wincc,Honeywell Experion,Abb Irb2600,Stopped,98.73,18.88,1428.55,51,5,Op285,Completed,Prj285,Pending,2025-06-23
+Sys0286,Although Automation,Houston Plant,Packaging Line,Semi Automated,Plc286,Wonderware,Emerson Deltav,Fanuc M-20Id,Running,95.43,36.71,519.34,70,5,Op286,Scheduled,Prj286,Pending,2025-11-25
+Sys0287,All Automation,Chicago Plant,Assembly Line,Semi Automated,Plc287,Wincc,Honeywell Experion,Kuka Kr10,Idle,77.73,22.01,1413.08,197,15,Op287,Scheduled,Prj287,Failed,2024-11-14
+Sys0288,Training Automation,Austin Plant,Line A,Fully Automated,Plc288,Wincc,Abb 800Xa,Fanuc M-20Id,Stopped,96.87,24.48,1637.89,224,5,Op288,In Progress,Prj288,Pending,2025-04-05
+Sys0289,Subject Automation,Houston Plant,Assembly Line,Fully Automated,Plc289,Ignition,Honeywell Experion,Yaskawa Gp25,Running,96.3,23.22,626.67,160,0,Op289,In Progress,Prj289,Failed,2025-08-18
+Sys0290,Successful Automation,Phoenix Plant,Packaging Line,Robotic Cell,Plc290,Ignition,Emerson Deltav,Kuka Kr10,Running,85.39,31.8,1463.86,197,4,Op290,In Progress,Prj290,Failed,2025-10-30
+Sys0291,Instead Automation,Dallas Plant,Line A,Robotic Cell,Plc291,Ignition,Emerson Deltav,Yaskawa Gp25,Stopped,95.87,12.25,1483.3,123,10,Op291,Scheduled,Prj291,Passed,2026-04-21
+Sys0292,Science Automation,Phoenix Plant,Line B,Robotic Cell,Plc292,Wonderware,Honeywell Experion,Abb Irb2600,Running,86.02,34.04,1396.2,255,14,Op292,Scheduled,Prj292,Passed,2024-07-26
+Sys0293,Article Automation,Chicago Plant,Packaging Line,Robotic Cell,Plc293,Wincc,Abb 800Xa,Yaskawa Gp25,Stopped,75.86,26.47,2151.82,155,6,Op293,In Progress,Prj293,Failed,2024-11-06
+Sys0294,Get Automation,Chicago Plant,Line C,Semi Automated,Plc294,Wincc,Abb 800Xa,Yaskawa Gp25,Maintenance,88.44,28.59,1446.27,186,14,Op294,Completed,Prj294,Passed,2026-03-28
+Sys0295,Response Automation,Austin Plant,Line A,Semi Automated,Plc295,Factorytalk,Emerson Deltav,Kuka Kr10,Maintenance,91.85,11.37,828.31,71,13,Op295,Completed,Prj295,Pending,2024-10-21
+Sys0296,Pick Automation,Phoenix Plant,Line B,Fully Automated,Plc296,Wincc,Honeywell Experion,Abb Irb2600,Stopped,94.79,15.72,1175.87,212,1,Op296,In Progress,Prj296,Failed,2025-03-22
+Sys0297,Letter Automation,Phoenix Plant,Line A,Semi Automated,Plc297,Wonderware,Emerson Deltav,Abb Irb2600,Stopped,75.1,32.09,1606.45,221,15,Op297,In Progress,Prj297,Passed,2026-02-27
+Sys0298,Small Automation,Phoenix Plant,Line B,Robotic Cell,Plc298,Ignition,Abb 800Xa,Yaskawa Gp25,Maintenance,87.1,21.54,2459.0,127,8,Op298,Scheduled,Prj298,Pending,2025-03-08
+Sys0299,Dark Automation,Houston Plant,Line D,Fully Automated,Plc299,Ignition,Honeywell Experion,Kuka Kr10,Maintenance,92.08,38.07,1765.17,102,6,Op299,In Progress,Prj299,Failed,2025-04-27
+Sys0300,Final Automation,Houston Plant,Packaging Line,Semi Automated,Plc300,Ignition,Emerson Deltav,Abb Irb2600,Maintenance,92.05,32.82,1624.56,298,13,Op300,In Progress,Prj300,Failed,2026-02-15
+Sys0301,Report Automation,Phoenix Plant,Line C,Semi Automated,Plc301,Wincc,Emerson Deltav,Fanuc M-20Id,Running,84.14,11.59,613.21,136,5,Op301,Scheduled,Prj301,Failed,2026-02-14
+Sys0302,Off Automation,Houston Plant,Line B,Fully Automated,Plc302,Factorytalk,Abb 800Xa,Fanuc M-20Id,Maintenance,94.54,13.07,2236.07,287,7,Op302,In Progress,Prj302,Failed,2024-09-28
+Sys0303,Ok Automation,Phoenix Plant,Line D,Fully Automated,Plc303,Factorytalk,Emerson Deltav,Fanuc M-20Id,Stopped,84.3,38.7,2451.65,160,1,Op303,Completed,Prj303,Failed,2025-09-26
+Sys0304,Western Automation,Houston Plant,Line B,Robotic Cell,Plc304,Wonderware,Abb 800Xa,Kuka Kr10,Idle,93.63,38.93,1088.36,90,2,Op304,Completed,Prj304,Passed,2024-11-01
+Sys0305,May Automation,Phoenix Plant,Line A,Semi Automated,Plc305,Wincc,Honeywell Experion,Kuka Kr10,Maintenance,78.12,27.52,1010.03,169,14,Op305,In Progress,Prj305,Passed,2025-07-27
+Sys0306,Response Automation,Dallas Plant,Line B,Semi Automated,Plc306,Wincc,Emerson Deltav,Kuka Kr10,Stopped,93.96,26.5,645.76,162,7,Op306,Completed,Prj306,Failed,2025-05-31
+Sys0307,Sure Automation,Dallas Plant,Assembly Line,Fully Automated,Plc307,Wonderware,Emerson Deltav,Yaskawa Gp25,Running,83.39,36.5,1826.67,169,11,Op307,Scheduled,Prj307,Passed,2024-10-28
+Sys0308,Media Automation,Phoenix Plant,Assembly Line,Semi Automated,Plc308,Wincc,Abb 800Xa,Kuka Kr10,Stopped,80.77,29.27,2337.21,124,1,Op308,In Progress,Prj308,Pending,2025-11-13
+Sys0309,Drop Automation,Chicago Plant,Line A,Semi Automated,Plc309,Factorytalk,Emerson Deltav,Kuka Kr10,Running,96.87,34.66,1249.92,260,14,Op309,Scheduled,Prj309,Passed,2026-05-02
+Sys0310,Huge Automation,Houston Plant,Packaging Line,Fully Automated,Plc310,Factorytalk,Emerson Deltav,Fanuc M-20Id,Running,79.02,38.69,1575.95,3,2,Op310,Completed,Prj310,Failed,2025-02-28
+Sys0311,Option Automation,Austin Plant,Packaging Line,Semi Automated,Plc311,Wincc,Abb 800Xa,Yaskawa Gp25,Running,92.93,14.61,1418.45,169,1,Op311,Completed,Prj311,Passed,2025-01-13
+Sys0312,Better Automation,Dallas Plant,Line B,Semi Automated,Plc312,Wincc,Emerson Deltav,Abb Irb2600,Maintenance,84.78,23.53,1308.9,161,0,Op312,Scheduled,Prj312,Failed,2026-04-22
+Sys0313,Friend Automation,Dallas Plant,Assembly Line,Fully Automated,Plc313,Wincc,Emerson Deltav,Fanuc M-20Id,Running,83.58,25.09,1079.67,154,2,Op313,Scheduled,Prj313,Pending,2025-05-15
+Sys0314,Why Automation,Chicago Plant,Line D,Robotic Cell,Plc314,Wincc,Honeywell Experion,Abb Irb2600,Idle,78.27,21.73,2094.97,279,9,Op314,In Progress,Prj314,Passed,2024-12-31
+Sys0315,Need Automation,Houston Plant,Packaging Line,Robotic Cell,Plc315,Factorytalk,Abb 800Xa,Abb Irb2600,Running,76.0,27.18,1288.16,280,2,Op315,Scheduled,Prj315,Passed,2026-03-06
+Sys0316,Drop Automation,Houston Plant,Line B,Semi Automated,Plc316,Ignition,Abb 800Xa,Abb Irb2600,Idle,89.81,17.58,729.25,290,1,Op316,In Progress,Prj316,Pending,2024-07-19
+Sys0317,Manage Automation,Phoenix Plant,Line A,Semi Automated,Plc317,Wincc,Honeywell Experion,Fanuc M-20Id,Idle,92.41,24.62,1161.7,65,7,Op317,Completed,Prj317,Pending,2024-10-31
+Sys0318,Central Automation,Phoenix Plant,Line A,Fully Automated,Plc318,Factorytalk,Honeywell Experion,Yaskawa Gp25,Maintenance,89.79,19.17,1668.34,289,11,Op318,Scheduled,Prj318,Pending,2026-01-02
+Sys0319,Rate Automation,Austin Plant,Line A,Semi Automated,Plc319,Ignition,Abb 800Xa,Yaskawa Gp25,Maintenance,95.16,14.03,1965.95,245,14,Op319,Scheduled,Prj319,Pending,2025-11-20
+Sys0320,Be Automation,Houston Plant,Line D,Robotic Cell,Plc320,Wincc,Abb 800Xa,Fanuc M-20Id,Maintenance,95.61,14.2,1577.24,134,2,Op320,In Progress,Prj320,Passed,2026-06-11
+Sys0321,Need Automation,Dallas Plant,Assembly Line,Robotic Cell,Plc321,Wincc,Emerson Deltav,Yaskawa Gp25,Idle,96.75,26.55,1586.94,276,15,Op321,In Progress,Prj321,Passed,2025-03-19
+Sys0322,Onto Automation,Houston Plant,Line D,Fully Automated,Plc322,Factorytalk,Abb 800Xa,Yaskawa Gp25,Running,84.52,25.07,1825.36,84,4,Op322,Scheduled,Prj322,Passed,2025-03-28
+Sys0323,Pull Automation,Austin Plant,Assembly Line,Robotic Cell,Plc323,Ignition,Emerson Deltav,Yaskawa Gp25,Maintenance,75.97,32.84,963.5,135,11,Op323,Completed,Prj323,Passed,2025-10-30
+Sys0324,Never Automation,Austin Plant,Assembly Line,Semi Automated,Plc324,Wonderware,Honeywell Experion,Yaskawa Gp25,Running,75.96,29.46,706.45,266,8,Op324,In Progress,Prj324,Pending,2025-07-29
+Sys0325,Real Automation,Phoenix Plant,Assembly Line,Robotic Cell,Plc325,Ignition,Honeywell Experion,Yaskawa Gp25,Maintenance,89.1,36.95,655.67,128,12,Op325,Completed,Prj325,Failed,2024-08-13
+Sys0326,Step Automation,Chicago Plant,Line C,Semi Automated,Plc326,Wonderware,Honeywell Experion,Fanuc M-20Id,Idle,85.56,16.9,1529.08,143,6,Op326,Completed,Prj326,Passed,2026-07-04
+Sys0327,Time Automation,Austin Plant,Line C,Robotic Cell,Plc327,Wincc,Emerson Deltav,Abb Irb2600,Stopped,94.47,31.61,1463.03,245,15,Op327,Completed,Prj327,Failed,2024-11-25
+Sys0328,Much Automation,Austin Plant,Packaging Line,Semi Automated,Plc328,Wincc,Abb 800Xa,Fanuc M-20Id,Idle,88.76,14.83,1759.08,20,4,Op328,Completed,Prj328,Passed,2026-02-26
+Sys0329,Approach Automation,Houston Plant,Line B,Robotic Cell,Plc329,Wonderware,Emerson Deltav,Fanuc M-20Id,Maintenance,97.73,16.5,1713.05,241,15,Op329,Completed,Prj329,Passed,2026-05-26
+Sys0330,Most Automation,Chicago Plant,Assembly Line,Fully Automated,Plc330,Ignition,Emerson Deltav,Kuka Kr10,Idle,92.38,20.28,1406.94,35,7,Op330,Scheduled,Prj330,Pending,2024-12-23
+Sys0331,Major Automation,Austin Plant,Line A,Fully Automated,Plc331,Ignition,Emerson Deltav,Yaskawa Gp25,Idle,89.53,15.32,2303.22,19,3,Op331,Completed,Prj331,Pending,2024-10-25
+Sys0332,Education Automation,Austin Plant,Assembly Line,Robotic Cell,Plc332,Wincc,Emerson Deltav,Yaskawa Gp25,Stopped,83.89,11.3,1559.63,117,15,Op332,Scheduled,Prj332,Pending,2026-05-01
+Sys0333,May Automation,Phoenix Plant,Packaging Line,Robotic Cell,Plc333,Wincc,Honeywell Experion,Abb Irb2600,Maintenance,86.45,16.98,2218.11,145,13,Op333,Scheduled,Prj333,Passed,2025-08-10
+Sys0334,Appear Automation,Dallas Plant,Packaging Line,Robotic Cell,Plc334,Wincc,Emerson Deltav,Fanuc M-20Id,Running,84.0,16.16,2108.57,209,11,Op334,Completed,Prj334,Passed,2025-09-04
+Sys0335,Create Automation,Chicago Plant,Packaging Line,Robotic Cell,Plc335,Factorytalk,Honeywell Experion,Yaskawa Gp25,Maintenance,89.69,39.75,1294.91,104,13,Op335,In Progress,Prj335,Failed,2026-04-07
+Sys0336,Her Automation,Chicago Plant,Line B,Semi Automated,Plc336,Wonderware,Honeywell Experion,Kuka Kr10,Maintenance,93.58,21.94,776.14,60,7,Op336,Scheduled,Prj336,Failed,2025-02-23
+Sys0337,Recent Automation,Austin Plant,Line A,Fully Automated,Plc337,Wonderware,Honeywell Experion,Fanuc M-20Id,Idle,84.34,29.08,2108.74,74,15,Op337,In Progress,Prj337,Pending,2026-04-11
+Sys0338,Case Automation,Dallas Plant,Line A,Semi Automated,Plc338,Ignition,Honeywell Experion,Fanuc M-20Id,Running,92.39,37.92,1301.29,266,9,Op338,In Progress,Prj338,Failed,2025-06-24
+Sys0339,Rich Automation,Dallas Plant,Line B,Robotic Cell,Plc339,Wonderware,Honeywell Experion,Fanuc M-20Id,Idle,95.41,37.92,1536.31,99,1,Op339,In Progress,Prj339,Failed,2025-06-04
+Sys0340,Total Automation,Phoenix Plant,Packaging Line,Fully Automated,Plc340,Ignition,Emerson Deltav,Fanuc M-20Id,Maintenance,80.74,10.01,814.89,141,12,Op340,Scheduled,Prj340,Failed,2025-11-01
+Sys0341,Wife Automation,Chicago Plant,Line D,Robotic Cell,Plc341,Ignition,Emerson Deltav,Fanuc M-20Id,Running,97.06,26.49,1952.28,286,11,Op341,Scheduled,Prj341,Pending,2026-06-28
+Sys0342,Arm Automation,Austin Plant,Assembly Line,Fully Automated,Plc342,Wonderware,Honeywell Experion,Fanuc M-20Id,Maintenance,79.2,25.19,1617.26,257,9,Op342,Scheduled,Prj342,Passed,2025-03-13
+Sys0343,Per Automation,Phoenix Plant,Line C,Robotic Cell,Plc343,Factorytalk,Emerson Deltav,Yaskawa Gp25,Stopped,88.52,33.1,2014.95,234,14,Op343,In Progress,Prj343,Passed,2025-01-08
+Sys0344,Leader Automation,Chicago Plant,Line A,Semi Automated,Plc344,Wincc,Honeywell Experion,Abb Irb2600,Idle,94.2,22.37,1206.19,274,0,Op344,In Progress,Prj344,Pending,2026-04-03
+Sys0345,Relate Automation,Austin Plant,Line C,Fully Automated,Plc345,Wonderware,Emerson Deltav,Kuka Kr10,Running,88.31,15.35,1127.75,111,8,Op345,Completed,Prj345,Failed,2025-05-03
+Sys0346,Such Automation,Austin Plant,Line D,Robotic Cell,Plc346,Ignition,Abb 800Xa,Abb Irb2600,Maintenance,79.96,16.08,999.39,182,4,Op346,Completed,Prj346,Passed,2025-04-01
+Sys0347,Six Automation,Dallas Plant,Packaging Line,Robotic Cell,Plc347,Wonderware,Emerson Deltav,Fanuc M-20Id,Running,95.35,21.14,1130.83,294,8,Op347,Scheduled,Prj347,Passed,2024-12-07
+Sys0348,Night Automation,Phoenix Plant,Line C,Semi Automated,Plc348,Ignition,Emerson Deltav,Abb Irb2600,Running,87.62,22.7,2379.31,16,11,Op348,Scheduled,Prj348,Failed,2026-04-04
+Sys0349,Through Automation,Austin Plant,Line D,Fully Automated,Plc349,Wonderware,Honeywell Experion,Fanuc M-20Id,Running,91.18,21.38,701.5,185,8,Op349,Completed,Prj349,Failed,2025-11-13
+Sys0350,Part Automation,Houston Plant,Line B,Semi Automated,Plc350,Wonderware,Emerson Deltav,Kuka Kr10,Maintenance,79.41,22.72,1338.19,190,11,Op350,Scheduled,Prj350,Pending,2025-09-27
+Sys0351,American Automation,Chicago Plant,Line B,Robotic Cell,Plc351,Ignition,Emerson Deltav,Abb Irb2600,Running,92.3,34.12,1610.68,195,6,Op351,Completed,Prj351,Failed,2025-02-23
+Sys0352,Population Automation,Austin Plant,Line D,Fully Automated,Plc352,Ignition,Honeywell Experion,Yaskawa Gp25,Idle,98.89,35.48,1534.01,161,15,Op352,Scheduled,Prj352,Pending,2026-05-06
+Sys0353,Similar Automation,Phoenix Plant,Assembly Line,Fully Automated,Plc353,Wonderware,Abb 800Xa,Abb Irb2600,Running,80.17,17.63,2177.94,49,14,Op353,In Progress,Prj353,Pending,2024-11-20
+Sys0354,Gas Automation,Houston Plant,Line C,Semi Automated,Plc354,Factorytalk,Honeywell Experion,Fanuc M-20Id,Stopped,77.91,36.02,2426.23,101,5,Op354,Scheduled,Prj354,Pending,2025-12-08
+Sys0355,Board Automation,Houston Plant,Packaging Line,Robotic Cell,Plc355,Wonderware,Emerson Deltav,Yaskawa Gp25,Running,84.15,18.6,1763.42,74,5,Op355,In Progress,Prj355,Pending,2024-08-29
+Sys0356,Fund Automation,Chicago Plant,Packaging Line,Robotic Cell,Plc356,Wonderware,Abb 800Xa,Fanuc M-20Id,Idle,83.25,19.4,1806.03,136,12,Op356,Scheduled,Prj356,Pending,2025-04-21
+Sys0357,International Automation,Houston Plant,Packaging Line,Robotic Cell,Plc357,Wonderware,Honeywell Experion,Abb Irb2600,Idle,95.5,13.75,969.25,128,2,Op357,Completed,Prj357,Passed,2025-05-24
+Sys0358,Civil Automation,Chicago Plant,Line A,Fully Automated,Plc358,Wincc,Honeywell Experion,Fanuc M-20Id,Running,93.5,25.72,2492.03,53,8,Op358,In Progress,Prj358,Passed,2025-12-22
+Sys0359,South Automation,Dallas Plant,Packaging Line,Semi Automated,Plc359,Factorytalk,Abb 800Xa,Abb Irb2600,Maintenance,85.64,13.79,1553.48,87,0,Op359,Completed,Prj359,Failed,2024-08-30
+Sys0360,Nature Automation,Houston Plant,Line C,Semi Automated,Plc360,Wonderware,Emerson Deltav,Kuka Kr10,Stopped,78.24,38.45,1578.58,233,13,Op360,In Progress,Prj360,Failed,2026-03-22
+Sys0361,Matter Automation,Phoenix Plant,Line C,Semi Automated,Plc361,Wonderware,Emerson Deltav,Abb Irb2600,Running,85.6,20.97,1019.61,155,0,Op361,Completed,Prj361,Failed,2024-07-24
+Sys0362,Work Automation,Austin Plant,Line C,Semi Automated,Plc362,Wonderware,Emerson Deltav,Fanuc M-20Id,Stopped,97.73,24.31,518.27,220,9,Op362,In Progress,Prj362,Passed,2024-12-09
+Sys0363,Party Automation,Dallas Plant,Assembly Line,Semi Automated,Plc363,Ignition,Honeywell Experion,Yaskawa Gp25,Stopped,81.0,31.45,1791.98,193,7,Op363,Scheduled,Prj363,Passed,2025-02-22
+Sys0364,Actually Automation,Chicago Plant,Packaging Line,Fully Automated,Plc364,Factorytalk,Honeywell Experion,Kuka Kr10,Stopped,79.51,12.05,773.25,56,14,Op364,In Progress,Prj364,Pending,2026-01-12
+Sys0365,American Automation,Houston Plant,Packaging Line,Robotic Cell,Plc365,Wonderware,Abb 800Xa,Kuka Kr10,Running,78.65,39.09,544.26,52,9,Op365,Scheduled,Prj365,Passed,2026-03-23
+Sys0366,Level Automation,Chicago Plant,Packaging Line,Fully Automated,Plc366,Ignition,Abb 800Xa,Abb Irb2600,Running,86.85,20.26,1123.15,255,11,Op366,Scheduled,Prj366,Failed,2024-09-30
+Sys0367,Something Automation,Dallas Plant,Line C,Fully Automated,Plc367,Ignition,Abb 800Xa,Kuka Kr10,Stopped,76.71,24.1,884.38,128,12,Op367,Completed,Prj367,Passed,2025-05-31
+Sys0368,Story Automation,Austin Plant,Line D,Semi Automated,Plc368,Ignition,Emerson Deltav,Fanuc M-20Id,Idle,86.06,33.13,1542.28,106,15,Op368,Scheduled,Prj368,Failed,2025-01-22
+Sys0369,Single Automation,Houston Plant,Line C,Fully Automated,Plc369,Wincc,Emerson Deltav,Fanuc M-20Id,Maintenance,86.55,18.96,1220.85,26,6,Op369,Completed,Prj369,Passed,2026-07-08
+Sys0370,Spend Automation,Chicago Plant,Line C,Fully Automated,Plc370,Ignition,Honeywell Experion,Fanuc M-20Id,Stopped,93.94,10.27,583.99,243,4,Op370,Scheduled,Prj370,Passed,2025-06-19
+Sys0371,Magazine Automation,Austin Plant,Line B,Semi Automated,Plc371,Wincc,Emerson Deltav,Kuka Kr10,Running,76.43,29.34,1902.66,54,4,Op371,Scheduled,Prj371,Passed,2025-09-27
+Sys0372,Specific Automation,Houston Plant,Assembly Line,Robotic Cell,Plc372,Factorytalk,Honeywell Experion,Abb Irb2600,Running,91.54,20.75,769.46,20,15,Op372,In Progress,Prj372,Pending,2025-05-01
+Sys0373,May Automation,Phoenix Plant,Line C,Robotic Cell,Plc373,Wonderware,Abb 800Xa,Abb Irb2600,Maintenance,82.77,24.05,2235.32,283,5,Op373,Completed,Prj373,Failed,2024-07-25
+Sys0374,Worker Automation,Austin Plant,Line D,Semi Automated,Plc374,Factorytalk,Emerson Deltav,Kuka Kr10,Stopped,75.02,29.14,1258.09,94,0,Op374,In Progress,Prj374,Pending,2025-10-05
+Sys0375,Security Automation,Phoenix Plant,Line B,Semi Automated,Plc375,Wincc,Emerson Deltav,Yaskawa Gp25,Idle,87.58,24.93,1602.94,144,10,Op375,Scheduled,Prj375,Failed,2025-05-14
+Sys0376,Set Automation,Houston Plant,Line A,Fully Automated,Plc376,Wincc,Abb 800Xa,Abb Irb2600,Idle,95.96,16.06,1470.74,50,1,Op376,In Progress,Prj376,Failed,2025-01-01
+Sys0377,He Automation,Chicago Plant,Packaging Line,Semi Automated,Plc377,Factorytalk,Abb 800Xa,Kuka Kr10,Idle,89.54,12.13,2360.42,106,15,Op377,Completed,Prj377,Pending,2025-11-03
+Sys0378,Well Automation,Dallas Plant,Line C,Robotic Cell,Plc378,Wonderware,Honeywell Experion,Fanuc M-20Id,Maintenance,87.7,32.03,2168.91,39,6,Op378,In Progress,Prj378,Passed,2026-02-24
+Sys0379,Work Automation,Dallas Plant,Packaging Line,Fully Automated,Plc379,Wonderware,Abb 800Xa,Abb Irb2600,Idle,88.68,38.43,1616.85,285,13,Op379,In Progress,Prj379,Passed,2026-04-15
+Sys0380,Spend Automation,Phoenix Plant,Line C,Robotic Cell,Plc380,Wonderware,Emerson Deltav,Yaskawa Gp25,Running,79.0,15.41,1303.11,172,5,Op380,In Progress,Prj380,Failed,2026-05-15
+Sys0381,Indeed Automation,Chicago Plant,Line C,Semi Automated,Plc381,Factorytalk,Honeywell Experion,Yaskawa Gp25,Stopped,94.83,19.7,981.45,279,6,Op381,Scheduled,Prj381,Failed,2026-05-10
+Sys0382,Hospital Automation,Houston Plant,Line C,Semi Automated,Plc382,Wonderware,Honeywell Experion,Fanuc M-20Id,Running,98.59,27.87,1535.22,154,0,Op382,Scheduled,Prj382,Passed,2026-04-13
+Sys0383,Actually Automation,Austin Plant,Line C,Fully Automated,Plc383,Factorytalk,Emerson Deltav,Abb Irb2600,Running,75.91,20.67,776.82,187,7,Op383,Completed,Prj383,Pending,2025-09-18
+Sys0384,Hour Automation,Houston Plant,Line A,Robotic Cell,Plc384,Wonderware,Emerson Deltav,Abb Irb2600,Running,92.37,33.79,845.8,295,3,Op384,In Progress,Prj384,Failed,2026-02-06
+Sys0385,Data Automation,Houston Plant,Line A,Robotic Cell,Plc385,Wonderware,Abb 800Xa,Fanuc M-20Id,Maintenance,83.35,34.51,1333.04,61,7,Op385,In Progress,Prj385,Failed,2024-10-31
+Sys0386,Chance Automation,Phoenix Plant,Line A,Robotic Cell,Plc386,Wonderware,Abb 800Xa,Kuka Kr10,Running,82.66,26.95,1153.66,113,4,Op386,Completed,Prj386,Failed,2025-07-05
+Sys0387,Work Automation,Chicago Plant,Line D,Robotic Cell,Plc387,Wincc,Abb 800Xa,Yaskawa Gp25,Maintenance,93.87,14.44,1172.34,243,1,Op387,In Progress,Prj387,Pending,2024-11-15
+Sys0388,Environmental Automation,Houston Plant,Line A,Semi Automated,Plc388,Wonderware,Emerson Deltav,Abb Irb2600,Idle,86.54,15.94,1290.64,292,6,Op388,In Progress,Prj388,Failed,2026-05-24
+Sys0389,Notice Automation,Phoenix Plant,Line B,Fully Automated,Plc389,Wincc,Honeywell Experion,Yaskawa Gp25,Maintenance,91.43,27.28,725.06,211,13,Op389,Scheduled,Prj389,Pending,2024-10-19
+Sys0390,Dog Automation,Austin Plant,Line C,Semi Automated,Plc390,Wincc,Honeywell Experion,Abb Irb2600,Maintenance,89.79,39.7,1384.42,74,14,Op390,Completed,Prj390,Passed,2025-03-31
+Sys0391,Authority Automation,Austin Plant,Packaging Line,Semi Automated,Plc391,Ignition,Emerson Deltav,Fanuc M-20Id,Running,92.75,17.29,1742.0,75,9,Op391,Completed,Prj391,Pending,2026-02-13
+Sys0392,To Automation,Dallas Plant,Line C,Semi Automated,Plc392,Wonderware,Abb 800Xa,Kuka Kr10,Idle,92.76,16.36,1592.85,132,15,Op392,In Progress,Prj392,Failed,2025-07-05
+Sys0393,Their Automation,Austin Plant,Packaging Line,Robotic Cell,Plc393,Wincc,Honeywell Experion,Fanuc M-20Id,Maintenance,79.09,18.52,2078.38,138,1,Op393,Scheduled,Prj393,Failed,2025-08-25
+Sys0394,Pay Automation,Dallas Plant,Line A,Semi Automated,Plc394,Factorytalk,Emerson Deltav,Kuka Kr10,Running,75.46,36.02,1798.82,118,12,Op394,In Progress,Prj394,Failed,2025-08-16
+Sys0395,Itself Automation,Dallas Plant,Line C,Semi Automated,Plc395,Wincc,Abb 800Xa,Abb Irb2600,Stopped,88.46,31.37,579.5,271,9,Op395,Scheduled,Prj395,Pending,2025-12-24
+Sys0396,Music Automation,Chicago Plant,Packaging Line,Fully Automated,Plc396,Wincc,Honeywell Experion,Kuka Kr10,Maintenance,90.01,17.09,2456.49,256,8,Op396,Completed,Prj396,Failed,2024-08-18
+Sys0397,Property Automation,Houston Plant,Line D,Fully Automated,Plc397,Factorytalk,Abb 800Xa,Abb Irb2600,Maintenance,96.53,29.71,675.59,195,7,Op397,Scheduled,Prj397,Passed,2024-11-03
+Sys0398,Deal Automation,Phoenix Plant,Line B,Semi Automated,Plc398,Factorytalk,Emerson Deltav,Kuka Kr10,Stopped,88.01,16.2,777.15,277,6,Op398,Completed,Prj398,Pending,2024-09-01
+Sys0399,Point Automation,Phoenix Plant,Line B,Semi Automated,Plc399,Ignition,Emerson Deltav,Abb Irb2600,Maintenance,76.63,25.99,1938.88,94,10,Op399,Completed,Prj399,Failed,2025-09-15
+Sys0400,Three Automation,Dallas Plant,Line C,Semi Automated,Plc400,Wonderware,Honeywell Experion,Yaskawa Gp25,Maintenance,78.65,15.64,763.09,13,8,Op400,In Progress,Prj400,Failed,2024-12-27
+Sys0401,Run Automation,Phoenix Plant,Line B,Robotic Cell,Plc401,Ignition,Abb 800Xa,Fanuc M-20Id,Maintenance,76.91,33.39,768.17,240,11,Op401,Completed,Prj401,Pending,2024-12-03
+Sys0402,Have Automation,Chicago Plant,Line D,Fully Automated,Plc402,Ignition,Abb 800Xa,Abb Irb2600,Running,84.81,39.06,2350.87,211,7,Op402,In Progress,Prj402,Failed,2025-06-24
+Sys0403,Gas Automation,Austin Plant,Line B,Fully Automated,Plc403,Ignition,Honeywell Experion,Yaskawa Gp25,Maintenance,95.8,36.63,1355.11,21,12,Op403,In Progress,Prj403,Pending,2024-09-04
+Sys0404,Time Automation,Chicago Plant,Assembly Line,Robotic Cell,Plc404,Wincc,Emerson Deltav,Fanuc M-20Id,Stopped,85.97,36.33,2255.56,125,12,Op404,In Progress,Prj404,Passed,2025-02-03
+Sys0405,Door Automation,Phoenix Plant,Line D,Robotic Cell,Plc405,Wincc,Abb 800Xa,Kuka Kr10,Stopped,84.55,19.14,2155.24,236,5,Op405,Scheduled,Prj405,Pending,2025-12-12
+Sys0406,Road Automation,Phoenix Plant,Line A,Robotic Cell,Plc406,Ignition,Honeywell Experion,Yaskawa Gp25,Running,92.34,13.4,2057.46,279,4,Op406,Scheduled,Prj406,Pending,2025-12-05
+Sys0407,I Automation,Houston Plant,Line D,Fully Automated,Plc407,Ignition,Honeywell Experion,Abb Irb2600,Stopped,77.16,19.72,1797.15,83,3,Op407,Completed,Prj407,Passed,2025-10-22
+Sys0408,Recently Automation,Chicago Plant,Packaging Line,Semi Automated,Plc408,Wincc,Emerson Deltav,Yaskawa Gp25,Idle,84.09,21.42,2036.52,171,4,Op408,Completed,Prj408,Passed,2026-03-15
+Sys0409,Thank Automation,Austin Plant,Packaging Line,Fully Automated,Plc409,Wonderware,Honeywell Experion,Kuka Kr10,Stopped,81.93,15.42,2297.08,103,0,Op409,In Progress,Prj409,Pending,2025-06-10
+Sys0410,Improve Automation,Dallas Plant,Line D,Semi Automated,Plc410,Wonderware,Emerson Deltav,Fanuc M-20Id,Stopped,80.71,27.67,1451.42,209,14,Op410,Completed,Prj410,Failed,2024-11-24
+Sys0411,Several Automation,Phoenix Plant,Line A,Fully Automated,Plc411,Factorytalk,Emerson Deltav,Abb Irb2600,Running,79.44,11.65,1198.04,74,1,Op411,In Progress,Prj411,Failed,2024-09-04
+Sys0412,Who Automation,Phoenix Plant,Line C,Semi Automated,Plc412,Wincc,Abb 800Xa,Fanuc M-20Id,Stopped,98.85,14.84,1068.76,293,5,Op412,Scheduled,Prj412,Failed,2024-07-26
+Sys0413,Miss Automation,Phoenix Plant,Line C,Fully Automated,Plc413,Wincc,Honeywell Experion,Kuka Kr10,Maintenance,96.54,34.61,2016.88,281,2,Op413,Scheduled,Prj413,Pending,2025-01-01
+Sys0414,Record Automation,Austin Plant,Line A,Robotic Cell,Plc414,Factorytalk,Honeywell Experion,Yaskawa Gp25,Idle,91.7,28.36,718.6,270,2,Op414,Scheduled,Prj414,Failed,2025-10-10
+Sys0415,Local Automation,Phoenix Plant,Packaging Line,Semi Automated,Plc415,Wonderware,Emerson Deltav,Kuka Kr10,Maintenance,87.61,39.85,1207.71,66,15,Op415,In Progress,Prj415,Failed,2026-05-17
+Sys0416,Huge Automation,Chicago Plant,Line D,Fully Automated,Plc416,Ignition,Emerson Deltav,Kuka Kr10,Idle,75.04,10.72,1750.92,60,6,Op416,In Progress,Prj416,Pending,2026-01-21
+Sys0417,Else Automation,Chicago Plant,Line A,Semi Automated,Plc417,Factorytalk,Emerson Deltav,Abb Irb2600,Running,90.37,30.7,1008.84,34,9,Op417,Scheduled,Prj417,Failed,2025-06-18
+Sys0418,Write Automation,Phoenix Plant,Line C,Fully Automated,Plc418,Wincc,Emerson Deltav,Kuka Kr10,Maintenance,84.51,27.07,2420.23,89,6,Op418,Scheduled,Prj418,Pending,2024-11-12
+Sys0419,Eye Automation,Chicago Plant,Line D,Fully Automated,Plc419,Ignition,Honeywell Experion,Abb Irb2600,Stopped,96.41,26.11,1170.22,211,1,Op419,In Progress,Prj419,Pending,2026-05-05
+Sys0420,Management Automation,Phoenix Plant,Packaging Line,Robotic Cell,Plc420,Factorytalk,Emerson Deltav,Fanuc M-20Id,Idle,88.86,19.95,2332.37,181,2,Op420,Completed,Prj420,Pending,2026-05-29
+Sys0421,Because Automation,Dallas Plant,Line C,Semi Automated,Plc421,Ignition,Emerson Deltav,Yaskawa Gp25,Idle,89.28,35.94,2003.08,161,1,Op421,Scheduled,Prj421,Pending,2025-01-09
+Sys0422,Professor Automation,Dallas Plant,Line D,Fully Automated,Plc422,Factorytalk,Honeywell Experion,Kuka Kr10,Idle,87.6,15.25,1248.43,19,6,Op422,Completed,Prj422,Pending,2024-09-26
+Sys0423,Control Automation,Phoenix Plant,Line A,Semi Automated,Plc423,Ignition,Abb 800Xa,Kuka Kr10,Stopped,92.58,25.71,2051.07,73,3,Op423,In Progress,Prj423,Failed,2025-10-12
+Sys0424,Store Automation,Austin Plant,Line B,Robotic Cell,Plc424,Wincc,Honeywell Experion,Yaskawa Gp25,Running,75.1,37.97,1874.1,44,10,Op424,Scheduled,Prj424,Passed,2025-07-23
+Sys0425,Very Automation,Dallas Plant,Assembly Line,Robotic Cell,Plc425,Factorytalk,Abb 800Xa,Kuka Kr10,Idle,82.7,15.78,1053.3,163,14,Op425,In Progress,Prj425,Passed,2026-01-22
+Sys0426,Course Automation,Houston Plant,Line B,Fully Automated,Plc426,Factorytalk,Abb 800Xa,Fanuc M-20Id,Running,79.96,20.51,1136.97,72,9,Op426,In Progress,Prj426,Passed,2025-02-13
+Sys0427,School Automation,Austin Plant,Line A,Semi Automated,Plc427,Factorytalk,Emerson Deltav,Yaskawa Gp25,Running,78.12,24.12,1850.99,54,12,Op427,Completed,Prj427,Passed,2024-08-28
+Sys0428,Opportunity Automation,Chicago Plant,Line D,Fully Automated,Plc428,Wonderware,Emerson Deltav,Kuka Kr10,Maintenance,82.98,15.94,2016.81,273,2,Op428,Scheduled,Prj428,Failed,2026-04-17
+Sys0429,Any Automation,Austin Plant,Line A,Robotic Cell,Plc429,Wonderware,Abb 800Xa,Yaskawa Gp25,Maintenance,91.43,31.31,1430.79,118,7,Op429,Completed,Prj429,Failed,2025-07-28
+Sys0430,Common Automation,Houston Plant,Line C,Semi Automated,Plc430,Ignition,Emerson Deltav,Kuka Kr10,Maintenance,85.88,10.91,1450.67,179,15,Op430,Scheduled,Prj430,Passed,2026-04-18
+Sys0431,Mission Automation,Houston Plant,Line C,Robotic Cell,Plc431,Ignition,Emerson Deltav,Fanuc M-20Id,Stopped,94.62,33.9,1151.74,36,9,Op431,In Progress,Prj431,Pending,2024-10-11
+Sys0432,Play Automation,Chicago Plant,Assembly Line,Semi Automated,Plc432,Ignition,Emerson Deltav,Abb Irb2600,Idle,98.37,21.51,1181.43,220,13,Op432,In Progress,Prj432,Pending,2026-06-17
+Sys0433,Face Automation,Phoenix Plant,Packaging Line,Fully Automated,Plc433,Ignition,Emerson Deltav,Fanuc M-20Id,Stopped,77.74,27.88,1150.76,49,14,Op433,Completed,Prj433,Pending,2025-01-14
+Sys0434,High Automation,Chicago Plant,Line A,Robotic Cell,Plc434,Wincc,Emerson Deltav,Yaskawa Gp25,Maintenance,86.86,29.8,681.07,71,0,Op434,Completed,Prj434,Failed,2025-04-25
+Sys0435,Grow Automation,Austin Plant,Line D,Robotic Cell,Plc435,Factorytalk,Honeywell Experion,Yaskawa Gp25,Idle,79.94,36.32,1099.47,155,13,Op435,In Progress,Prj435,Pending,2025-05-30
+Sys0436,Certainly Automation,Dallas Plant,Assembly Line,Fully Automated,Plc436,Wonderware,Abb 800Xa,Kuka Kr10,Running,83.86,26.47,606.25,286,11,Op436,Completed,Prj436,Pending,2025-07-05
+Sys0437,War Automation,Dallas Plant,Line B,Semi Automated,Plc437,Wonderware,Emerson Deltav,Kuka Kr10,Stopped,84.74,23.06,922.43,88,15,Op437,Completed,Prj437,Passed,2025-06-20
+Sys0438,Seek Automation,Phoenix Plant,Line D,Semi Automated,Plc438,Wonderware,Abb 800Xa,Kuka Kr10,Idle,78.22,12.15,531.42,249,13,Op438,Completed,Prj438,Passed,2025-10-27
+Sys0439,Project Automation,Austin Plant,Packaging Line,Semi Automated,Plc439,Wonderware,Emerson Deltav,Yaskawa Gp25,Idle,85.91,22.72,2140.14,196,11,Op439,Completed,Prj439,Passed,2025-09-17
+Sys0440,Notice Automation,Chicago Plant,Assembly Line,Fully Automated,Plc440,Wonderware,Emerson Deltav,Abb Irb2600,Maintenance,84.86,26.38,1233.94,19,15,Op440,In Progress,Prj440,Pending,2025-11-19
+Sys0441,Plant Automation,Dallas Plant,Assembly Line,Semi Automated,Plc441,Wincc,Abb 800Xa,Kuka Kr10,Stopped,87.41,25.7,1720.14,125,15,Op441,In Progress,Prj441,Failed,2024-12-18
+Sys0442,Age Automation,Dallas Plant,Packaging Line,Robotic Cell,Plc442,Factorytalk,Emerson Deltav,Fanuc M-20Id,Maintenance,87.84,10.32,1408.07,240,10,Op442,Scheduled,Prj442,Pending,2025-02-02
+Sys0443,Mention Automation,Houston Plant,Line C,Fully Automated,Plc443,Wincc,Emerson Deltav,Kuka Kr10,Maintenance,76.47,24.19,838.16,26,9,Op443,In Progress,Prj443,Failed,2026-01-09
+Sys0444,Billion Automation,Dallas Plant,Line C,Semi Automated,Plc444,Wincc,Abb 800Xa,Fanuc M-20Id,Maintenance,81.05,28.47,1050.43,131,0,Op444,In Progress,Prj444,Passed,2024-07-28
+Sys0445,Believe Automation,Phoenix Plant,Line B,Robotic Cell,Plc445,Ignition,Emerson Deltav,Yaskawa Gp25,Maintenance,94.39,17.84,1901.55,248,5,Op445,In Progress,Prj445,Passed,2025-11-12
+Sys0446,Theory Automation,Houston Plant,Line A,Fully Automated,Plc446,Ignition,Honeywell Experion,Yaskawa Gp25,Stopped,80.71,23.21,1775.15,107,11,Op446,Completed,Prj446,Failed,2025-11-20
+Sys0447,Democrat Automation,Houston Plant,Line A,Fully Automated,Plc447,Ignition,Honeywell Experion,Yaskawa Gp25,Stopped,82.23,32.38,2004.86,272,7,Op447,Scheduled,Prj447,Failed,2025-05-03
+Sys0448,Player Automation,Chicago Plant,Line D,Semi Automated,Plc448,Ignition,Emerson Deltav,Yaskawa Gp25,Running,81.93,33.92,1264.01,161,1,Op448,Completed,Prj448,Failed,2026-05-04
+Sys0449,Chair Automation,Houston Plant,Line D,Robotic Cell,Plc449,Factorytalk,Honeywell Experion,Kuka Kr10,Maintenance,94.26,17.66,1668.35,236,7,Op449,In Progress,Prj449,Failed,2025-10-30
+Sys0450,Able Automation,Phoenix Plant,Line B,Robotic Cell,Plc450,Factorytalk,Emerson Deltav,Abb Irb2600,Maintenance,88.14,30.18,2163.38,6,13,Op450,Completed,Prj450,Failed,2025-12-17
+Sys0451,Time Automation,Dallas Plant,Packaging Line,Semi Automated,Plc451,Factorytalk,Abb 800Xa,Kuka Kr10,Maintenance,79.63,10.71,683.88,111,3,Op451,In Progress,Prj451,Passed,2025-12-03
+Sys0452,Manage Automation,Dallas Plant,Assembly Line,Fully Automated,Plc452,Wonderware,Emerson Deltav,Abb Irb2600,Running,91.7,17.6,1433.91,38,14,Op452,Scheduled,Prj452,Pending,2026-05-02
+Sys0453,Back Automation,Houston Plant,Line C,Fully Automated,Plc453,Wincc,Honeywell Experion,Fanuc M-20Id,Stopped,84.33,39.88,1016.48,135,5,Op453,Scheduled,Prj453,Passed,2025-01-31
+Sys0454,Dog Automation,Chicago Plant,Line B,Robotic Cell,Plc454,Wonderware,Abb 800Xa,Yaskawa Gp25,Running,78.45,33.06,936.77,54,14,Op454,In Progress,Prj454,Pending,2026-05-19
+Sys0455,Us Automation,Dallas Plant,Line A,Fully Automated,Plc455,Wincc,Emerson Deltav,Kuka Kr10,Stopped,75.45,24.93,1805.73,0,1,Op455,In Progress,Prj455,Pending,2026-04-05
+Sys0456,Area Automation,Houston Plant,Line B,Robotic Cell,Plc456,Factorytalk,Honeywell Experion,Fanuc M-20Id,Stopped,86.48,22.12,1955.53,35,7,Op456,Completed,Prj456,Pending,2025-08-28
+Sys0457,Special Automation,Chicago Plant,Line A,Robotic Cell,Plc457,Factorytalk,Honeywell Experion,Kuka Kr10,Stopped,76.32,39.91,1794.15,187,10,Op457,Completed,Prj457,Pending,2025-05-23
+Sys0458,Marriage Automation,Houston Plant,Packaging Line,Fully Automated,Plc458,Ignition,Emerson Deltav,Fanuc M-20Id,Stopped,90.86,18.97,1280.21,54,11,Op458,Scheduled,Prj458,Passed,2026-02-08
+Sys0459,Lawyer Automation,Chicago Plant,Packaging Line,Fully Automated,Plc459,Ignition,Abb 800Xa,Abb Irb2600,Running,92.27,27.79,1478.47,32,9,Op459,Scheduled,Prj459,Failed,2026-02-13
+Sys0460,Upon Automation,Chicago Plant,Line A,Fully Automated,Plc460,Factorytalk,Abb 800Xa,Kuka Kr10,Running,84.73,16.35,1807.7,267,14,Op460,In Progress,Prj460,Failed,2026-02-05
+Sys0461,Pay Automation,Austin Plant,Packaging Line,Robotic Cell,Plc461,Ignition,Abb 800Xa,Fanuc M-20Id,Idle,86.73,10.57,2314.36,23,7,Op461,In Progress,Prj461,Failed,2024-07-30
+Sys0462,Leader Automation,Austin Plant,Line A,Fully Automated,Plc462,Wincc,Honeywell Experion,Fanuc M-20Id,Stopped,89.67,35.06,627.92,54,3,Op462,Scheduled,Prj462,Failed,2025-05-27
+Sys0463,Population Automation,Phoenix Plant,Line B,Fully Automated,Plc463,Ignition,Honeywell Experion,Kuka Kr10,Stopped,82.78,39.28,1651.93,70,10,Op463,Completed,Prj463,Passed,2025-08-28
+Sys0464,Foreign Automation,Phoenix Plant,Line B,Semi Automated,Plc464,Wincc,Abb 800Xa,Kuka Kr10,Idle,93.18,15.04,1239.85,84,14,Op464,Completed,Prj464,Failed,2025-12-06
+Sys0465,East Automation,Dallas Plant,Line B,Fully Automated,Plc465,Wonderware,Abb 800Xa,Fanuc M-20Id,Stopped,76.94,10.22,2352.27,145,13,Op465,In Progress,Prj465,Pending,2025-04-07
+Sys0466,Major Automation,Austin Plant,Line B,Fully Automated,Plc466,Factorytalk,Emerson Deltav,Yaskawa Gp25,Stopped,80.74,15.24,1883.35,92,15,Op466,In Progress,Prj466,Passed,2024-09-28
+Sys0467,Term Automation,Houston Plant,Line C,Semi Automated,Plc467,Wincc,Emerson Deltav,Abb Irb2600,Idle,77.82,25.91,691.37,185,7,Op467,Scheduled,Prj467,Failed,2025-05-17
+Sys0468,Hit Automation,Austin Plant,Line C,Fully Automated,Plc468,Ignition,Abb 800Xa,Abb Irb2600,Stopped,86.94,14.79,2345.35,27,11,Op468,Scheduled,Prj468,Passed,2025-11-26
+Sys0469,Discussion Automation,Chicago Plant,Line C,Semi Automated,Plc469,Wonderware,Abb 800Xa,Fanuc M-20Id,Running,97.2,15.28,2070.98,248,3,Op469,Completed,Prj469,Passed,2026-05-04
+Sys0470,Quite Automation,Chicago Plant,Assembly Line,Robotic Cell,Plc470,Factorytalk,Honeywell Experion,Abb Irb2600,Maintenance,80.52,13.3,955.56,121,13,Op470,Completed,Prj470,Pending,2025-02-03
+Sys0471,Official Automation,Austin Plant,Line A,Semi Automated,Plc471,Wonderware,Abb 800Xa,Yaskawa Gp25,Idle,80.19,28.28,856.12,191,4,Op471,Scheduled,Prj471,Failed,2025-01-05
+Sys0472,Night Automation,Austin Plant,Packaging Line,Semi Automated,Plc472,Factorytalk,Abb 800Xa,Kuka Kr10,Idle,75.77,27.06,1061.21,56,14,Op472,Scheduled,Prj472,Pending,2024-09-17
+Sys0473,Let Automation,Austin Plant,Line C,Fully Automated,Plc473,Factorytalk,Emerson Deltav,Abb Irb2600,Idle,88.87,26.58,959.4,210,15,Op473,Completed,Prj473,Failed,2024-10-31
+Sys0474,Question Automation,Chicago Plant,Line D,Semi Automated,Plc474,Wincc,Emerson Deltav,Yaskawa Gp25,Idle,80.95,23.03,944.81,76,0,Op474,Scheduled,Prj474,Passed,2026-03-12
+Sys0475,Have Automation,Dallas Plant,Line D,Robotic Cell,Plc475,Wincc,Honeywell Experion,Yaskawa Gp25,Stopped,94.43,30.9,696.0,253,7,Op475,Completed,Prj475,Failed,2025-06-27
+Sys0476,Direction Automation,Dallas Plant,Packaging Line,Robotic Cell,Plc476,Wonderware,Abb 800Xa,Abb Irb2600,Maintenance,82.1,29.43,681.46,245,9,Op476,Completed,Prj476,Failed,2024-08-03
+Sys0477,Federal Automation,Chicago Plant,Assembly Line,Robotic Cell,Plc477,Wincc,Honeywell Experion,Yaskawa Gp25,Idle,95.98,22.16,2079.72,189,14,Op477,In Progress,Prj477,Failed,2025-11-10
+Sys0478,Enter Automation,Dallas Plant,Packaging Line,Fully Automated,Plc478,Wonderware,Emerson Deltav,Kuka Kr10,Running,82.12,32.59,1896.11,277,6,Op478,In Progress,Prj478,Passed,2024-11-04
+Sys0479,First Automation,Phoenix Plant,Line C,Robotic Cell,Plc479,Wincc,Emerson Deltav,Kuka Kr10,Running,77.66,20.97,1738.27,187,11,Op479,Completed,Prj479,Failed,2025-12-21
+Sys0480,First Automation,Phoenix Plant,Packaging Line,Fully Automated,Plc480,Ignition,Abb 800Xa,Kuka Kr10,Idle,87.95,29.47,1974.76,297,6,Op480,In Progress,Prj480,Passed,2026-06-22
+Sys0481,Learn Automation,Houston Plant,Line C,Semi Automated,Plc481,Wonderware,Honeywell Experion,Fanuc M-20Id,Running,83.95,23.57,1502.9,62,15,Op481,In Progress,Prj481,Failed,2024-08-31
+Sys0482,Set Automation,Phoenix Plant,Line C,Semi Automated,Plc482,Factorytalk,Emerson Deltav,Fanuc M-20Id,Idle,96.41,23.74,660.34,91,9,Op482,Completed,Prj482,Passed,2025-10-21
+Sys0483,These Automation,Austin Plant,Line C,Fully Automated,Plc483,Ignition,Honeywell Experion,Abb Irb2600,Idle,87.5,28.82,1086.34,277,4,Op483,Scheduled,Prj483,Pending,2024-09-23
+Sys0484,Far Automation,Chicago Plant,Line D,Robotic Cell,Plc484,Wincc,Honeywell Experion,Abb Irb2600,Running,75.53,34.06,2169.9,266,10,Op484,Scheduled,Prj484,Failed,2025-02-15
+Sys0485,From Automation,Houston Plant,Packaging Line,Robotic Cell,Plc485,Factorytalk,Honeywell Experion,Yaskawa Gp25,Stopped,82.3,13.96,2078.7,87,8,Op485,Completed,Prj485,Pending,2024-10-24
+Sys0486,Along Automation,Houston Plant,Line C,Fully Automated,Plc486,Ignition,Honeywell Experion,Kuka Kr10,Stopped,97.95,28.56,821.58,274,9,Op486,Completed,Prj486,Passed,2025-09-09
+Sys0487,Policy Automation,Austin Plant,Line B,Fully Automated,Plc487,Wincc,Abb 800Xa,Kuka Kr10,Idle,85.58,21.09,910.31,17,10,Op487,Scheduled,Prj487,Passed,2026-03-23
+Sys0488,Option Automation,Houston Plant,Line D,Robotic Cell,Plc488,Ignition,Emerson Deltav,Kuka Kr10,Running,97.09,22.14,1498.83,74,14,Op488,Scheduled,Prj488,Passed,2026-06-22
+Sys0489,Nothing Automation,Dallas Plant,Packaging Line,Robotic Cell,Plc489,Factorytalk,Emerson Deltav,Kuka Kr10,Stopped,96.5,39.09,2008.32,293,4,Op489,In Progress,Prj489,Failed,2025-10-22
+Sys0490,Consider Automation,Chicago Plant,Line C,Robotic Cell,Plc490,Wincc,Emerson Deltav,Yaskawa Gp25,Running,78.35,26.53,1116.16,205,7,Op490,Scheduled,Prj490,Pending,2024-10-03
+Sys0491,Hour Automation,Dallas Plant,Line C,Fully Automated,Plc491,Ignition,Emerson Deltav,Abb Irb2600,Maintenance,79.7,12.51,2198.9,44,12,Op491,Completed,Prj491,Pending,2026-01-24
+Sys0492,Focus Automation,Houston Plant,Assembly Line,Robotic Cell,Plc492,Wincc,Emerson Deltav,Kuka Kr10,Stopped,78.55,35.61,1239.26,190,0,Op492,Scheduled,Prj492,Pending,2024-10-11
+Sys0493,Family Automation,Houston Plant,Line C,Semi Automated,Plc493,Wincc,Abb 800Xa,Yaskawa Gp25,Stopped,94.29,18.66,2111.35,217,13,Op493,Completed,Prj493,Failed,2024-11-23
+Sys0494,Politics Automation,Phoenix Plant,Line A,Fully Automated,Plc494,Ignition,Honeywell Experion,Yaskawa Gp25,Maintenance,76.59,38.8,2012.23,45,0,Op494,Scheduled,Prj494,Failed,2026-05-20
+Sys0495,Trouble Automation,Houston Plant,Line D,Fully Automated,Plc495,Wonderware,Emerson Deltav,Abb Irb2600,Idle,79.46,21.45,1607.73,21,9,Op495,In Progress,Prj495,Pending,2025-11-22
+Sys0496,Authority Automation,Chicago Plant,Assembly Line,Robotic Cell,Plc496,Wonderware,Abb 800Xa,Fanuc M-20Id,Running,78.7,19.01,1781.11,241,3,Op496,In Progress,Prj496,Failed,2024-12-09
+Sys0497,Decide Automation,Houston Plant,Line D,Fully Automated,Plc497,Wonderware,Emerson Deltav,Abb Irb2600,Running,77.86,18.32,2488.67,34,11,Op497,In Progress,Prj497,Pending,2025-08-22
+Sys0498,Lawyer Automation,Phoenix Plant,Line D,Semi Automated,Plc498,Wonderware,Emerson Deltav,Fanuc M-20Id,Maintenance,87.3,27.26,2190.56,83,1,Op498,Completed,Prj498,Pending,2024-12-04
+Sys0499,Way Automation,Chicago Plant,Packaging Line,Fully Automated,Plc499,Factorytalk,Abb 800Xa,Fanuc M-20Id,Maintenance,83.67,29.09,2410.31,24,9,Op499,Scheduled,Prj499,Failed,2025-03-05
+Sys0500,Cut Automation,Dallas Plant,Assembly Line,Fully Automated,Plc500,Ignition,Abb 800Xa,Abb Irb2600,Maintenance,95.94,34.8,1869.93,154,8,Op500,In Progress,Prj500,Failed,2025-06-16

@@ -1,0 +1,11 @@
+Dataset,Rows,Columns,Duplicate_Count,Missing_Values
+automation_systems,500,20,0,0
+plc_devices,500,10,0,0
+scada_logs.csv,500,8,0,0
+robots.csv,500,9,0,0
+sensors.csv,500,8,0,0
+alarms.csv,500,7,0,0
+maintenance.csv,500,9,0,0
+projects.csv,500,9,0,0
+compliance.csv,500,7,0,0
+operators.csv,500,7,0,0

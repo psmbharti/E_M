@@ -1,0 +1,501 @@
+PLC_ID,Manufacturer,Model,Firmware,IP_Address,CPU_Usage,Memory_Usage,Temperature,Voltage,Communication_Status
+Plc001,Mitsubishi,S7-1500,V5.9,10.176.0.43,50,28,25.5,23.04,Disconnected
+Plc002,Omron,Nx1P2,V3.2,10.143.94.115,18,37,31.2,22.44,Connected
+Plc003,Siemens,Nx1P2,V4.1,172.26.236.189,19,26,61.9,22.96,Disconnected
+Plc004,Mitsubishi,Controllogix,V4.9,172.22.0.231,71,53,31.9,22.61,Connected
+Plc005,Allen Bradley,Controllogix,V2.3,172.28.51.240,44,26,33.4,23.96,Disconnected
+Plc006,Siemens,S7-1500,V1.7,192.168.106.60,60,15,32.9,22.07,Connected
+Plc007,Omron,S7-1500,V3.0,192.168.87.230,13,48,51.7,23.51,Connected
+Plc008,Allen Bradley,Controllogix,V2.5,172.28.11.70,8,21,30.8,23.49,Disconnected
+Plc009,Mitsubishi,Fx5U,V2.8,172.24.79.124,83,40,45.2,22.14,Connected
+Plc010,Allen Bradley,Controllogix,V3.2,10.153.52.2,73,10,63.9,22.2,Connected
+Plc011,Omron,Fx5U,V5.2,10.7.152.11,61,23,32.2,22.71,Disconnected
+Plc012,Omron,Controllogix,V5.3,172.21.213.86,57,24,55.5,22.63,Disconnected
+Plc013,Siemens,Controllogix,V4.5,10.104.85.229,95,46,47.3,22.08,Disconnected
+Plc014,Omron,S7-1500,V4.4,192.168.140.51,63,86,54.4,23.37,Disconnected
+Plc015,Allen Bradley,Nx1P2,V3.6,192.168.14.82,29,18,60.8,23.6,Disconnected
+Plc016,Allen Bradley,S7-1500,V4.1,172.27.165.107,55,66,45.9,23.35,Connected
+Plc017,Allen Bradley,Nx1P2,V4.9,172.23.137.179,18,31,27.6,23.95,Disconnected
+Plc018,Allen Bradley,Nx1P2,V1.3,10.232.253.101,59,73,36.1,23.43,Disconnected
+Plc019,Omron,Fx5U,V4.9,10.235.220.71,56,72,45.5,22.29,Disconnected
+Plc020,Siemens,S7-1500,V3.7,172.31.200.200,68,39,50.1,22.27,Connected
+Plc021,Siemens,S7-1500,V4.0,192.168.0.57,27,58,49.2,22.65,Disconnected
+Plc022,Siemens,S7-1500,V5.7,10.46.236.89,64,35,36.7,23.0,Disconnected
+Plc023,Mitsubishi,S7-1500,V1.6,192.168.197.192,20,59,43.0,23.71,Disconnected
+Plc024,Omron,S7-1500,V1.2,172.27.48.6,76,48,60.4,22.33,Disconnected
+Plc025,Allen Bradley,Fx5U,V4.7,10.141.213.248,19,82,52.0,23.32,Disconnected
+Plc026,Omron,Controllogix,V5.0,10.1.54.188,55,43,44.8,23.94,Disconnected
+Plc027,Mitsubishi,Fx5U,V1.0,10.187.7.60,80,15,30.1,22.73,Connected
+Plc028,Mitsubishi,Nx1P2,V1.6,10.144.194.211,49,55,41.5,22.11,Connected
+Plc029,Allen Bradley,Controllogix,V3.9,10.17.173.213,15,18,59.8,22.23,Connected
+Plc030,Siemens,Fx5U,V1.7,192.168.170.100,89,64,47.7,23.8,Disconnected
+Plc031,Siemens,Nx1P2,V5.0,10.206.213.16,45,58,47.8,22.64,Connected
+Plc032,Omron,S7-1500,V2.5,192.168.229.252,68,74,57.5,23.33,Connected
+Plc033,Mitsubishi,Fx5U,V4.3,192.168.16.88,68,19,58.6,23.07,Disconnected
+Plc034,Mitsubishi,S7-1500,V3.9,192.168.132.54,56,38,50.0,23.92,Connected
+Plc035,Mitsubishi,Fx5U,V1.9,172.23.243.93,72,70,42.1,22.69,Connected
+Plc036,Mitsubishi,Fx5U,V4.8,10.160.243.89,45,35,41.6,22.5,Disconnected
+Plc037,Allen Bradley,S7-1500,V5.2,192.168.135.107,78,73,33.5,23.92,Disconnected
+Plc038,Mitsubishi,Nx1P2,V5.0,192.168.36.79,71,35,39.6,22.3,Connected
+Plc039,Mitsubishi,Nx1P2,V4.5,172.18.165.200,13,36,58.8,22.53,Disconnected
+Plc040,Allen Bradley,Fx5U,V5.3,172.20.70.168,56,40,29.5,22.38,Connected
+Plc041,Mitsubishi,Nx1P2,V4.8,192.168.26.34,60,64,50.9,22.07,Connected
+Plc042,Mitsubishi,Controllogix,V1.4,10.238.148.109,40,80,32.0,23.71,Disconnected
+Plc043,Siemens,S7-1500,V1.5,172.17.78.162,82,48,59.7,23.8,Disconnected
+Plc044,Mitsubishi,S7-1500,V4.2,10.136.57.146,35,24,47.8,23.0,Connected
+Plc045,Mitsubishi,Nx1P2,V1.3,172.20.106.98,81,25,55.9,22.63,Disconnected
+Plc046,Allen Bradley,Nx1P2,V2.2,10.54.89.33,18,32,33.6,22.55,Disconnected
+Plc047,Mitsubishi,S7-1500,V4.8,172.16.210.71,52,24,37.7,22.85,Connected
+Plc048,Mitsubishi,Controllogix,V3.7,10.246.84.181,52,49,25.8,23.93,Connected
+Plc049,Siemens,Controllogix,V3.8,172.31.122.123,54,49,50.6,23.4,Connected
+Plc050,Allen Bradley,Nx1P2,V4.0,192.168.156.193,55,42,37.0,23.87,Connected
+Plc051,Mitsubishi,Controllogix,V2.7,172.29.184.242,85,50,60.2,23.53,Disconnected
+Plc052,Siemens,Fx5U,V1.7,192.168.74.68,65,62,62.1,22.67,Disconnected
+Plc053,Siemens,Controllogix,V3.8,192.168.92.75,13,55,41.8,23.46,Disconnected
+Plc054,Omron,S7-1500,V1.2,10.157.46.46,85,66,56.6,22.27,Disconnected
+Plc055,Allen Bradley,Fx5U,V3.9,172.19.83.224,15,24,31.3,23.03,Connected
+Plc056,Omron,Fx5U,V4.7,10.157.217.9,22,43,31.9,23.19,Disconnected
+Plc057,Mitsubishi,Controllogix,V1.6,172.18.7.118,52,33,40.7,22.75,Connected
+Plc058,Siemens,S7-1500,V5.9,172.29.159.80,85,39,61.3,23.95,Connected
+Plc059,Mitsubishi,Controllogix,V1.6,10.145.220.194,84,64,49.0,22.3,Disconnected
+Plc060,Allen Bradley,S7-1500,V1.8,172.20.45.232,60,68,58.1,22.99,Connected
+Plc061,Allen Bradley,Controllogix,V3.4,192.168.162.183,68,58,30.2,23.71,Connected
+Plc062,Mitsubishi,Controllogix,V4.2,172.24.210.89,57,28,26.2,23.95,Connected
+Plc063,Omron,Controllogix,V3.9,10.71.6.255,92,68,28.4,22.94,Disconnected
+Plc064,Omron,Controllogix,V4.6,10.236.116.94,81,42,27.9,23.11,Connected
+Plc065,Mitsubishi,Controllogix,V4.5,10.169.220.220,82,86,53.4,23.62,Connected
+Plc066,Mitsubishi,Nx1P2,V3.6,192.168.222.8,90,57,30.3,23.78,Connected
+Plc067,Allen Bradley,Fx5U,V2.8,10.242.223.127,68,53,60.1,22.26,Disconnected
+Plc068,Omron,Controllogix,V3.1,172.18.221.177,45,15,64.1,23.0,Disconnected
+Plc069,Mitsubishi,Nx1P2,V3.4,192.168.206.195,83,43,45.7,22.87,Connected
+Plc070,Mitsubishi,Nx1P2,V2.8,172.18.204.155,89,66,27.1,22.3,Connected
+Plc071,Allen Bradley,S7-1500,V4.4,192.168.40.5,25,69,42.5,23.99,Disconnected
+Plc072,Siemens,Nx1P2,V3.8,172.29.20.240,67,68,44.7,23.69,Connected
+Plc073,Siemens,Fx5U,V1.3,172.31.177.8,41,33,58.4,23.5,Disconnected
+Plc074,Allen Bradley,S7-1500,V5.9,172.17.183.64,28,63,61.8,22.49,Disconnected
+Plc075,Siemens,Fx5U,V1.4,192.168.117.186,92,25,40.8,23.18,Connected
+Plc076,Mitsubishi,Controllogix,V1.1,192.168.210.163,63,71,43.2,23.91,Connected
+Plc077,Mitsubishi,S7-1500,V5.7,10.105.128.104,46,82,30.2,23.73,Disconnected
+Plc078,Mitsubishi,S7-1500,V1.8,192.168.78.9,82,58,28.7,22.51,Connected
+Plc079,Omron,S7-1500,V1.3,172.17.113.149,25,59,56.2,22.57,Connected
+Plc080,Siemens,Fx5U,V4.6,192.168.83.97,44,87,30.3,23.33,Disconnected
+Plc081,Allen Bradley,Nx1P2,V4.6,192.168.201.123,65,44,47.5,22.85,Disconnected
+Plc082,Mitsubishi,Controllogix,V4.6,10.86.65.146,16,15,45.5,23.95,Connected
+Plc083,Allen Bradley,Nx1P2,V5.8,192.168.181.98,15,47,43.7,22.16,Disconnected
+Plc084,Mitsubishi,Controllogix,V2.4,172.20.182.124,36,76,42.1,23.14,Connected
+Plc085,Siemens,S7-1500,V5.6,172.19.41.171,57,22,43.6,23.44,Disconnected
+Plc086,Mitsubishi,Fx5U,V5.1,172.19.121.151,69,12,29.6,23.32,Connected
+Plc087,Allen Bradley,Nx1P2,V1.1,172.20.108.47,58,48,37.6,23.45,Disconnected
+Plc088,Mitsubishi,Fx5U,V2.3,192.168.24.62,28,20,54.9,23.21,Connected
+Plc089,Omron,S7-1500,V1.6,172.25.154.243,19,11,31.9,22.95,Disconnected
+Plc090,Omron,Fx5U,V5.9,172.20.217.135,51,60,57.2,22.18,Connected
+Plc091,Siemens,Controllogix,V1.0,10.68.14.9,94,34,59.4,22.42,Connected
+Plc092,Allen Bradley,Nx1P2,V5.3,192.168.109.11,16,48,55.8,22.3,Disconnected
+Plc093,Siemens,S7-1500,V2.2,192.168.135.114,94,66,63.6,22.94,Disconnected
+Plc094,Allen Bradley,Controllogix,V3.9,192.168.154.80,55,16,38.4,22.21,Disconnected
+Plc095,Omron,Nx1P2,V5.9,172.17.230.80,75,47,26.5,22.8,Disconnected
+Plc096,Allen Bradley,S7-1500,V5.0,10.86.213.231,59,83,37.6,22.13,Disconnected
+Plc097,Omron,S7-1500,V4.9,10.209.203.192,87,54,42.9,22.87,Connected
+Plc098,Mitsubishi,Controllogix,V4.5,172.31.156.188,61,39,45.3,23.18,Disconnected
+Plc099,Omron,Controllogix,V3.6,192.168.121.178,58,56,56.8,23.6,Connected
+Plc100,Allen Bradley,Fx5U,V1.7,192.168.243.163,21,32,33.0,23.21,Connected
+Plc101,Omron,Nx1P2,V3.3,172.16.222.125,31,81,26.9,22.04,Disconnected
+Plc102,Mitsubishi,Controllogix,V2.8,10.188.153.197,9,18,38.5,22.23,Connected
+Plc103,Siemens,Controllogix,V4.4,10.110.74.62,48,55,55.8,23.54,Disconnected
+Plc104,Allen Bradley,S7-1500,V1.7,192.168.216.224,63,24,64.0,23.56,Connected
+Plc105,Siemens,S7-1500,V2.1,172.23.100.55,31,56,31.3,22.58,Disconnected
+Plc106,Omron,S7-1500,V2.5,192.168.129.26,47,27,29.9,22.4,Disconnected
+Plc107,Siemens,Controllogix,V4.5,172.23.66.26,41,74,31.9,22.53,Disconnected
+Plc108,Mitsubishi,Controllogix,V2.8,192.168.55.172,58,39,30.5,22.86,Disconnected
+Plc109,Omron,Fx5U,V1.7,192.168.202.157,23,11,53.7,23.03,Connected
+Plc110,Siemens,Fx5U,V3.6,10.154.219.251,26,65,27.5,23.52,Connected
+Plc111,Siemens,Fx5U,V4.6,10.76.28.80,92,80,59.9,23.44,Disconnected
+Plc112,Mitsubishi,S7-1500,V3.8,172.19.36.254,83,28,53.0,22.89,Connected
+Plc113,Omron,Fx5U,V4.3,10.158.220.163,43,20,26.5,22.67,Connected
+Plc114,Mitsubishi,Controllogix,V1.8,10.88.31.87,75,49,45.9,23.51,Connected
+Plc115,Siemens,S7-1500,V5.9,172.16.16.168,38,40,58.3,22.61,Disconnected
+Plc116,Siemens,S7-1500,V3.4,10.37.155.81,85,74,39.2,22.1,Connected
+Plc117,Omron,Fx5U,V5.0,192.168.85.239,63,53,64.3,23.61,Connected
+Plc118,Mitsubishi,Fx5U,V3.9,10.16.138.89,91,27,53.6,23.04,Connected
+Plc119,Siemens,Fx5U,V5.9,172.19.22.198,29,56,43.2,22.29,Disconnected
+Plc120,Omron,S7-1500,V1.0,10.173.88.29,59,26,44.1,22.89,Disconnected
+Plc121,Omron,Nx1P2,V3.9,172.19.187.0,68,64,64.9,23.38,Disconnected
+Plc122,Omron,Controllogix,V2.8,192.168.243.59,21,72,53.4,22.26,Connected
+Plc123,Allen Bradley,Nx1P2,V4.0,192.168.175.154,25,81,39.8,23.9,Disconnected
+Plc124,Siemens,S7-1500,V3.9,192.168.222.127,42,15,45.9,22.24,Disconnected
+Plc125,Mitsubishi,Fx5U,V3.7,192.168.34.248,8,28,30.7,23.18,Connected
+Plc126,Mitsubishi,Fx5U,V2.2,192.168.1.134,67,10,29.9,22.7,Connected
+Plc127,Omron,Nx1P2,V5.4,172.28.41.54,77,67,61.0,23.56,Disconnected
+Plc128,Allen Bradley,Controllogix,V5.7,10.99.113.35,62,67,31.0,23.46,Connected
+Plc129,Omron,Nx1P2,V2.6,10.232.161.190,48,79,26.8,23.34,Disconnected
+Plc130,Mitsubishi,S7-1500,V2.0,172.27.94.23,78,90,56.8,23.41,Connected
+Plc131,Siemens,Controllogix,V5.8,172.31.198.76,78,16,63.3,23.04,Disconnected
+Plc132,Siemens,S7-1500,V5.2,192.168.39.152,7,45,56.5,22.49,Disconnected
+Plc133,Siemens,Fx5U,V4.9,172.16.207.46,10,72,59.5,22.05,Disconnected
+Plc134,Allen Bradley,Nx1P2,V1.8,10.198.95.120,45,58,35.3,22.23,Connected
+Plc135,Allen Bradley,Fx5U,V2.2,172.20.57.148,37,21,31.2,23.9,Connected
+Plc136,Siemens,Fx5U,V2.0,10.52.52.46,12,48,40.6,22.64,Disconnected
+Plc137,Mitsubishi,Fx5U,V4.1,192.168.65.147,11,35,34.6,23.19,Connected
+Plc138,Omron,Nx1P2,V1.4,10.164.3.128,12,50,43.6,22.81,Disconnected
+Plc139,Siemens,Nx1P2,V2.0,10.123.240.215,39,80,63.5,23.35,Connected
+Plc140,Allen Bradley,Fx5U,V5.6,192.168.211.229,62,20,58.9,23.0,Connected
+Plc141,Mitsubishi,Controllogix,V2.8,192.168.59.246,59,81,43.1,22.0,Disconnected
+Plc142,Mitsubishi,Controllogix,V1.0,172.20.117.98,66,44,48.9,23.68,Disconnected
+Plc143,Mitsubishi,Controllogix,V5.8,10.15.232.100,41,15,31.5,23.07,Connected
+Plc144,Mitsubishi,S7-1500,V4.1,10.109.155.196,22,81,65.0,23.76,Connected
+Plc145,Mitsubishi,Fx5U,V3.7,10.206.109.251,39,41,51.5,22.64,Connected
+Plc146,Omron,Fx5U,V1.2,192.168.94.91,87,10,49.4,22.01,Connected
+Plc147,Allen Bradley,Nx1P2,V5.7,10.14.187.183,55,78,28.2,23.75,Connected
+Plc148,Siemens,Nx1P2,V1.5,172.21.254.206,53,86,39.3,22.35,Connected
+Plc149,Siemens,Nx1P2,V3.3,192.168.44.5,61,11,33.9,22.04,Disconnected
+Plc150,Mitsubishi,Controllogix,V1.9,192.168.167.25,85,48,57.3,22.44,Disconnected
+Plc151,Mitsubishi,S7-1500,V3.7,172.31.37.116,95,87,33.4,22.39,Disconnected
+Plc152,Siemens,Fx5U,V5.8,10.228.103.113,68,31,47.1,23.32,Connected
+Plc153,Siemens,Controllogix,V1.2,10.183.61.38,38,82,59.2,23.76,Disconnected
+Plc154,Allen Bradley,S7-1500,V5.9,10.177.251.124,37,81,60.3,22.0,Disconnected
+Plc155,Siemens,Fx5U,V4.6,10.30.8.85,40,25,52.2,22.93,Disconnected
+Plc156,Siemens,Controllogix,V1.4,192.168.219.152,58,78,43.0,22.01,Connected
+Plc157,Mitsubishi,S7-1500,V5.0,10.90.132.114,33,64,63.3,23.83,Connected
+Plc158,Allen Bradley,Fx5U,V3.1,172.30.187.2,85,90,28.9,22.96,Connected
+Plc159,Mitsubishi,Fx5U,V2.1,192.168.206.156,65,40,63.4,23.67,Disconnected
+Plc160,Allen Bradley,S7-1500,V5.9,10.13.187.72,61,22,50.0,23.16,Connected
+Plc161,Siemens,S7-1500,V4.5,10.214.121.29,93,18,56.3,22.12,Disconnected
+Plc162,Siemens,Fx5U,V5.6,192.168.69.122,13,23,52.1,23.12,Disconnected
+Plc163,Omron,Nx1P2,V1.9,10.167.239.9,57,39,59.6,23.57,Connected
+Plc164,Omron,Nx1P2,V4.6,172.30.148.83,84,89,29.1,23.3,Connected
+Plc165,Omron,Fx5U,V5.3,10.66.7.181,18,23,25.5,23.43,Connected
+Plc166,Allen Bradley,Fx5U,V3.6,192.168.18.96,66,89,42.8,22.49,Connected
+Plc167,Siemens,Controllogix,V3.9,192.168.203.191,60,75,63.4,23.51,Disconnected
+Plc168,Allen Bradley,Controllogix,V4.4,192.168.206.238,82,53,36.6,23.94,Connected
+Plc169,Siemens,Controllogix,V5.8,10.117.98.93,11,64,38.8,23.95,Connected
+Plc170,Siemens,Fx5U,V2.7,10.115.26.200,93,69,49.0,22.66,Disconnected
+Plc171,Mitsubishi,Nx1P2,V3.2,192.168.210.189,18,68,60.0,23.82,Disconnected
+Plc172,Allen Bradley,S7-1500,V2.3,172.21.128.111,64,89,33.5,22.96,Disconnected
+Plc173,Omron,Controllogix,V4.2,10.126.180.213,5,56,25.4,22.72,Connected
+Plc174,Allen Bradley,Fx5U,V4.3,172.31.128.52,85,84,61.5,22.72,Connected
+Plc175,Allen Bradley,Controllogix,V3.2,10.95.226.111,33,43,53.8,22.68,Connected
+Plc176,Allen Bradley,Controllogix,V1.2,172.19.27.217,38,22,25.8,23.35,Disconnected
+Plc177,Siemens,Fx5U,V2.4,172.23.13.89,63,40,39.8,22.74,Connected
+Plc178,Omron,S7-1500,V1.2,10.198.213.158,21,34,32.7,22.76,Disconnected
+Plc179,Mitsubishi,Nx1P2,V2.0,172.17.0.1,83,85,32.6,23.07,Connected
+Plc180,Mitsubishi,Controllogix,V1.4,172.29.252.2,21,75,63.7,23.77,Connected
+Plc181,Siemens,Nx1P2,V5.1,10.204.84.207,26,75,40.5,23.76,Disconnected
+Plc182,Omron,Nx1P2,V2.5,192.168.80.20,52,77,52.8,23.43,Disconnected
+Plc183,Omron,Fx5U,V5.6,192.168.109.105,86,84,51.0,22.41,Connected
+Plc184,Omron,Controllogix,V4.3,192.168.37.86,44,64,60.5,23.14,Disconnected
+Plc185,Mitsubishi,S7-1500,V2.1,10.248.114.164,42,66,45.8,22.46,Connected
+Plc186,Omron,Fx5U,V4.7,10.172.224.152,64,65,41.4,23.61,Disconnected
+Plc187,Mitsubishi,Nx1P2,V1.2,10.71.0.10,61,39,35.6,22.15,Connected
+Plc188,Mitsubishi,S7-1500,V3.3,10.60.69.51,17,25,27.9,22.08,Connected
+Plc189,Mitsubishi,Controllogix,V3.4,10.252.62.73,43,45,32.6,23.21,Connected
+Plc190,Mitsubishi,S7-1500,V3.4,10.199.182.91,49,61,62.8,23.64,Connected
+Plc191,Omron,Controllogix,V4.3,192.168.119.119,34,36,44.0,23.03,Disconnected
+Plc192,Omron,Fx5U,V1.5,192.168.74.111,29,64,55.8,23.4,Connected
+Plc193,Omron,Nx1P2,V5.0,172.26.241.39,52,27,48.1,22.26,Connected
+Plc194,Omron,Fx5U,V3.3,172.21.232.34,58,64,52.4,22.81,Disconnected
+Plc195,Mitsubishi,S7-1500,V5.0,172.20.183.187,22,29,64.1,23.99,Disconnected
+Plc196,Omron,Controllogix,V4.1,10.221.207.216,73,59,32.5,22.22,Disconnected
+Plc197,Mitsubishi,S7-1500,V2.1,172.18.255.207,91,80,32.1,23.65,Disconnected
+Plc198,Siemens,Controllogix,V2.1,172.25.190.113,54,46,33.2,22.58,Connected
+Plc199,Omron,S7-1500,V3.8,172.20.201.156,6,31,38.1,23.82,Disconnected
+Plc200,Allen Bradley,S7-1500,V2.8,172.19.162.28,58,71,54.7,22.78,Connected
+Plc201,Allen Bradley,Controllogix,V3.6,10.52.95.103,95,70,31.4,23.15,Disconnected
+Plc202,Allen Bradley,Nx1P2,V3.3,10.185.131.104,5,28,42.8,23.65,Connected
+Plc203,Mitsubishi,Nx1P2,V4.7,10.34.17.1,78,15,54.5,22.58,Disconnected
+Plc204,Mitsubishi,Fx5U,V4.9,192.168.61.99,27,63,35.0,23.8,Disconnected
+Plc205,Omron,Nx1P2,V2.9,10.245.252.35,17,60,52.9,22.09,Connected
+Plc206,Mitsubishi,Fx5U,V1.3,172.24.55.234,68,62,64.7,23.11,Disconnected
+Plc207,Siemens,S7-1500,V5.5,172.30.32.196,57,67,31.6,22.41,Connected
+Plc208,Omron,S7-1500,V1.7,10.170.90.227,53,53,54.8,23.71,Disconnected
+Plc209,Siemens,S7-1500,V3.1,172.22.155.152,95,27,38.1,23.5,Disconnected
+Plc210,Omron,S7-1500,V1.8,192.168.250.89,89,41,53.5,22.88,Disconnected
+Plc211,Mitsubishi,Controllogix,V2.0,192.168.15.106,82,22,32.1,22.25,Disconnected
+Plc212,Allen Bradley,S7-1500,V1.4,192.168.24.163,24,66,39.3,22.43,Connected
+Plc213,Allen Bradley,Nx1P2,V1.8,172.19.178.130,87,23,40.6,22.62,Connected
+Plc214,Siemens,S7-1500,V4.3,192.168.239.204,36,57,61.4,22.4,Connected
+Plc215,Omron,S7-1500,V1.5,192.168.10.195,29,18,33.8,23.76,Connected
+Plc216,Allen Bradley,S7-1500,V4.8,192.168.75.53,18,51,37.9,23.25,Connected
+Plc217,Omron,Nx1P2,V1.3,192.168.199.230,32,23,39.3,22.35,Disconnected
+Plc218,Mitsubishi,S7-1500,V4.3,192.168.238.50,63,38,27.6,23.63,Disconnected
+Plc219,Siemens,S7-1500,V2.6,192.168.44.73,43,86,45.0,23.98,Connected
+Plc220,Mitsubishi,S7-1500,V5.5,192.168.232.189,85,59,52.1,23.94,Connected
+Plc221,Mitsubishi,Controllogix,V3.7,172.18.197.85,13,52,25.7,23.82,Disconnected
+Plc222,Omron,Controllogix,V5.9,10.55.199.0,95,11,34.3,23.23,Connected
+Plc223,Mitsubishi,Controllogix,V4.3,172.17.192.69,84,20,27.4,22.75,Disconnected
+Plc224,Allen Bradley,Controllogix,V4.3,172.21.142.77,87,14,34.5,23.45,Disconnected
+Plc225,Mitsubishi,Controllogix,V3.5,10.245.171.59,87,15,45.8,23.96,Disconnected
+Plc226,Siemens,Controllogix,V3.5,172.17.195.65,36,36,46.6,23.81,Connected
+Plc227,Allen Bradley,Nx1P2,V5.5,10.110.128.180,28,66,50.2,22.13,Disconnected
+Plc228,Siemens,Controllogix,V1.2,172.22.234.0,31,26,28.7,23.19,Connected
+Plc229,Allen Bradley,S7-1500,V4.7,192.168.238.220,44,31,53.9,22.49,Connected
+Plc230,Allen Bradley,Fx5U,V3.9,10.65.221.37,62,35,35.9,23.56,Connected
+Plc231,Mitsubishi,Nx1P2,V4.2,192.168.200.136,65,66,41.9,23.22,Disconnected
+Plc232,Allen Bradley,Nx1P2,V1.6,10.216.141.155,59,20,55.4,23.84,Connected
+Plc233,Allen Bradley,Fx5U,V4.7,192.168.29.200,44,68,36.3,23.12,Disconnected
+Plc234,Siemens,Fx5U,V2.7,10.2.95.107,30,29,61.6,22.01,Disconnected
+Plc235,Omron,Nx1P2,V4.6,172.23.65.23,52,59,44.6,23.28,Connected
+Plc236,Omron,S7-1500,V1.6,10.190.244.249,77,30,32.8,22.87,Disconnected
+Plc237,Mitsubishi,Nx1P2,V3.0,172.22.208.114,88,59,62.1,23.47,Connected
+Plc238,Omron,S7-1500,V3.0,192.168.129.72,94,28,35.5,22.91,Connected
+Plc239,Mitsubishi,Controllogix,V5.9,172.27.22.169,89,30,25.5,23.54,Disconnected
+Plc240,Omron,S7-1500,V5.3,10.165.150.230,59,31,58.2,22.51,Disconnected
+Plc241,Omron,Fx5U,V4.1,10.220.20.54,18,83,56.1,22.69,Connected
+Plc242,Mitsubishi,Controllogix,V4.4,10.189.83.43,5,31,57.7,22.0,Connected
+Plc243,Omron,Nx1P2,V3.6,10.55.42.90,26,32,40.0,23.41,Connected
+Plc244,Omron,Controllogix,V5.1,172.23.91.225,62,82,57.6,22.37,Connected
+Plc245,Allen Bradley,Controllogix,V3.6,10.126.87.196,61,90,61.5,22.22,Connected
+Plc246,Siemens,Fx5U,V1.6,10.220.215.64,20,45,27.6,22.06,Connected
+Plc247,Omron,Nx1P2,V1.0,192.168.18.114,12,44,55.1,22.01,Connected
+Plc248,Siemens,Controllogix,V5.0,10.200.179.148,53,87,45.8,23.92,Disconnected
+Plc249,Omron,Nx1P2,V3.9,172.20.38.36,59,53,39.8,23.78,Disconnected
+Plc250,Allen Bradley,Fx5U,V4.6,10.196.70.203,83,17,64.0,23.75,Connected
+Plc251,Siemens,Nx1P2,V4.2,172.17.107.17,8,87,29.9,23.06,Connected
+Plc252,Mitsubishi,Nx1P2,V5.7,10.107.218.146,70,62,51.4,22.01,Disconnected
+Plc253,Siemens,Fx5U,V1.5,192.168.144.86,91,66,34.3,22.97,Connected
+Plc254,Mitsubishi,Nx1P2,V4.1,10.36.71.233,54,47,49.3,23.42,Connected
+Plc255,Allen Bradley,Nx1P2,V1.4,10.33.231.151,91,80,64.5,22.93,Disconnected
+Plc256,Siemens,Nx1P2,V5.3,172.20.201.239,36,37,31.8,23.89,Connected
+Plc257,Siemens,Nx1P2,V1.2,10.167.129.55,46,59,55.7,22.44,Disconnected
+Plc258,Omron,S7-1500,V2.8,10.208.126.125,86,72,28.6,23.38,Connected
+Plc259,Siemens,Fx5U,V4.6,10.195.132.2,88,81,63.6,22.87,Connected
+Plc260,Allen Bradley,Fx5U,V1.4,192.168.37.222,16,24,28.6,23.48,Connected
+Plc261,Siemens,Fx5U,V2.5,172.20.62.129,53,83,54.5,22.62,Connected
+Plc262,Omron,Nx1P2,V3.5,192.168.63.128,91,26,45.8,23.2,Connected
+Plc263,Siemens,Nx1P2,V1.8,172.22.200.154,63,50,30.8,23.89,Connected
+Plc264,Omron,Nx1P2,V2.9,192.168.100.9,41,28,54.9,23.7,Connected
+Plc265,Mitsubishi,Fx5U,V5.1,192.168.133.209,40,83,44.1,23.66,Disconnected
+Plc266,Mitsubishi,Nx1P2,V1.5,10.145.146.71,24,36,58.9,23.87,Connected
+Plc267,Siemens,Controllogix,V4.6,192.168.200.50,43,30,64.6,23.1,Disconnected
+Plc268,Omron,Nx1P2,V3.6,192.168.216.194,55,19,46.1,22.57,Connected
+Plc269,Omron,S7-1500,V2.5,192.168.78.202,79,16,59.0,23.42,Disconnected
+Plc270,Allen Bradley,Controllogix,V4.7,172.26.141.252,42,28,33.4,23.61,Connected
+Plc271,Siemens,Fx5U,V5.1,10.19.199.187,91,28,40.1,23.97,Connected
+Plc272,Siemens,S7-1500,V3.7,192.168.206.0,27,16,29.7,23.03,Disconnected
+Plc273,Omron,Controllogix,V4.3,10.250.157.136,9,25,34.6,22.98,Connected
+Plc274,Omron,S7-1500,V4.6,172.30.165.129,40,90,51.1,22.73,Connected
+Plc275,Siemens,S7-1500,V1.7,172.26.3.138,87,75,34.0,23.17,Disconnected
+Plc276,Mitsubishi,S7-1500,V5.2,10.101.182.29,54,71,65.0,23.41,Disconnected
+Plc277,Allen Bradley,S7-1500,V3.1,172.17.67.60,73,33,41.2,23.4,Disconnected
+Plc278,Omron,S7-1500,V5.9,192.168.96.15,73,25,55.1,22.41,Connected
+Plc279,Allen Bradley,Controllogix,V1.8,10.255.172.87,62,50,29.9,22.26,Connected
+Plc280,Allen Bradley,S7-1500,V5.4,10.246.242.232,9,20,64.2,23.01,Disconnected
+Plc281,Allen Bradley,Nx1P2,V1.3,10.56.112.202,43,15,62.8,23.04,Disconnected
+Plc282,Omron,Controllogix,V5.7,172.17.151.244,93,50,45.9,23.97,Disconnected
+Plc283,Allen Bradley,S7-1500,V1.3,10.156.144.122,9,34,30.7,23.71,Connected
+Plc284,Allen Bradley,Controllogix,V5.5,192.168.218.21,40,26,54.2,22.84,Disconnected
+Plc285,Mitsubishi,Nx1P2,V2.6,172.21.59.176,63,20,62.8,23.35,Connected
+Plc286,Allen Bradley,S7-1500,V3.3,10.25.187.159,52,82,51.3,23.64,Connected
+Plc287,Omron,Controllogix,V3.6,192.168.54.36,53,13,63.6,22.49,Disconnected
+Plc288,Siemens,S7-1500,V5.6,10.186.107.54,13,52,50.6,22.73,Disconnected
+Plc289,Mitsubishi,Controllogix,V2.4,10.185.159.255,6,22,40.1,23.94,Disconnected
+Plc290,Siemens,S7-1500,V2.8,10.193.9.247,44,85,57.9,22.98,Disconnected
+Plc291,Mitsubishi,Fx5U,V5.1,172.21.15.216,11,31,37.7,23.5,Connected
+Plc292,Mitsubishi,Nx1P2,V4.9,192.168.14.168,21,43,25.4,23.03,Connected
+Plc293,Allen Bradley,Controllogix,V4.9,10.179.170.219,39,16,61.7,23.28,Disconnected
+Plc294,Allen Bradley,Nx1P2,V4.2,172.18.60.243,61,55,56.9,23.0,Disconnected
+Plc295,Omron,Controllogix,V3.1,192.168.33.243,44,62,55.8,23.69,Connected
+Plc296,Siemens,Controllogix,V1.2,192.168.168.19,78,17,28.4,22.57,Disconnected
+Plc297,Siemens,Nx1P2,V5.2,192.168.76.56,66,73,45.6,24.0,Connected
+Plc298,Omron,S7-1500,V5.3,10.137.248.235,5,64,53.1,23.5,Connected
+Plc299,Siemens,Nx1P2,V2.8,10.25.104.141,33,32,28.0,23.68,Disconnected
+Plc300,Siemens,Nx1P2,V4.6,10.156.168.36,26,57,63.8,22.68,Connected
+Plc301,Siemens,Fx5U,V3.7,192.168.246.63,42,43,33.5,23.48,Disconnected
+Plc302,Allen Bradley,Fx5U,V5.0,10.96.70.164,64,89,58.9,22.11,Connected
+Plc303,Omron,Fx5U,V3.5,172.19.107.4,18,10,39.0,23.44,Disconnected
+Plc304,Mitsubishi,S7-1500,V1.6,172.26.167.15,67,35,28.4,23.03,Connected
+Plc305,Omron,S7-1500,V4.0,172.21.244.106,24,42,34.0,22.79,Disconnected
+Plc306,Mitsubishi,Nx1P2,V2.8,10.199.187.67,39,23,64.6,23.31,Disconnected
+Plc307,Allen Bradley,Controllogix,V3.6,10.133.25.26,5,55,60.3,23.42,Connected
+Plc308,Allen Bradley,Fx5U,V1.2,10.86.3.110,55,63,54.8,23.8,Connected
+Plc309,Allen Bradley,Nx1P2,V3.1,192.168.151.11,58,72,47.0,23.6,Connected
+Plc310,Mitsubishi,Nx1P2,V5.6,192.168.152.67,21,24,63.3,23.59,Connected
+Plc311,Allen Bradley,Fx5U,V5.0,172.18.182.67,92,40,27.1,23.66,Disconnected
+Plc312,Siemens,Nx1P2,V4.4,10.235.144.185,41,72,28.3,22.86,Connected
+Plc313,Allen Bradley,Controllogix,V3.1,10.140.48.198,38,41,51.7,22.86,Disconnected
+Plc314,Siemens,Controllogix,V2.9,172.24.135.238,85,29,34.2,22.26,Connected
+Plc315,Mitsubishi,Controllogix,V2.6,10.120.6.2,7,88,33.0,23.73,Disconnected
+Plc316,Omron,Fx5U,V2.3,10.234.50.51,48,64,44.2,23.02,Connected
+Plc317,Mitsubishi,S7-1500,V3.5,192.168.176.219,40,54,53.5,22.49,Connected
+Plc318,Allen Bradley,S7-1500,V1.0,192.168.193.108,89,51,33.5,22.94,Connected
+Plc319,Omron,Controllogix,V3.7,10.161.193.139,51,52,37.2,22.19,Connected
+Plc320,Allen Bradley,Fx5U,V3.5,192.168.30.232,80,77,49.2,22.48,Disconnected
+Plc321,Allen Bradley,Nx1P2,V1.1,10.214.98.208,21,90,54.7,22.24,Connected
+Plc322,Allen Bradley,Nx1P2,V1.1,192.168.21.4,74,89,38.7,23.45,Connected
+Plc323,Allen Bradley,S7-1500,V2.3,172.28.140.205,58,80,53.5,23.78,Disconnected
+Plc324,Mitsubishi,Nx1P2,V1.6,192.168.205.95,13,71,41.8,23.86,Connected
+Plc325,Allen Bradley,Fx5U,V2.4,172.31.198.143,10,82,27.4,23.94,Connected
+Plc326,Omron,Nx1P2,V5.8,192.168.15.210,14,31,42.5,23.02,Disconnected
+Plc327,Omron,Fx5U,V2.2,192.168.109.148,5,30,47.9,23.18,Connected
+Plc328,Omron,Fx5U,V3.3,10.89.130.206,42,44,47.1,22.34,Connected
+Plc329,Allen Bradley,Fx5U,V1.2,10.4.162.2,40,27,35.8,23.58,Connected
+Plc330,Allen Bradley,S7-1500,V1.5,192.168.107.86,85,87,63.9,22.65,Disconnected
+Plc331,Allen Bradley,Nx1P2,V5.4,192.168.148.23,46,17,50.0,22.02,Disconnected
+Plc332,Allen Bradley,Fx5U,V2.4,172.16.120.17,7,78,51.3,23.74,Connected
+Plc333,Omron,Fx5U,V5.8,10.211.88.161,31,66,33.8,22.54,Disconnected
+Plc334,Allen Bradley,Nx1P2,V2.6,172.30.148.111,52,28,61.1,22.19,Connected
+Plc335,Omron,Controllogix,V2.3,10.18.195.75,77,72,62.7,22.36,Disconnected
+Plc336,Siemens,Fx5U,V2.2,172.17.143.128,55,87,32.5,22.29,Disconnected
+Plc337,Allen Bradley,Nx1P2,V4.1,192.168.110.219,72,27,54.1,23.62,Connected
+Plc338,Omron,Nx1P2,V1.1,172.20.93.131,6,15,30.3,23.54,Disconnected
+Plc339,Allen Bradley,S7-1500,V1.1,172.23.214.34,74,53,59.1,22.17,Connected
+Plc340,Omron,Nx1P2,V2.4,192.168.149.40,47,71,31.2,22.11,Disconnected
+Plc341,Siemens,S7-1500,V1.1,192.168.76.202,74,47,29.1,23.77,Disconnected
+Plc342,Allen Bradley,S7-1500,V2.0,10.147.77.18,34,64,40.4,22.71,Disconnected
+Plc343,Allen Bradley,Nx1P2,V1.7,10.103.196.207,26,24,34.0,23.91,Disconnected
+Plc344,Mitsubishi,S7-1500,V5.5,192.168.218.238,20,56,61.9,23.84,Connected
+Plc345,Allen Bradley,Controllogix,V4.8,192.168.238.30,47,86,32.3,22.85,Disconnected
+Plc346,Mitsubishi,Fx5U,V1.4,192.168.245.117,68,57,62.3,23.62,Connected
+Plc347,Siemens,Controllogix,V2.5,10.164.60.3,23,59,42.9,23.59,Disconnected
+Plc348,Siemens,S7-1500,V5.6,192.168.72.127,40,28,28.6,23.99,Connected
+Plc349,Omron,Fx5U,V3.7,192.168.100.28,59,71,52.7,22.83,Disconnected
+Plc350,Allen Bradley,Controllogix,V4.6,10.180.164.222,75,73,46.5,22.99,Connected
+Plc351,Omron,S7-1500,V5.6,192.168.228.190,72,83,56.1,23.62,Connected
+Plc352,Siemens,Controllogix,V3.0,172.31.190.115,31,12,39.5,22.95,Connected
+Plc353,Siemens,S7-1500,V3.5,10.166.205.108,22,47,43.4,23.67,Disconnected
+Plc354,Allen Bradley,Controllogix,V2.0,172.24.170.48,22,25,63.5,23.41,Disconnected
+Plc355,Siemens,Nx1P2,V3.0,172.26.139.19,94,23,51.5,22.15,Connected
+Plc356,Siemens,Controllogix,V3.2,192.168.192.187,15,41,28.1,23.14,Disconnected
+Plc357,Allen Bradley,Controllogix,V4.2,172.16.122.90,72,48,43.8,23.45,Disconnected
+Plc358,Siemens,Fx5U,V1.2,192.168.88.239,12,14,49.2,22.35,Connected
+Plc359,Siemens,Nx1P2,V4.7,10.159.114.102,75,43,61.8,23.0,Connected
+Plc360,Omron,Controllogix,V3.1,10.147.246.27,71,58,64.1,22.25,Connected
+Plc361,Omron,S7-1500,V2.6,10.101.254.151,28,81,49.2,22.15,Disconnected
+Plc362,Omron,Fx5U,V4.6,172.23.93.211,26,16,57.1,23.29,Connected
+Plc363,Mitsubishi,S7-1500,V1.1,172.25.75.207,51,87,56.2,22.67,Connected
+Plc364,Mitsubishi,Controllogix,V5.1,192.168.180.143,13,37,48.9,23.51,Disconnected
+Plc365,Allen Bradley,Controllogix,V1.3,172.25.151.170,39,20,64.1,23.13,Disconnected
+Plc366,Siemens,S7-1500,V3.1,10.60.91.146,44,11,64.2,23.5,Disconnected
+Plc367,Allen Bradley,Fx5U,V4.5,10.142.192.65,21,22,38.3,23.79,Connected
+Plc368,Allen Bradley,S7-1500,V5.6,172.28.204.205,66,85,59.8,22.07,Connected
+Plc369,Allen Bradley,Nx1P2,V1.1,10.111.173.201,34,37,57.3,23.31,Connected
+Plc370,Mitsubishi,Nx1P2,V2.5,172.16.79.202,42,56,49.9,23.88,Connected
+Plc371,Omron,Controllogix,V2.9,10.35.121.113,82,19,63.3,23.13,Disconnected
+Plc372,Siemens,S7-1500,V2.4,10.201.187.197,75,21,45.0,22.91,Connected
+Plc373,Mitsubishi,Controllogix,V1.4,192.168.189.155,78,56,39.1,22.14,Disconnected
+Plc374,Mitsubishi,Nx1P2,V3.7,192.168.86.174,88,27,62.6,23.94,Disconnected
+Plc375,Siemens,Fx5U,V3.6,192.168.55.210,57,89,61.7,22.26,Disconnected
+Plc376,Mitsubishi,Fx5U,V1.6,10.78.220.23,69,67,35.5,23.75,Connected
+Plc377,Siemens,Controllogix,V5.0,172.21.13.140,24,23,36.6,22.32,Disconnected
+Plc378,Siemens,Controllogix,V4.7,192.168.232.171,90,21,39.0,22.94,Disconnected
+Plc379,Siemens,S7-1500,V2.1,172.16.180.231,55,65,33.0,22.66,Disconnected
+Plc380,Mitsubishi,Nx1P2,V2.7,192.168.79.18,19,45,43.2,23.09,Disconnected
+Plc381,Allen Bradley,Controllogix,V3.9,172.23.211.21,9,86,56.0,22.12,Disconnected
+Plc382,Omron,Nx1P2,V2.0,10.49.94.205,32,12,63.1,23.37,Disconnected
+Plc383,Mitsubishi,Controllogix,V1.2,192.168.157.143,13,45,41.2,22.6,Disconnected
+Plc384,Omron,Controllogix,V3.2,172.24.3.174,11,21,60.8,22.86,Disconnected
+Plc385,Allen Bradley,Controllogix,V3.6,192.168.215.122,66,70,46.4,23.57,Disconnected
+Plc386,Mitsubishi,Nx1P2,V1.8,10.130.114.142,81,35,28.1,23.34,Connected
+Plc387,Mitsubishi,Fx5U,V1.2,192.168.207.149,63,28,45.0,22.63,Disconnected
+Plc388,Mitsubishi,S7-1500,V4.2,172.22.6.10,86,67,50.6,23.16,Connected
+Plc389,Allen Bradley,Controllogix,V4.8,172.22.143.175,26,86,40.1,22.7,Connected
+Plc390,Siemens,Fx5U,V3.0,192.168.32.146,43,49,45.1,23.74,Disconnected
+Plc391,Omron,Nx1P2,V4.5,192.168.238.156,50,79,42.0,23.95,Disconnected
+Plc392,Siemens,Controllogix,V4.6,192.168.191.147,52,32,47.1,22.33,Disconnected
+Plc393,Omron,Fx5U,V4.4,172.29.20.209,94,89,62.5,23.81,Connected
+Plc394,Siemens,S7-1500,V1.0,192.168.137.177,83,62,29.1,23.5,Connected
+Plc395,Omron,S7-1500,V3.6,192.168.73.190,32,38,56.1,23.1,Connected
+Plc396,Allen Bradley,Nx1P2,V1.5,192.168.44.36,64,62,61.3,23.29,Disconnected
+Plc397,Siemens,Fx5U,V2.8,10.84.21.39,41,44,60.2,22.53,Disconnected
+Plc398,Allen Bradley,S7-1500,V4.0,10.208.82.207,6,13,31.1,22.75,Disconnected
+Plc399,Mitsubishi,Controllogix,V5.6,10.153.8.241,35,81,63.9,22.39,Disconnected
+Plc400,Siemens,Nx1P2,V2.6,192.168.4.254,27,61,61.2,23.03,Disconnected
+Plc401,Allen Bradley,S7-1500,V2.8,10.46.73.105,20,90,48.1,22.78,Disconnected
+Plc402,Allen Bradley,Fx5U,V2.1,172.18.197.37,16,13,42.5,23.26,Connected
+Plc403,Siemens,S7-1500,V5.6,192.168.186.14,8,26,64.3,23.27,Disconnected
+Plc404,Allen Bradley,Controllogix,V2.4,192.168.20.143,29,78,58.6,23.45,Disconnected
+Plc405,Mitsubishi,S7-1500,V3.1,172.26.4.40,23,90,25.9,23.97,Connected
+Plc406,Siemens,Nx1P2,V5.1,10.173.230.217,18,28,36.3,23.79,Connected
+Plc407,Siemens,Nx1P2,V3.3,192.168.113.22,55,22,44.6,22.04,Connected
+Plc408,Omron,S7-1500,V2.6,192.168.176.159,53,50,50.3,22.9,Connected
+Plc409,Allen Bradley,Fx5U,V1.2,10.187.252.179,89,82,50.2,23.71,Connected
+Plc410,Mitsubishi,Fx5U,V4.9,10.188.81.244,81,79,25.2,23.04,Disconnected
+Plc411,Siemens,Controllogix,V5.0,192.168.0.151,73,12,45.7,23.52,Connected
+Plc412,Mitsubishi,S7-1500,V2.0,10.225.240.90,46,27,33.8,23.46,Connected
+Plc413,Mitsubishi,Fx5U,V4.3,10.176.196.183,16,54,53.3,23.3,Disconnected
+Plc414,Omron,Nx1P2,V5.6,172.30.207.66,29,42,31.9,23.37,Disconnected
+Plc415,Omron,S7-1500,V5.9,192.168.1.187,44,31,56.8,23.91,Disconnected
+Plc416,Omron,Nx1P2,V4.9,192.168.34.138,39,50,49.9,23.21,Disconnected
+Plc417,Allen Bradley,Fx5U,V3.1,192.168.83.0,62,31,60.6,23.92,Disconnected
+Plc418,Omron,Fx5U,V5.8,10.167.18.217,50,60,26.2,22.36,Disconnected
+Plc419,Omron,Controllogix,V3.3,172.17.225.125,14,37,51.3,22.74,Disconnected
+Plc420,Siemens,S7-1500,V3.0,192.168.90.237,47,37,43.6,23.59,Connected
+Plc421,Siemens,Nx1P2,V3.9,10.62.7.114,32,77,33.7,23.12,Connected
+Plc422,Omron,Nx1P2,V3.5,172.17.238.166,30,35,27.0,22.99,Connected
+Plc423,Mitsubishi,Nx1P2,V1.1,10.160.155.209,62,31,49.1,23.18,Connected
+Plc424,Siemens,Fx5U,V1.9,172.27.250.93,5,69,36.4,23.68,Disconnected
+Plc425,Siemens,S7-1500,V3.0,192.168.148.39,13,70,28.8,23.61,Disconnected
+Plc426,Mitsubishi,Fx5U,V3.6,192.168.113.42,15,81,56.0,22.99,Connected
+Plc427,Omron,Fx5U,V4.7,10.51.146.34,87,25,58.7,23.88,Connected
+Plc428,Siemens,Controllogix,V1.0,192.168.1.141,22,23,64.7,23.72,Disconnected
+Plc429,Allen Bradley,Controllogix,V1.3,192.168.103.254,52,78,64.6,23.87,Connected
+Plc430,Mitsubishi,S7-1500,V1.0,10.108.214.136,43,19,35.5,23.38,Disconnected
+Plc431,Mitsubishi,Controllogix,V2.9,172.23.130.50,63,25,30.1,23.72,Disconnected
+Plc432,Omron,S7-1500,V5.8,172.27.119.204,35,83,44.1,22.98,Disconnected
+Plc433,Mitsubishi,Nx1P2,V2.1,192.168.147.138,38,47,53.5,22.71,Connected
+Plc434,Allen Bradley,S7-1500,V1.7,10.162.55.248,12,37,25.5,22.43,Disconnected
+Plc435,Allen Bradley,Nx1P2,V1.5,192.168.254.173,31,85,55.5,23.03,Disconnected
+Plc436,Mitsubishi,Nx1P2,V2.8,192.168.2.138,18,26,33.8,22.73,Disconnected
+Plc437,Allen Bradley,Nx1P2,V2.1,10.77.108.161,40,64,31.6,22.61,Connected
+Plc438,Allen Bradley,Nx1P2,V1.1,192.168.213.213,35,12,60.8,22.37,Connected
+Plc439,Omron,Nx1P2,V3.4,10.191.160.54,20,80,28.4,22.86,Connected
+Plc440,Omron,Nx1P2,V5.5,10.53.133.142,11,66,35.9,22.2,Disconnected
+Plc441,Omron,Controllogix,V3.3,172.19.101.97,56,32,48.8,23.06,Disconnected
+Plc442,Omron,S7-1500,V1.3,10.71.20.170,19,38,29.6,23.79,Disconnected
+Plc443,Allen Bradley,S7-1500,V5.1,172.18.141.78,40,38,60.3,23.4,Disconnected
+Plc444,Omron,Nx1P2,V1.3,10.24.24.121,93,44,44.8,22.34,Connected
+Plc445,Mitsubishi,Fx5U,V5.4,192.168.174.180,5,22,32.4,23.82,Disconnected
+Plc446,Mitsubishi,Controllogix,V2.5,10.150.172.203,92,18,31.7,22.66,Disconnected
+Plc447,Allen Bradley,S7-1500,V4.6,10.249.237.160,47,12,32.1,22.53,Connected
+Plc448,Allen Bradley,S7-1500,V5.5,192.168.252.17,65,84,25.0,23.75,Disconnected
+Plc449,Siemens,S7-1500,V1.9,10.223.12.223,92,47,58.4,23.05,Connected
+Plc450,Allen Bradley,S7-1500,V1.4,10.184.86.191,47,67,44.6,22.7,Disconnected
+Plc451,Omron,Fx5U,V3.7,10.120.204.38,6,55,37.0,22.67,Disconnected
+Plc452,Siemens,Fx5U,V5.0,192.168.98.188,23,62,59.3,23.32,Connected
+Plc453,Mitsubishi,Nx1P2,V1.3,192.168.159.65,78,65,39.4,23.49,Connected
+Plc454,Omron,S7-1500,V3.8,192.168.168.197,62,77,32.0,23.82,Disconnected
+Plc455,Mitsubishi,Nx1P2,V5.6,192.168.224.230,40,49,32.6,23.16,Disconnected
+Plc456,Siemens,Nx1P2,V4.9,172.25.123.40,49,46,29.4,22.02,Connected
+Plc457,Omron,Controllogix,V5.4,192.168.34.15,84,81,51.6,22.61,Disconnected
+Plc458,Siemens,Fx5U,V1.7,192.168.171.111,10,37,36.3,23.19,Connected
+Plc459,Omron,Fx5U,V1.6,192.168.255.89,50,10,27.0,22.28,Disconnected
+Plc460,Allen Bradley,S7-1500,V3.2,192.168.123.173,30,65,48.4,22.16,Connected
+Plc461,Siemens,Nx1P2,V3.3,10.132.125.201,91,59,41.9,23.93,Connected
+Plc462,Mitsubishi,Fx5U,V5.4,10.145.101.60,27,82,42.4,23.75,Connected
+Plc463,Allen Bradley,Fx5U,V2.6,172.27.132.59,75,35,37.0,22.17,Disconnected
+Plc464,Allen Bradley,Nx1P2,V4.1,10.234.25.189,22,77,42.7,22.63,Disconnected
+Plc465,Omron,Fx5U,V4.7,192.168.45.39,58,62,43.5,23.83,Connected
+Plc466,Omron,S7-1500,V2.9,192.168.88.94,43,41,48.2,22.75,Disconnected
+Plc467,Siemens,Nx1P2,V2.6,10.216.1.205,90,10,43.5,23.53,Disconnected
+Plc468,Siemens,S7-1500,V1.4,172.16.176.99,88,23,38.3,22.19,Disconnected
+Plc469,Omron,Fx5U,V1.1,10.14.80.172,79,75,54.6,22.11,Connected
+Plc470,Allen Bradley,Nx1P2,V2.3,192.168.5.253,91,29,37.0,22.62,Connected
+Plc471,Omron,Controllogix,V1.1,10.225.17.40,5,29,49.2,22.24,Connected
+Plc472,Allen Bradley,Controllogix,V1.7,172.25.139.250,8,74,42.8,22.11,Connected
+Plc473,Mitsubishi,Nx1P2,V4.2,172.17.116.167,35,79,35.4,23.23,Disconnected
+Plc474,Siemens,Nx1P2,V2.0,192.168.187.25,28,28,57.7,23.31,Connected
+Plc475,Allen Bradley,Nx1P2,V4.4,172.23.96.47,42,22,63.4,22.99,Disconnected
+Plc476,Omron,Nx1P2,V1.7,192.168.3.153,58,64,30.9,22.57,Connected
+Plc477,Omron,S7-1500,V5.4,10.87.65.191,9,89,42.8,23.82,Disconnected
+Plc478,Allen Bradley,Nx1P2,V4.4,192.168.139.37,6,30,39.3,23.71,Connected
+Plc479,Mitsubishi,Nx1P2,V5.1,172.28.248.29,27,29,39.1,23.44,Disconnected
+Plc480,Omron,Controllogix,V3.4,172.24.11.60,55,18,61.6,23.29,Disconnected
+Plc481,Omron,Controllogix,V5.8,10.97.80.56,89,77,35.4,23.4,Disconnected
+Plc482,Omron,S7-1500,V1.0,192.168.234.57,25,39,28.9,22.21,Disconnected
+Plc483,Mitsubishi,Controllogix,V2.1,10.165.238.24,27,59,55.2,22.84,Connected
+Plc484,Siemens,Fx5U,V1.0,172.24.153.43,14,66,55.5,23.21,Connected
+Plc485,Allen Bradley,Fx5U,V1.7,10.222.163.21,53,27,64.6,23.15,Connected
+Plc486,Allen Bradley,Fx5U,V4.7,172.30.174.33,91,46,34.0,23.48,Disconnected
+Plc487,Allen Bradley,S7-1500,V5.0,192.168.222.154,85,22,33.1,23.62,Connected
+Plc488,Mitsubishi,Nx1P2,V5.8,172.21.105.144,14,53,32.4,23.46,Disconnected
+Plc489,Allen Bradley,Controllogix,V5.7,192.168.181.149,69,55,39.3,23.8,Connected
+Plc490,Siemens,Nx1P2,V4.6,192.168.198.29,14,82,28.1,23.56,Disconnected
+Plc491,Siemens,S7-1500,V4.3,192.168.99.84,11,86,46.6,22.05,Disconnected
+Plc492,Mitsubishi,Nx1P2,V3.1,10.231.48.204,25,46,28.0,23.15,Disconnected
+Plc493,Omron,S7-1500,V5.1,192.168.153.175,79,70,62.5,23.97,Connected
+Plc494,Siemens,Fx5U,V4.4,192.168.115.164,30,52,60.5,22.12,Connected
+Plc495,Mitsubishi,S7-1500,V2.7,10.23.57.223,14,82,61.2,23.41,Connected
+Plc496,Mitsubishi,S7-1500,V4.9,10.14.247.48,83,20,60.5,22.96,Connected
+Plc497,Mitsubishi,S7-1500,V1.0,10.29.110.29,68,74,34.0,22.7,Disconnected
+Plc498,Mitsubishi,Controllogix,V1.0,192.168.58.6,8,35,46.4,23.72,Connected
+Plc499,Omron,S7-1500,V4.6,172.26.132.230,94,26,42.2,22.85,Connected
+Plc500,Siemens,Nx1P2,V1.9,192.168.127.254,52,55,32.7,22.87,Connected

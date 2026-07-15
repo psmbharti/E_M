@@ -1,0 +1,81 @@
+USE IndustrialAutomationDB;
+
+LOAD DATA INFILE
+'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/automation_systems_clean.csv'
+INTO TABLE Automation_Systems
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE
+'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/plc_devices_clean.csv'
+INTO TABLE PLC_Devices
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE
+'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/scada_logs_clean.csv'
+INTO TABLE SCADA_Logs
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE
+'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/robots_clean.csv'
+INTO TABLE Robots
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE
+'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/sensors_clean.csv'
+INTO TABLE Sensors
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE
+'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/alarms_clean.csv'
+INTO TABLE Alarms
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE
+'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/maintenance_clean.csv'
+INTO TABLE Maintenance
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE
+'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/projects_clean.csv'
+INTO TABLE Projects
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE
+'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/compliance_clean.csv'
+INTO TABLE Compliance
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA INFILE
+'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/operators_clean.csv'
+INTO TABLE Operators
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;

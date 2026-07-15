@@ -1,0 +1,501 @@
+Maintenance_ID,System_ID,Issue,Priority,Assigned_Engineer,Status,Repair_Time,Cost,Completion_Date
+Mt0001,Sys0296,Plc Failure,High,Joseph Lee,Completed,22,3602.58,2026-06-14
+Mt0002,Sys0084,Plc Failure,High,Nicole Simmons,Completed,18,3053.36,2026-03-04
+Mt0003,Sys0340,Robot Calibration,Medium,Mason Flores,Completed,21,1615.08,2026-04-08
+Mt0004,Sys0142,Robot Calibration,High,Karen Lee,In Progress,20,3676.15,2026-02-04
+Mt0005,Sys0299,Robot Calibration,Medium,Joel Wilson,Completed,18,4572.03,2026-06-21
+Mt0006,Sys0190,Motor Repair,Medium,Michael Lopez,In Progress,23,2940.87,2026-06-02
+Mt0007,Sys0387,Sensor Replacement,High,Frank Miller,In Progress,4,4244.42,2026-06-23
+Mt0008,Sys0027,Sensor Replacement,Low,David Swanson,Completed,15,3776.92,2026-02-03
+Mt0009,Sys0237,Plc Failure,Low,Kyle Sutton,Open,17,2794.15,2026-02-13
+Mt0010,Sys0328,Motor Repair,Low,Daniel Green,Open,1,4645.91,2026-03-09
+Mt0011,Sys0385,Robot Calibration,Medium,Andrew Buckley,Open,4,3991.56,2026-05-21
+Mt0012,Sys0407,Sensor Replacement,Medium,Michael Carrillo Phd,Open,6,2710.75,2026-02-11
+Mt0013,Sys0201,Plc Failure,Low,Nicole Parker,Completed,24,1244.66,2026-06-18
+Mt0014,Sys0016,Sensor Replacement,High,Ashley Aguilar,In Progress,11,3809.53,2026-06-09
+Mt0015,Sys0435,Plc Failure,Low,Lauren Dunn,In Progress,8,3126.82,2026-04-30
+Mt0016,Sys0252,Plc Failure,Medium,Robert Perkins,Open,19,254.51,2026-04-21
+Mt0017,Sys0421,Plc Failure,High,Steven Barajas,In Progress,22,4601.22,2026-07-04
+Mt0018,Sys0495,Sensor Replacement,Low,Brenda Benjamin,Open,15,2970.04,2026-05-20
+Mt0019,Sys0190,Robot Calibration,Low,Michele Robles,In Progress,14,4638.14,2026-03-03
+Mt0020,Sys0300,Sensor Replacement,Low,Tyrone Thomas,Open,3,3214.42,2026-03-18
+Mt0021,Sys0337,Robot Calibration,High,Bailey Smith,In Progress,18,3804.12,2026-02-12
+Mt0022,Sys0387,Motor Repair,High,Danielle Oneal,Completed,22,1728.4,2026-03-28
+Mt0023,Sys0065,Motor Repair,Low,William Smith,In Progress,24,783.38,2026-05-19
+Mt0024,Sys0295,Sensor Replacement,High,Lisa Hall,Completed,1,1393.37,2026-02-01
+Mt0025,Sys0440,Sensor Replacement,High,Debra Wall,Open,10,845.13,2026-02-14
+Mt0026,Sys0444,Robot Calibration,Medium,Russell Gordon,Completed,8,3672.83,2026-06-23
+Mt0027,Sys0022,Plc Failure,High,Jasmine Fowler,In Progress,11,4166.49,2026-04-18
+Mt0028,Sys0409,Plc Failure,High,Vanessa Gutierrez,In Progress,4,405.04,2026-01-31
+Mt0029,Sys0168,Plc Failure,Low,Anthony Stone,Open,7,3630.24,2026-05-18
+Mt0030,Sys0106,Motor Repair,Low,Elizabeth Strickland,Open,23,4016.36,2026-06-21
+Mt0031,Sys0272,Motor Repair,Low,Megan Phillips,Open,13,871.33,2026-01-29
+Mt0032,Sys0226,Plc Failure,Low,Teresa Owens Dds,In Progress,12,2646.35,2026-04-01
+Mt0033,Sys0307,Motor Repair,High,Craig Robinson,Completed,7,1895.5,2026-04-09
+Mt0034,Sys0409,Plc Failure,High,Jeffrey Woods,Completed,21,1802.54,2026-02-04
+Mt0035,Sys0165,Motor Repair,Low,Benjamin Johnson,Open,21,4787.01,2026-03-29
+Mt0036,Sys0231,Sensor Replacement,Low,Lisa Flores,In Progress,11,4331.72,2026-05-09
+Mt0037,Sys0421,Motor Repair,Low,Elizabeth Gonzalez,In Progress,16,2926.88,2026-03-19
+Mt0038,Sys0183,Robot Calibration,Low,Jessica Bowman,Completed,13,1592.85,2026-02-08
+Mt0039,Sys0202,Plc Failure,High,Mariah Miller,Completed,17,4572.87,2026-05-24
+Mt0040,Sys0242,Motor Repair,Low,Daniel Campbell,Open,1,4305.25,2026-06-06
+Mt0041,Sys0279,Motor Repair,High,Maria Fritz,Open,14,222.49,2026-02-19
+Mt0042,Sys0469,Sensor Replacement,Medium,Kevin Harris,Completed,17,594.59,2026-04-01
+Mt0043,Sys0414,Robot Calibration,Medium,Monica Erickson,Completed,23,3478.2,2026-05-19
+Mt0044,Sys0040,Plc Failure,Low,Travis Wilson,In Progress,23,2416.77,2026-06-17
+Mt0045,Sys0486,Robot Calibration,High,Victoria Moreno,Completed,11,2769.98,2026-03-15
+Mt0046,Sys0419,Robot Calibration,Medium,Philip Turner,Open,2,4881.5,2026-03-15
+Mt0047,Sys0494,Plc Failure,Low,Jennifer Little,Completed,22,2889.04,2026-06-29
+Mt0048,Sys0001,Sensor Replacement,Medium,Bethany Castro,Completed,1,1467.48,2026-06-22
+Mt0049,Sys0250,Motor Repair,Low,Mr. Casey Wise,Open,5,4681.41,2026-03-23
+Mt0050,Sys0261,Plc Failure,Medium,Caroline Wilson,In Progress,9,3446.87,2026-05-07
+Mt0051,Sys0233,Plc Failure,High,Kenneth Baker,In Progress,8,3041.49,2026-06-09
+Mt0052,Sys0407,Sensor Replacement,Low,Jared Bryan,In Progress,14,2960.64,2026-05-12
+Mt0053,Sys0023,Motor Repair,Medium,Richard Wells,Open,9,3536.83,2026-03-09
+Mt0054,Sys0441,Plc Failure,High,Ashley Henderson,Completed,6,2627.15,2026-02-17
+Mt0055,Sys0391,Robot Calibration,High,Jeffrey Huff,In Progress,15,3873.25,2026-03-14
+Mt0056,Sys0447,Robot Calibration,Medium,Kathy Hardy,Completed,23,1338.22,2026-06-29
+Mt0057,Sys0426,Robot Calibration,High,Mark Calderon,In Progress,15,851.77,2026-05-30
+Mt0058,Sys0252,Plc Failure,Medium,Christy Brown,Open,7,302.11,2026-06-29
+Mt0059,Sys0496,Motor Repair,High,Cody Nunez,In Progress,4,3986.41,2026-07-03
+Mt0060,Sys0388,Motor Repair,Medium,Anthony Walker,In Progress,2,1174.86,2026-05-13
+Mt0061,Sys0485,Sensor Replacement,High,Jane Brown,In Progress,17,4525.5,2026-02-14
+Mt0062,Sys0260,Motor Repair,Low,Melissa Lopez,In Progress,16,2327.3,2026-05-27
+Mt0063,Sys0383,Robot Calibration,High,Sarah Schultz,Completed,24,1323.37,2026-03-27
+Mt0064,Sys0208,Robot Calibration,Medium,Lori Cunningham,Open,1,4181.12,2026-07-07
+Mt0065,Sys0049,Sensor Replacement,High,Kelly Clark,Completed,20,259.79,2026-03-29
+Mt0066,Sys0468,Plc Failure,Medium,Tracy Grant,Completed,17,4164.34,2026-07-02
+Mt0067,Sys0448,Motor Repair,Low,Tyler Weber,Completed,18,813.04,2026-06-26
+Mt0068,Sys0069,Robot Calibration,Medium,Kelsey Weiss,Completed,2,4634.38,2026-01-31
+Mt0069,Sys0035,Sensor Replacement,Low,Bryan Martin,Completed,20,367.28,2026-04-05
+Mt0070,Sys0335,Robot Calibration,Medium,Gabriel Munoz,Open,5,235.15,2026-05-12
+Mt0071,Sys0389,Robot Calibration,Low,Carl Rodriguez,Completed,2,3594.93,2026-04-02
+Mt0072,Sys0254,Robot Calibration,Low,Tommy Moore,In Progress,7,965.89,2026-05-26
+Mt0073,Sys0191,Sensor Replacement,High,Harold Crawford,In Progress,3,485.59,2026-05-14
+Mt0074,Sys0248,Robot Calibration,Low,Jeremy Rocha,In Progress,5,892.15,2026-04-05
+Mt0075,Sys0142,Motor Repair,Low,Angie Yang,In Progress,24,3729.82,2026-05-15
+Mt0076,Sys0244,Sensor Replacement,High,Elizabeth Mccormick,Open,9,4354.64,2026-06-04
+Mt0077,Sys0295,Motor Repair,Low,Donald Gray,Completed,6,1991.33,2026-05-26
+Mt0078,Sys0254,Robot Calibration,Low,Tara Tucker,Completed,10,267.15,2026-03-10
+Mt0079,Sys0427,Sensor Replacement,Low,Brandon Carter,Open,4,717.84,2026-01-21
+Mt0080,Sys0425,Plc Failure,Low,Jesus Houston,Completed,10,2036.35,2026-04-29
+Mt0081,Sys0221,Plc Failure,High,Jessica Martin,Open,7,441.25,2026-06-27
+Mt0082,Sys0007,Sensor Replacement,High,Beverly Andrews,Open,15,3533.4,2026-06-26
+Mt0083,Sys0087,Plc Failure,Low,Holly Murray,Completed,2,3053.87,2026-06-16
+Mt0084,Sys0400,Sensor Replacement,Medium,Derek Joseph,Open,24,850.6,2026-03-01
+Mt0085,Sys0293,Robot Calibration,Low,Andrea Wilson,Open,18,3000.28,2026-02-24
+Mt0086,Sys0006,Robot Calibration,Medium,Reginald Brady,Open,20,1702.34,2026-02-26
+Mt0087,Sys0031,Plc Failure,Medium,Peter Contreras,Completed,5,1800.98,2026-01-15
+Mt0088,Sys0409,Plc Failure,Low,Deborah Thomas,Open,7,3153.61,2026-04-08
+Mt0089,Sys0046,Sensor Replacement,Low,Edward Camacho,In Progress,15,1023.99,2026-02-02
+Mt0090,Sys0048,Plc Failure,Low,David Whitaker,In Progress,13,2918.58,2026-01-29
+Mt0091,Sys0381,Motor Repair,Low,Lawrence Cross,In Progress,13,2578.95,2026-06-19
+Mt0092,Sys0096,Plc Failure,Low,Michael Martin,Open,11,4376.67,2026-02-07
+Mt0093,Sys0364,Robot Calibration,High,Michael Fox,Open,4,4994.21,2026-06-17
+Mt0094,Sys0057,Sensor Replacement,High,Jacob Tucker,Completed,16,4204.33,2026-04-26
+Mt0095,Sys0233,Robot Calibration,Medium,Donna Bauer,Completed,14,458.21,2026-02-18
+Mt0096,Sys0075,Sensor Replacement,Medium,Joseph Ramirez,Open,5,1081.6,2026-01-25
+Mt0097,Sys0074,Plc Failure,High,Sarah Bell,Open,1,891.54,2026-05-07
+Mt0098,Sys0093,Sensor Replacement,High,Molly Rogers,Open,3,881.2,2026-01-23
+Mt0099,Sys0376,Plc Failure,High,William Bates,Open,10,3761.16,2026-03-04
+Mt0100,Sys0229,Motor Repair,Low,Troy Garrison,Open,20,308.5,2026-02-13
+Mt0101,Sys0346,Sensor Replacement,Medium,Michael James,In Progress,21,1894.99,2026-07-01
+Mt0102,Sys0049,Sensor Replacement,Low,Bradley Wilkins,Open,14,578.73,2026-06-25
+Mt0103,Sys0239,Robot Calibration,High,Amanda Blevins,In Progress,1,4858.45,2026-03-22
+Mt0104,Sys0347,Sensor Replacement,Medium,Geoffrey Thomas,Open,23,1923.63,2026-02-09
+Mt0105,Sys0277,Robot Calibration,Low,Michelle Wilson,Open,2,830.78,2026-03-17
+Mt0106,Sys0055,Plc Failure,Medium,Nicholas Griffin,In Progress,19,4626.5,2026-06-17
+Mt0107,Sys0047,Sensor Replacement,Medium,Kenneth Martinez,In Progress,13,4968.17,2026-02-01
+Mt0108,Sys0360,Robot Calibration,High,Patricia Washington,In Progress,18,4447.5,2026-05-08
+Mt0109,Sys0131,Motor Repair,High,Devin Greer,Open,17,3437.43,2026-07-05
+Mt0110,Sys0065,Sensor Replacement,Medium,Melissa Stout,Open,2,4557.7,2026-07-07
+Mt0111,Sys0257,Robot Calibration,Medium,Meghan Bridges,Open,9,313.45,2026-06-28
+Mt0112,Sys0384,Sensor Replacement,Medium,Andrew Miller,In Progress,18,4886.82,2026-03-04
+Mt0113,Sys0290,Plc Failure,High,Hunter Ramirez,Completed,16,1599.56,2026-04-24
+Mt0114,Sys0434,Sensor Replacement,Low,Adam Jackson,Open,10,409.34,2026-06-06
+Mt0115,Sys0207,Sensor Replacement,Medium,Steven Ruiz,In Progress,24,3201.57,2026-03-22
+Mt0116,Sys0427,Sensor Replacement,Medium,Sheila Hughes,Completed,9,2793.6,2026-03-11
+Mt0117,Sys0262,Motor Repair,Medium,Debra Vance,Open,2,2620.01,2026-05-25
+Mt0118,Sys0061,Sensor Replacement,High,Carolyn Chen,In Progress,14,1729.09,2026-01-31
+Mt0119,Sys0222,Sensor Replacement,Low,Cynthia Miller,In Progress,1,1007.23,2026-03-08
+Mt0120,Sys0086,Sensor Replacement,High,Destiny Lopez,In Progress,16,3494.33,2026-03-10
+Mt0121,Sys0381,Sensor Replacement,Low,Andrew Randall,Open,11,207.15,2026-02-09
+Mt0122,Sys0107,Sensor Replacement,Low,Heather Vargas,Completed,1,287.23,2026-04-10
+Mt0123,Sys0266,Motor Repair,Low,Gregory Phillips,Open,24,3628.72,2026-04-21
+Mt0124,Sys0207,Motor Repair,Low,Kevin Carter,In Progress,4,3138.49,2026-02-13
+Mt0125,Sys0002,Plc Failure,Low,Jared Reyes,Open,4,2149.73,2026-04-06
+Mt0126,Sys0002,Plc Failure,High,Ian Horton,Completed,13,2925.04,2026-03-24
+Mt0127,Sys0380,Sensor Replacement,Low,Sherri Thomas,Completed,22,2573.47,2026-03-30
+Mt0128,Sys0479,Motor Repair,High,Troy Mckenzie,In Progress,22,2753.28,2026-05-02
+Mt0129,Sys0396,Motor Repair,High,Maria Jones,In Progress,20,414.7,2026-07-04
+Mt0130,Sys0005,Robot Calibration,Medium,Krista Cox,In Progress,3,4725.45,2026-04-20
+Mt0131,Sys0444,Motor Repair,Medium,Ronald Avila,Open,13,1375.73,2026-05-26
+Mt0132,Sys0026,Plc Failure,High,Shawn Craig,In Progress,17,1531.18,2026-06-27
+Mt0133,Sys0113,Sensor Replacement,Medium,Richard White,Completed,4,3670.46,2026-06-15
+Mt0134,Sys0126,Motor Repair,Low,Nicholas Griffin,Completed,17,4435.43,2026-06-01
+Mt0135,Sys0163,Plc Failure,High,Courtney Marsh,In Progress,18,3299.66,2026-04-01
+Mt0136,Sys0356,Robot Calibration,Medium,Kathleen Davis,In Progress,5,3844.3,2026-04-24
+Mt0137,Sys0493,Robot Calibration,Low,Michael Martin,Completed,7,3252.43,2026-02-21
+Mt0138,Sys0413,Plc Failure,Low,Paula Wilson,Open,7,1754.92,2026-01-25
+Mt0139,Sys0123,Robot Calibration,Medium,Mark Vargas,Open,1,2343.09,2026-07-02
+Mt0140,Sys0193,Robot Calibration,Medium,Kaitlyn Smith,In Progress,23,1512.02,2026-01-19
+Mt0141,Sys0208,Motor Repair,Medium,Stephanie Khan Phd,Completed,23,457.61,2026-03-10
+Mt0142,Sys0030,Sensor Replacement,Medium,Terry Lee,In Progress,24,276.95,2026-03-17
+Mt0143,Sys0072,Plc Failure,High,Lorraine Jarvis,In Progress,5,4619.12,2026-05-22
+Mt0144,Sys0335,Sensor Replacement,High,Robin Santos,Open,20,4627.72,2026-04-27
+Mt0145,Sys0148,Plc Failure,Low,Allen Rodriguez,Open,5,361.67,2026-06-17
+Mt0146,Sys0178,Plc Failure,Medium,Michael King,Open,23,1758.86,2026-02-17
+Mt0147,Sys0070,Motor Repair,Low,Meghan Rivera,Open,21,4860.51,2026-05-30
+Mt0148,Sys0211,Robot Calibration,Low,Lance Patterson,Completed,12,4979.58,2026-05-16
+Mt0149,Sys0009,Plc Failure,Medium,Heather Smith,Completed,6,3174.82,2026-02-04
+Mt0150,Sys0396,Sensor Replacement,High,Lori Durham,In Progress,11,714.48,2026-02-22
+Mt0151,Sys0060,Motor Repair,Low,Jonathan Walter,In Progress,6,3974.25,2026-02-14
+Mt0152,Sys0499,Robot Calibration,Medium,Emily Lopez,In Progress,1,1576.95,2026-06-30
+Mt0153,Sys0444,Motor Repair,Low,Tara Carney,Completed,2,2430.31,2026-06-05
+Mt0154,Sys0089,Sensor Replacement,Low,Victoria Bush,Open,14,2160.31,2026-03-15
+Mt0155,Sys0028,Plc Failure,Low,Karen Swanson,In Progress,8,2707.38,2026-03-11
+Mt0156,Sys0235,Plc Failure,Low,Dana Andersen,Completed,24,4419.1,2026-07-13
+Mt0157,Sys0465,Sensor Replacement,Low,Aaron Moore,Completed,19,3728.04,2026-06-05
+Mt0158,Sys0474,Motor Repair,Low,Melissa Schultz,Open,3,800.45,2026-07-03
+Mt0159,Sys0336,Robot Calibration,High,Jacob Lyons,In Progress,12,255.34,2026-02-07
+Mt0160,Sys0377,Motor Repair,Medium,Andrew Chen,Open,8,4787.46,2026-02-09
+Mt0161,Sys0396,Robot Calibration,Medium,Michelle Allen,Open,24,420.82,2026-07-07
+Mt0162,Sys0449,Robot Calibration,High,Tracy Mitchell,Completed,5,4896.65,2026-06-11
+Mt0163,Sys0215,Sensor Replacement,High,Jeffrey Lambert,Open,13,4161.04,2026-06-21
+Mt0164,Sys0013,Plc Failure,High,William Miller,Completed,11,1335.67,2026-02-19
+Mt0165,Sys0188,Motor Repair,High,Jennifer Hayes,In Progress,21,4918.57,2026-06-09
+Mt0166,Sys0494,Robot Calibration,Medium,Jasmine Swanson,Completed,9,1327.42,2026-05-21
+Mt0167,Sys0286,Motor Repair,Low,Katie Reynolds,Open,14,2766.84,2026-02-24
+Mt0168,Sys0084,Robot Calibration,Low,Sarah May,In Progress,22,805.84,2026-01-29
+Mt0169,Sys0235,Sensor Replacement,Medium,Sheila Harris,Open,1,2645.06,2026-04-22
+Mt0170,Sys0434,Motor Repair,High,Robert Williamson,Open,12,4673.04,2026-07-02
+Mt0171,Sys0401,Motor Repair,Low,Lisa Hampton,Completed,9,4921.11,2026-01-23
+Mt0172,Sys0490,Motor Repair,Medium,Lori Hernandez,In Progress,15,2651.06,2026-02-22
+Mt0173,Sys0433,Robot Calibration,High,Emily Medina,Open,16,2441.99,2026-03-08
+Mt0174,Sys0042,Sensor Replacement,High,Benjamin Bates,Completed,21,1196.93,2026-06-12
+Mt0175,Sys0008,Plc Failure,Medium,Alexandra Mcdaniel,Completed,17,1655.88,2026-06-20
+Mt0176,Sys0290,Motor Repair,Medium,David Alvarez,Completed,5,1329.41,2026-07-04
+Mt0177,Sys0443,Robot Calibration,Low,Cheryl Ponce,Open,2,1674.75,2026-02-02
+Mt0178,Sys0215,Motor Repair,High,Rachel Martinez,Completed,4,923.92,2026-05-03
+Mt0179,Sys0173,Motor Repair,Medium,Jennifer Hawkins,In Progress,24,3805.81,2026-06-07
+Mt0180,Sys0084,Robot Calibration,Medium,Charles Maldonado,In Progress,6,282.52,2026-04-06
+Mt0181,Sys0205,Robot Calibration,Medium,Dennis Savage,In Progress,3,3878.79,2026-06-18
+Mt0182,Sys0052,Motor Repair,Low,Kayla Stewart,In Progress,18,585.48,2026-04-15
+Mt0183,Sys0076,Motor Repair,Low,Abigail Peters,Completed,22,2259.37,2026-01-22
+Mt0184,Sys0158,Sensor Replacement,Medium,Molly Bryant,In Progress,19,3986.98,2026-05-04
+Mt0185,Sys0257,Sensor Replacement,High,Robert Lopez,Completed,17,2680.72,2026-05-12
+Mt0186,Sys0301,Motor Repair,High,Jessica Massey,Completed,13,2144.73,2026-05-27
+Mt0187,Sys0444,Plc Failure,Medium,Barbara Kline,Completed,4,4966.22,2026-06-30
+Mt0188,Sys0094,Plc Failure,Low,Crystal Jones,Open,10,1141.15,2026-03-06
+Mt0189,Sys0384,Robot Calibration,Low,Elizabeth Schmidt,In Progress,6,1386.25,2026-02-23
+Mt0190,Sys0016,Plc Failure,High,Steven Johnson,Open,2,1692.59,2026-02-22
+Mt0191,Sys0381,Motor Repair,Low,Elizabeth Thompson,Completed,16,882.93,2026-05-12
+Mt0192,Sys0366,Motor Repair,Low,Paul Stuart,Completed,7,983.15,2026-05-15
+Mt0193,Sys0358,Sensor Replacement,Low,Dr. Rachel Martinez,In Progress,15,2843.64,2026-02-19
+Mt0194,Sys0304,Plc Failure,Low,Kimberly Jones,Completed,9,355.68,2026-06-05
+Mt0195,Sys0007,Sensor Replacement,Medium,Adam Richmond,Open,4,1355.37,2026-06-04
+Mt0196,Sys0385,Motor Repair,High,Austin Howard,Completed,19,4148.65,2026-03-23
+Mt0197,Sys0391,Motor Repair,Low,Joseph Lopez,In Progress,4,4446.21,2026-01-14
+Mt0198,Sys0388,Motor Repair,Low,Ashley Sexton,Open,22,3633.39,2026-07-02
+Mt0199,Sys0385,Plc Failure,High,Angel Hernandez,In Progress,9,672.91,2026-01-19
+Mt0200,Sys0332,Robot Calibration,High,Kimberly Jones,Open,17,1777.55,2026-03-19
+Mt0201,Sys0187,Plc Failure,High,Thomas Romero,Completed,3,1188.96,2026-05-02
+Mt0202,Sys0225,Robot Calibration,Low,Thomas Ford,Open,17,995.11,2026-05-13
+Mt0203,Sys0062,Plc Failure,Medium,Caitlin Gray,Completed,18,2736.73,2026-05-01
+Mt0204,Sys0445,Motor Repair,High,Barbara Lane,In Progress,1,2464.03,2026-03-25
+Mt0205,Sys0400,Motor Repair,High,Kathryn Hardy,Completed,23,1288.15,2026-02-15
+Mt0206,Sys0058,Motor Repair,Low,Jason Decker,Open,1,2852.12,2026-04-28
+Mt0207,Sys0263,Plc Failure,High,Christopher Sanchez,Open,5,822.94,2026-04-18
+Mt0208,Sys0104,Motor Repair,Medium,Regina Anderson,Open,16,3919.49,2026-04-24
+Mt0209,Sys0275,Sensor Replacement,Medium,Kevin Bishop,Open,8,393.53,2026-02-08
+Mt0210,Sys0450,Motor Repair,High,Bradley Moody,Completed,1,1073.89,2026-06-07
+Mt0211,Sys0147,Plc Failure,High,Karen Swanson,In Progress,23,2835.4,2026-03-01
+Mt0212,Sys0402,Robot Calibration,Medium,Brooke Carter,In Progress,2,270.71,2026-07-08
+Mt0213,Sys0334,Robot Calibration,High,Cynthia Williams,Open,7,4032.33,2026-04-01
+Mt0214,Sys0070,Sensor Replacement,Medium,Stephanie Phillips,Completed,6,4857.33,2026-05-18
+Mt0215,Sys0063,Motor Repair,High,Cheryl Alvarez,Completed,13,3091.83,2026-04-21
+Mt0216,Sys0391,Motor Repair,High,Laura Hatfield,Open,15,1445.99,2026-04-07
+Mt0217,Sys0342,Motor Repair,Low,Matthew Ruiz,Open,15,3474.75,2026-03-05
+Mt0218,Sys0183,Plc Failure,Medium,Alexis Morales,In Progress,23,768.29,2026-05-05
+Mt0219,Sys0296,Robot Calibration,High,Christopher Cisneros,In Progress,5,629.32,2026-04-30
+Mt0220,Sys0029,Plc Failure,Medium,Robin Simmons,Open,5,2064.3,2026-05-26
+Mt0221,Sys0003,Motor Repair,Low,William Rivera,Completed,7,1947.1,2026-03-31
+Mt0222,Sys0482,Robot Calibration,Low,Earl Anderson,Open,7,3573.52,2026-03-22
+Mt0223,Sys0356,Plc Failure,High,Richard King,In Progress,8,2973.86,2026-04-02
+Mt0224,Sys0148,Robot Calibration,High,Jake Flynn,Completed,8,313.21,2026-02-22
+Mt0225,Sys0155,Plc Failure,High,Amy Lee,Open,20,4084.97,2026-06-22
+Mt0226,Sys0039,Plc Failure,Medium,Kaitlyn Savage,Completed,2,907.33,2026-04-29
+Mt0227,Sys0189,Plc Failure,Medium,Randy Duncan,Open,24,1950.7,2026-03-29
+Mt0228,Sys0414,Motor Repair,High,James Jones,Open,13,3621.99,2026-02-17
+Mt0229,Sys0126,Sensor Replacement,High,Jessica Roy,In Progress,11,1316.83,2026-02-28
+Mt0230,Sys0282,Plc Failure,Low,Emily Krueger,Completed,11,281.96,2026-07-04
+Mt0231,Sys0061,Robot Calibration,Medium,George Garcia,Open,9,3889.8,2026-01-27
+Mt0232,Sys0080,Motor Repair,High,Lori Escobar,In Progress,14,4306.51,2026-04-10
+Mt0233,Sys0063,Robot Calibration,Medium,Joshua Bowman,Completed,18,1817.41,2026-01-30
+Mt0234,Sys0382,Plc Failure,Low,Kevin Melendez,In Progress,3,4548.0,2026-07-01
+Mt0235,Sys0465,Motor Repair,Medium,Jennifer Richmond,Completed,5,1324.21,2026-06-19
+Mt0236,Sys0191,Motor Repair,High,Ashley Morris,Completed,11,1938.95,2026-03-09
+Mt0237,Sys0080,Motor Repair,High,Dr. Cheryl Phillips,Completed,22,4098.07,2026-02-03
+Mt0238,Sys0237,Sensor Replacement,Low,Scott Vincent,In Progress,13,290.53,2026-03-29
+Mt0239,Sys0152,Robot Calibration,Medium,Danielle Williams,In Progress,12,3904.17,2026-02-13
+Mt0240,Sys0217,Motor Repair,Medium,Christopher Johnson,Completed,2,1918.89,2026-05-02
+Mt0241,Sys0227,Plc Failure,Low,Jessica Flores,Open,7,493.5,2026-05-22
+Mt0242,Sys0257,Motor Repair,Low,James Garner,Open,13,4066.44,2026-04-27
+Mt0243,Sys0387,Motor Repair,High,Andrew Nelson,In Progress,8,2509.54,2026-05-16
+Mt0244,Sys0371,Plc Failure,Low,Nicole Morris,Completed,16,1726.64,2026-06-02
+Mt0245,Sys0117,Plc Failure,Low,Sierra Welch,Open,10,4142.42,2026-03-09
+Mt0246,Sys0431,Robot Calibration,High,Gregory James,Open,23,2403.29,2026-01-21
+Mt0247,Sys0093,Motor Repair,Low,Brandy Arnold,Completed,19,1029.24,2026-05-17
+Mt0248,Sys0133,Motor Repair,High,Christina Cox,In Progress,13,4910.07,2026-05-21
+Mt0249,Sys0458,Motor Repair,Low,Jeffery Shaffer,In Progress,17,4202.75,2026-06-06
+Mt0250,Sys0024,Motor Repair,Medium,Brenda Curtis,Open,9,853.31,2026-03-19
+Mt0251,Sys0229,Motor Repair,High,Christopher Burns,Completed,5,2495.53,2026-07-09
+Mt0252,Sys0035,Sensor Replacement,Medium,Emily Bernard,Completed,24,2832.75,2026-01-17
+Mt0253,Sys0472,Motor Repair,Medium,John Salazar,Open,23,864.14,2026-03-09
+Mt0254,Sys0310,Sensor Replacement,Low,Shannon Shelton,In Progress,14,3665.77,2026-07-05
+Mt0255,Sys0428,Motor Repair,High,Michelle Morales,Completed,14,4500.42,2026-05-06
+Mt0256,Sys0356,Plc Failure,Medium,Andrea Mclean,In Progress,17,4969.51,2026-03-27
+Mt0257,Sys0303,Sensor Replacement,Low,Mark Fitzgerald,Completed,23,1806.12,2026-02-26
+Mt0258,Sys0190,Sensor Replacement,Medium,Jorge Ramirez,Completed,12,3983.39,2026-06-18
+Mt0259,Sys0352,Sensor Replacement,Medium,Tina Harrison,Completed,19,2206.98,2026-03-26
+Mt0260,Sys0043,Robot Calibration,High,Mary Hurley,Open,14,4767.41,2026-06-22
+Mt0261,Sys0398,Plc Failure,Medium,Brandon Knox,Completed,22,3349.94,2026-02-25
+Mt0262,Sys0165,Motor Repair,Medium,Gloria Richards,Completed,24,2473.71,2026-01-26
+Mt0263,Sys0305,Motor Repair,Medium,Kristen Snyder,In Progress,11,1852.46,2026-04-25
+Mt0264,Sys0082,Motor Repair,Low,Leslie Andrade,In Progress,23,4340.74,2026-04-05
+Mt0265,Sys0124,Robot Calibration,Low,Laurie Ellis,Completed,16,1208.28,2026-07-11
+Mt0266,Sys0207,Sensor Replacement,Medium,Mrs. Hannah Brown,In Progress,7,1065.26,2026-02-26
+Mt0267,Sys0362,Sensor Replacement,Low,Anthony Ross,In Progress,5,2514.3,2026-05-25
+Mt0268,Sys0055,Plc Failure,Medium,Christopher Spencer,Open,21,4457.63,2026-05-26
+Mt0269,Sys0219,Plc Failure,Medium,Karen Stewart,Completed,14,989.03,2026-04-11
+Mt0270,Sys0400,Robot Calibration,Low,David Wallace,In Progress,18,1985.35,2026-07-03
+Mt0271,Sys0148,Robot Calibration,High,James Riggs,Open,19,2856.6,2026-02-02
+Mt0272,Sys0017,Robot Calibration,Low,Jennifer Miller,Completed,14,4785.7,2026-04-26
+Mt0273,Sys0005,Sensor Replacement,High,Amanda Anderson,Completed,6,342.02,2026-04-04
+Mt0274,Sys0093,Motor Repair,High,Veronica Snyder,In Progress,1,659.15,2026-07-07
+Mt0275,Sys0456,Robot Calibration,Low,Amber Moore,In Progress,13,1489.46,2026-01-25
+Mt0276,Sys0425,Plc Failure,Low,Jorge Hoover,Open,18,321.31,2026-06-06
+Mt0277,Sys0037,Motor Repair,Medium,Sherry Williams,Completed,7,4069.87,2026-02-12
+Mt0278,Sys0042,Motor Repair,Low,Joshua James,Open,2,4463.23,2026-05-18
+Mt0279,Sys0351,Plc Failure,Low,Felicia Lopez,Open,19,1151.77,2026-06-29
+Mt0280,Sys0095,Motor Repair,Medium,Jacqueline James,Completed,9,4600.74,2026-05-02
+Mt0281,Sys0193,Sensor Replacement,Low,Tammy Henry,Open,6,2903.37,2026-06-03
+Mt0282,Sys0401,Motor Repair,Medium,Angelica Rivera,Completed,18,225.58,2026-06-06
+Mt0283,Sys0114,Plc Failure,High,Jeremy Morgan,Open,11,1448.53,2026-05-19
+Mt0284,Sys0081,Robot Calibration,High,Danielle Mack,In Progress,20,4124.59,2026-06-29
+Mt0285,Sys0282,Robot Calibration,Low,Steven Sullivan,In Progress,20,1251.12,2026-05-01
+Mt0286,Sys0310,Sensor Replacement,Low,Jessica Franklin,Open,23,958.42,2026-02-09
+Mt0287,Sys0389,Motor Repair,Low,Christopher Richard,In Progress,3,968.31,2026-05-23
+Mt0288,Sys0294,Plc Failure,Medium,Jordan Taylor,Completed,12,3330.64,2026-03-14
+Mt0289,Sys0153,Motor Repair,Low,Catherine Williams,Completed,14,3648.93,2026-02-11
+Mt0290,Sys0232,Motor Repair,High,Maria Hernandez,Open,6,2377.36,2026-04-14
+Mt0291,Sys0086,Robot Calibration,Medium,Kimberly Fletcher,Completed,19,2548.41,2026-01-14
+Mt0292,Sys0320,Robot Calibration,Low,Tim Austin,Open,24,202.74,2026-06-19
+Mt0293,Sys0440,Motor Repair,Medium,Robert Brooks,Completed,14,3791.28,2026-06-21
+Mt0294,Sys0187,Motor Repair,Low,Ryan Garcia,Completed,2,2819.07,2026-03-28
+Mt0295,Sys0341,Plc Failure,High,Lauren Webb,Completed,20,423.0,2026-03-18
+Mt0296,Sys0096,Plc Failure,Medium,Alec Huerta,Open,8,3174.54,2026-02-06
+Mt0297,Sys0144,Robot Calibration,High,Nicholas Porter,In Progress,2,3006.95,2026-05-07
+Mt0298,Sys0089,Sensor Replacement,Medium,Ariel Contreras,Completed,8,1190.19,2026-01-31
+Mt0299,Sys0004,Sensor Replacement,Low,Jeffrey Chen,Open,3,395.54,2026-02-19
+Mt0300,Sys0415,Robot Calibration,High,Lisa Ortiz,Open,12,4296.83,2026-07-02
+Mt0301,Sys0031,Plc Failure,High,Matthew Bates,In Progress,8,4948.69,2026-02-03
+Mt0302,Sys0146,Robot Calibration,High,Robert Harris,In Progress,2,1284.97,2026-06-01
+Mt0303,Sys0208,Robot Calibration,High,Benjamin Harrison,Completed,20,1129.48,2026-06-16
+Mt0304,Sys0398,Sensor Replacement,Low,Wendy Winters,Completed,10,4279.05,2026-04-03
+Mt0305,Sys0202,Sensor Replacement,High,Paul Mcguire,Open,5,234.76,2026-02-15
+Mt0306,Sys0276,Plc Failure,Medium,Patrick Reyes,In Progress,24,3754.01,2026-01-29
+Mt0307,Sys0331,Sensor Replacement,Low,Jeffrey Jones,Completed,9,3812.76,2026-07-08
+Mt0308,Sys0047,Sensor Replacement,High,Daniel Perry,Completed,15,3944.36,2026-05-04
+Mt0309,Sys0385,Motor Repair,Medium,Elizabeth Greer,In Progress,20,3150.98,2026-02-14
+Mt0310,Sys0488,Plc Failure,Low,Deanna Lynch,Completed,8,4841.51,2026-06-05
+Mt0311,Sys0206,Sensor Replacement,Low,David Phillips Md,Open,15,1683.15,2026-06-19
+Mt0312,Sys0191,Robot Calibration,Low,Patricia Swanson,Completed,1,2042.87,2026-06-26
+Mt0313,Sys0305,Robot Calibration,High,Kenneth Mendoza,Completed,19,1175.12,2026-06-07
+Mt0314,Sys0230,Robot Calibration,High,Michele Thompson,Completed,19,835.71,2026-03-08
+Mt0315,Sys0203,Motor Repair,Low,Kevin White,In Progress,8,679.4,2026-04-29
+Mt0316,Sys0191,Sensor Replacement,High,Leslie Knox,Open,5,4731.94,2026-05-10
+Mt0317,Sys0438,Robot Calibration,Medium,Amanda Nolan,Open,5,3405.34,2026-02-15
+Mt0318,Sys0261,Motor Repair,Medium,Earl Anderson,Open,4,4507.04,2026-05-02
+Mt0319,Sys0073,Plc Failure,High,Edward Mccoy,Open,4,2353.13,2026-04-13
+Mt0320,Sys0393,Sensor Replacement,Low,Pamela Stone,Completed,19,3046.84,2026-06-28
+Mt0321,Sys0338,Robot Calibration,Medium,Brenda Martinez,Completed,9,493.21,2026-02-03
+Mt0322,Sys0086,Plc Failure,Low,Richard Hansen,Open,23,1305.3,2026-06-20
+Mt0323,Sys0170,Robot Calibration,Low,Andrea Richard,Open,4,1500.35,2026-01-31
+Mt0324,Sys0369,Sensor Replacement,Low,John Roach,In Progress,21,704.32,2026-04-02
+Mt0325,Sys0122,Plc Failure,High,Sarah Campos,Open,16,4603.16,2026-05-10
+Mt0326,Sys0237,Sensor Replacement,Medium,Dr. Timothy Gomez,Open,20,4874.36,2026-04-18
+Mt0327,Sys0192,Robot Calibration,Low,Matthew Larson,Completed,3,2608.25,2026-03-23
+Mt0328,Sys0121,Robot Calibration,High,Sean Gray,In Progress,11,3561.98,2026-05-14
+Mt0329,Sys0277,Plc Failure,High,Bradley Porter,Completed,24,4652.82,2026-01-18
+Mt0330,Sys0004,Robot Calibration,High,Valerie Hall,Open,16,398.95,2026-02-19
+Mt0331,Sys0253,Motor Repair,High,Linda Hansen,Completed,7,4427.01,2026-06-11
+Mt0332,Sys0388,Sensor Replacement,High,Paul Schwartz,In Progress,18,2263.99,2026-06-23
+Mt0333,Sys0049,Robot Calibration,High,Victoria Collins,Completed,6,1833.41,2026-03-06
+Mt0334,Sys0367,Robot Calibration,Medium,Jennifer White,Open,2,4440.42,2026-03-08
+Mt0335,Sys0171,Robot Calibration,High,Lisa Carter,In Progress,17,1122.11,2026-02-15
+Mt0336,Sys0379,Sensor Replacement,Medium,Robin Reed,In Progress,14,3610.89,2026-06-05
+Mt0337,Sys0245,Sensor Replacement,Medium,Tonya Hoover,Completed,1,3750.35,2026-02-19
+Mt0338,Sys0137,Motor Repair,Medium,Kyle Wang,Completed,22,3005.61,2026-01-23
+Mt0339,Sys0087,Robot Calibration,Medium,Laurie Allen,Completed,21,4399.5,2026-05-19
+Mt0340,Sys0378,Robot Calibration,Low,Dakota Johnson,In Progress,13,1010.11,2026-05-29
+Mt0341,Sys0082,Sensor Replacement,Low,Raven Morrow,Open,1,3823.91,2026-03-01
+Mt0342,Sys0274,Sensor Replacement,Medium,Jamie Preston Md,In Progress,22,4682.37,2026-02-12
+Mt0343,Sys0208,Sensor Replacement,Medium,Kimberly Ross,Open,6,2851.86,2026-06-02
+Mt0344,Sys0097,Robot Calibration,Low,Jason Martinez,In Progress,1,635.07,2026-04-02
+Mt0345,Sys0485,Sensor Replacement,Low,Desiree Moore,Completed,9,618.51,2026-03-01
+Mt0346,Sys0292,Sensor Replacement,High,Andrew Rose,Completed,1,3106.33,2026-05-19
+Mt0347,Sys0336,Motor Repair,Medium,Walter Kerr,Completed,23,2328.24,2026-05-23
+Mt0348,Sys0069,Motor Repair,Medium,Erika Davis,Completed,9,4609.09,2026-05-15
+Mt0349,Sys0457,Robot Calibration,Low,William Stevens,In Progress,12,2265.48,2026-03-20
+Mt0350,Sys0095,Plc Failure,Medium,Ashley Dillon,Open,21,388.82,2026-04-14
+Mt0351,Sys0368,Sensor Replacement,High,Cassandra York,Completed,2,3739.15,2026-05-28
+Mt0352,Sys0044,Sensor Replacement,Low,Laura Mendoza Md,Open,7,2785.97,2026-03-24
+Mt0353,Sys0091,Sensor Replacement,Low,Morgan Hamilton,Open,15,649.5,2026-02-07
+Mt0354,Sys0487,Sensor Replacement,Medium,Samuel Ward,Completed,23,424.53,2026-07-12
+Mt0355,Sys0495,Plc Failure,High,Tiffany Russell,Completed,15,2532.1,2026-02-01
+Mt0356,Sys0020,Robot Calibration,Medium,Don Davis,Open,13,732.31,2026-06-10
+Mt0357,Sys0351,Motor Repair,Low,Alan Martinez,Open,14,4377.48,2026-02-26
+Mt0358,Sys0201,Robot Calibration,Low,Erin Ramirez Md,In Progress,17,3623.5,2026-04-25
+Mt0359,Sys0182,Plc Failure,Low,Mrs. Laura Moore,In Progress,11,1295.69,2026-02-10
+Mt0360,Sys0089,Sensor Replacement,Medium,William Miranda Jr.,Open,3,2334.53,2026-03-11
+Mt0361,Sys0218,Sensor Replacement,Low,Sara Jimenez,In Progress,4,1186.81,2026-03-04
+Mt0362,Sys0445,Sensor Replacement,Medium,Roger Mendez,Completed,1,3285.99,2026-05-08
+Mt0363,Sys0406,Robot Calibration,Medium,Nicolas Jordan,In Progress,3,4831.99,2026-01-29
+Mt0364,Sys0154,Sensor Replacement,Low,Christine Scott,In Progress,4,2067.63,2026-02-16
+Mt0365,Sys0142,Robot Calibration,Low,David Ramirez,In Progress,7,2406.88,2026-06-04
+Mt0366,Sys0238,Motor Repair,High,Russell Olson,Open,17,1937.66,2026-03-11
+Mt0367,Sys0487,Motor Repair,Low,Michael Miller,Open,23,1200.46,2026-01-12
+Mt0368,Sys0129,Robot Calibration,Low,Lindsey Lopez,In Progress,2,4130.19,2026-02-24
+Mt0369,Sys0451,Motor Repair,Low,Mark Mora,Open,11,4320.07,2026-03-31
+Mt0370,Sys0052,Motor Repair,Low,Jason Maddox,Completed,16,3174.67,2026-03-25
+Mt0371,Sys0290,Sensor Replacement,Low,Andrea Lee,Open,23,1077.21,2026-03-19
+Mt0372,Sys0452,Sensor Replacement,Medium,Kristina Whitaker,In Progress,8,2337.42,2026-05-14
+Mt0373,Sys0137,Robot Calibration,Low,Mark Clark,Open,6,1251.32,2026-06-29
+Mt0374,Sys0177,Motor Repair,Medium,Derek Meyer,Completed,17,4154.79,2026-02-10
+Mt0375,Sys0294,Robot Calibration,Medium,John Dennis,In Progress,1,994.44,2026-01-25
+Mt0376,Sys0448,Robot Calibration,High,Erin Garcia,Open,24,1281.89,2026-03-25
+Mt0377,Sys0432,Sensor Replacement,Medium,Katrina Ruiz,In Progress,19,399.02,2026-05-28
+Mt0378,Sys0353,Motor Repair,Low,Robert Joyce,Completed,17,2282.59,2026-02-17
+Mt0379,Sys0362,Robot Calibration,Low,Kayla Jensen Dds,In Progress,1,4900.41,2026-07-07
+Mt0380,Sys0002,Robot Calibration,Low,Matthew Weaver,In Progress,11,3203.94,2026-03-06
+Mt0381,Sys0161,Motor Repair,High,Kari Lowery,Open,6,638.58,2026-02-22
+Mt0382,Sys0372,Robot Calibration,Low,Samuel Ruiz,Open,19,3096.35,2026-04-29
+Mt0383,Sys0428,Plc Failure,High,Stephanie Gray,Completed,16,2761.43,2026-01-25
+Mt0384,Sys0135,Motor Repair,Low,Mary Weaver,Open,16,4262.86,2026-03-15
+Mt0385,Sys0326,Motor Repair,High,Lisa Campbell,Completed,10,1266.22,2026-01-18
+Mt0386,Sys0259,Robot Calibration,Medium,Robert Sosa,Completed,15,445.9,2026-06-21
+Mt0387,Sys0373,Motor Repair,Low,Paul Park,In Progress,15,4247.56,2026-03-07
+Mt0388,Sys0494,Robot Calibration,Medium,Megan Smith,Open,14,4275.58,2026-01-27
+Mt0389,Sys0068,Motor Repair,Low,Taylor Gould,Open,18,4638.16,2026-06-14
+Mt0390,Sys0462,Plc Failure,Medium,Julie Torres,In Progress,10,4434.89,2026-06-17
+Mt0391,Sys0045,Robot Calibration,High,Julia Jones,In Progress,20,2942.02,2026-04-05
+Mt0392,Sys0481,Plc Failure,Low,Miss Jacqueline Mills,Open,16,4637.61,2026-04-21
+Mt0393,Sys0086,Plc Failure,Low,James Adams,In Progress,10,1805.7,2026-04-15
+Mt0394,Sys0358,Motor Repair,High,Dr. Nancy Harmon,In Progress,13,298.08,2026-03-16
+Mt0395,Sys0500,Sensor Replacement,Medium,Tara Black,Open,14,359.68,2026-03-08
+Mt0396,Sys0461,Plc Failure,Low,Anthony Roberson,In Progress,8,2332.19,2026-06-03
+Mt0397,Sys0469,Motor Repair,High,Tiffany Carlson,In Progress,8,1214.12,2026-06-04
+Mt0398,Sys0203,Motor Repair,High,Adrian Myers,Open,22,1212.75,2026-03-16
+Mt0399,Sys0419,Motor Repair,Medium,James Burke,In Progress,4,2830.37,2026-01-22
+Mt0400,Sys0070,Sensor Replacement,High,Chad Sheppard,Completed,14,2169.5,2026-04-09
+Mt0401,Sys0440,Motor Repair,High,Denise Bailey,In Progress,9,3925.29,2026-01-26
+Mt0402,Sys0315,Plc Failure,High,Laura Hughes,Open,17,3305.81,2026-07-11
+Mt0403,Sys0221,Robot Calibration,Low,Jenna Rush,In Progress,11,3446.01,2026-06-17
+Mt0404,Sys0414,Plc Failure,Medium,Nicholas Perez,Open,7,2948.68,2026-03-12
+Mt0405,Sys0105,Robot Calibration,High,Mark Hernandez,Completed,23,2672.18,2026-06-25
+Mt0406,Sys0317,Motor Repair,Medium,Gerald Wilson,Completed,24,4250.41,2026-03-03
+Mt0407,Sys0409,Robot Calibration,Low,Priscilla Mcmahon,In Progress,21,1652.88,2026-02-08
+Mt0408,Sys0071,Sensor Replacement,Low,Margaret Cordova,In Progress,15,481.68,2026-01-18
+Mt0409,Sys0332,Motor Repair,High,Jack Johnson,Completed,18,4348.73,2026-03-09
+Mt0410,Sys0350,Motor Repair,Low,Michele Taylor,Open,13,1188.48,2026-05-29
+Mt0411,Sys0430,Plc Failure,Low,Johnathan Ward,Open,6,2973.83,2026-04-17
+Mt0412,Sys0493,Plc Failure,Medium,Matthew Fernandez,Completed,19,2990.5,2026-05-22
+Mt0413,Sys0393,Plc Failure,High,Sabrina Keith,In Progress,18,4666.35,2026-03-21
+Mt0414,Sys0252,Plc Failure,High,Larry Jackson,Completed,14,3571.65,2026-04-06
+Mt0415,Sys0495,Sensor Replacement,Low,Ellen Osborn,Open,3,2396.2,2026-01-26
+Mt0416,Sys0469,Plc Failure,High,Jack Larson,Open,10,3131.58,2026-04-02
+Mt0417,Sys0088,Motor Repair,High,Marvin Rivas,Open,6,344.99,2026-04-04
+Mt0418,Sys0368,Sensor Replacement,Low,Jason Joyce,In Progress,8,4796.68,2026-04-06
+Mt0419,Sys0155,Plc Failure,Low,Alexander Reid,Open,12,3920.42,2026-03-30
+Mt0420,Sys0313,Motor Repair,Medium,Shawn Fuentes,Completed,13,3074.31,2026-06-19
+Mt0421,Sys0033,Robot Calibration,High,Cynthia Cherry,Open,7,209.56,2026-03-08
+Mt0422,Sys0133,Sensor Replacement,Medium,Lindsay Delgado,Completed,18,4579.82,2026-01-25
+Mt0423,Sys0381,Robot Calibration,High,John Lowe,Completed,2,3547.4,2026-03-31
+Mt0424,Sys0401,Plc Failure,Medium,Alex Roman,In Progress,18,735.9,2026-05-27
+Mt0425,Sys0242,Plc Failure,Medium,Douglas Holden,In Progress,13,4778.47,2026-02-24
+Mt0426,Sys0139,Sensor Replacement,High,Aaron Archer,Completed,11,4438.54,2026-06-26
+Mt0427,Sys0271,Plc Failure,Low,Stephen Lopez,Open,21,4284.39,2026-03-11
+Mt0428,Sys0452,Sensor Replacement,High,Joseph Miller,In Progress,3,1777.12,2026-05-11
+Mt0429,Sys0103,Motor Repair,Low,Christopher Collins,Completed,16,461.12,2026-03-04
+Mt0430,Sys0307,Sensor Replacement,Medium,Stephen Richardson,In Progress,10,404.15,2026-02-05
+Mt0431,Sys0451,Plc Failure,Low,Sharon Moreno,Completed,17,3219.7,2026-02-11
+Mt0432,Sys0017,Plc Failure,Medium,Michelle Mccall,Completed,13,921.07,2026-03-25
+Mt0433,Sys0085,Motor Repair,High,Ashley Fox,Completed,21,4376.57,2026-05-24
+Mt0434,Sys0152,Robot Calibration,High,Kristen Davis,Open,1,3370.46,2026-04-13
+Mt0435,Sys0010,Motor Repair,Low,Teresa Cruz,In Progress,17,3366.9,2026-06-04
+Mt0436,Sys0495,Robot Calibration,High,Daniel Moreno,Completed,21,3304.86,2026-02-12
+Mt0437,Sys0324,Robot Calibration,Low,John Bender,Completed,14,2791.22,2026-03-17
+Mt0438,Sys0217,Plc Failure,High,Anthony Young,In Progress,13,4321.18,2026-06-22
+Mt0439,Sys0088,Motor Repair,Medium,Ashley Reeves,Open,5,274.67,2026-01-12
+Mt0440,Sys0017,Sensor Replacement,Low,Jessica Phillips,Completed,20,776.23,2026-06-13
+Mt0441,Sys0030,Sensor Replacement,Medium,Jeremy Webb,Completed,22,4526.5,2026-05-31
+Mt0442,Sys0136,Robot Calibration,Medium,Tracy Shaffer,Completed,11,4054.73,2026-01-18
+Mt0443,Sys0196,Sensor Replacement,High,Jennifer Kidd,Open,11,4991.94,2026-01-14
+Mt0444,Sys0349,Motor Repair,Low,David Spencer,Completed,6,252.57,2026-06-27
+Mt0445,Sys0383,Robot Calibration,High,Amy Jones,In Progress,5,1631.63,2026-03-10
+Mt0446,Sys0337,Robot Calibration,Low,Richard Moon,Open,20,289.12,2026-04-22
+Mt0447,Sys0047,Sensor Replacement,Low,Kathryn Hicks,Open,12,1393.49,2026-07-11
+Mt0448,Sys0094,Robot Calibration,High,Richard Schmitt,Open,13,4150.01,2026-04-30
+Mt0449,Sys0475,Plc Failure,Low,Marissa Moses,In Progress,13,3315.32,2026-02-04
+Mt0450,Sys0230,Plc Failure,Low,Sarah Jackson,Open,8,2002.08,2026-05-21
+Mt0451,Sys0069,Robot Calibration,Low,Matthew Keller,Open,12,1267.07,2026-05-28
+Mt0452,Sys0392,Motor Repair,Medium,Terri Smith,In Progress,3,3559.58,2026-03-29
+Mt0453,Sys0418,Motor Repair,Medium,Michelle Barrera,Open,22,278.09,2026-05-17
+Mt0454,Sys0125,Motor Repair,High,Dawn Harris,Open,17,2824.56,2026-03-15
+Mt0455,Sys0061,Robot Calibration,High,Raymond Mays,In Progress,15,4990.77,2026-03-18
+Mt0456,Sys0128,Robot Calibration,Medium,Roger Jordan,In Progress,13,2173.35,2026-02-18
+Mt0457,Sys0102,Sensor Replacement,Low,Samantha Kent,Open,2,2029.57,2026-06-04
+Mt0458,Sys0414,Motor Repair,High,Miguel Ayala,In Progress,17,2157.21,2026-05-29
+Mt0459,Sys0300,Plc Failure,Low,Nicole James,Open,19,1689.98,2026-05-04
+Mt0460,Sys0419,Motor Repair,High,Richard King,Completed,5,3792.77,2026-05-20
+Mt0461,Sys0488,Robot Calibration,Low,Steven Kelly,In Progress,17,2057.37,2026-03-05
+Mt0462,Sys0085,Motor Repair,High,Dean Graham,In Progress,5,253.18,2026-03-01
+Mt0463,Sys0214,Motor Repair,Low,Daniel Roberts,Open,19,3000.35,2026-07-06
+Mt0464,Sys0091,Sensor Replacement,Medium,Marissa Wright,Open,20,4929.28,2026-05-28
+Mt0465,Sys0466,Sensor Replacement,High,Thomas Craig,In Progress,20,3997.4,2026-05-04
+Mt0466,Sys0376,Sensor Replacement,Low,Tom Fletcher,Open,18,3727.06,2026-01-13
+Mt0467,Sys0443,Motor Repair,High,Angel Mason,In Progress,15,3608.55,2026-03-31
+Mt0468,Sys0231,Sensor Replacement,Medium,Mary Frank,Open,1,1645.32,2026-03-25
+Mt0469,Sys0127,Robot Calibration,High,Emily Martin,Completed,2,2711.64,2026-02-20
+Mt0470,Sys0444,Robot Calibration,High,Philip Gonzalez,Completed,4,1771.38,2026-05-18
+Mt0471,Sys0309,Sensor Replacement,High,David Saunders,Completed,5,4957.0,2026-04-08
+Mt0472,Sys0207,Plc Failure,Low,Jennifer Henderson,Completed,3,1590.05,2026-04-07
+Mt0473,Sys0026,Motor Repair,Medium,Samantha Washington,Completed,20,3677.01,2026-05-09
+Mt0474,Sys0484,Plc Failure,Medium,Timothy Henry,In Progress,21,3374.41,2026-02-19
+Mt0475,Sys0437,Plc Failure,Medium,Margaret Green,In Progress,19,539.44,2026-05-29
+Mt0476,Sys0154,Plc Failure,Low,Tammie Peterson,Completed,17,4095.33,2026-03-05
+Mt0477,Sys0254,Robot Calibration,Low,Stephen Simon,In Progress,18,2456.37,2026-06-24
+Mt0478,Sys0017,Motor Repair,High,Nicole Flores,Open,22,2041.97,2026-05-13
+Mt0479,Sys0082,Sensor Replacement,Medium,Patricia Perry,Completed,11,3181.21,2026-03-19
+Mt0480,Sys0364,Sensor Replacement,Low,Jesse Martin,In Progress,6,1320.95,2026-06-11
+Mt0481,Sys0426,Sensor Replacement,Low,Keith Oliver,In Progress,16,4967.97,2026-06-27
+Mt0482,Sys0220,Plc Failure,High,John Gutierrez,Open,18,4547.57,2026-02-03
+Mt0483,Sys0206,Sensor Replacement,High,Robert Padilla,In Progress,2,3315.37,2026-03-27
+Mt0484,Sys0439,Robot Calibration,Medium,Zoe Watson,In Progress,5,4420.86,2026-01-19
+Mt0485,Sys0044,Motor Repair,High,Christopher Ho,Open,8,3214.15,2026-04-22
+Mt0486,Sys0002,Motor Repair,High,Logan Santiago,Open,14,682.42,2026-06-09
+Mt0487,Sys0270,Motor Repair,High,Mary Curry,Open,16,934.09,2026-02-01
+Mt0488,Sys0392,Robot Calibration,Low,Melissa Stevens,Open,8,4017.93,2026-06-15
+Mt0489,Sys0158,Motor Repair,Medium,Joseph Sutton,Completed,23,984.16,2026-05-24
+Mt0490,Sys0116,Plc Failure,High,Stephanie Buck,Completed,16,3370.29,2026-02-16
+Mt0491,Sys0162,Motor Repair,Low,Christina Henderson,Completed,2,2581.76,2026-05-19
+Mt0492,Sys0254,Sensor Replacement,High,Molly Bradley,Completed,3,2582.38,2026-05-27
+Mt0493,Sys0497,Robot Calibration,Low,Mrs. Kelly Harris Dvm,Completed,14,613.57,2026-02-19
+Mt0494,Sys0295,Sensor Replacement,Low,Cindy Hawkins,Completed,23,1800.92,2026-02-24
+Mt0495,Sys0319,Plc Failure,High,Julian Martinez,Completed,17,2524.54,2026-01-31
+Mt0496,Sys0108,Motor Repair,Low,Amanda Schwartz,Completed,10,3712.46,2026-04-15
+Mt0497,Sys0415,Robot Calibration,Medium,Teresa Newton,Open,15,1575.73,2026-05-08
+Mt0498,Sys0312,Plc Failure,Medium,Steven Hahn,Open,14,323.23,2026-05-19
+Mt0499,Sys0384,Motor Repair,Low,Ronnie Pham,Completed,11,4934.94,2026-05-20
+Mt0500,Sys0473,Plc Failure,High,Shawn Hayes,Open,14,1742.49,2026-04-19
